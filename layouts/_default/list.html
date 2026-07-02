@@ -1,0 +1,19 @@
+{{ define "main" }}
+<!-- 搜索栏 -->
+<div class="search-bar">
+    <input type="text" id="searchInput" placeholder="🔍 搜索所有新闻...">
+    <button id="searchBtn">搜索</button>
+</div>
+<div id="searchResults" class="search-results" style="display: none;"></div>
+
+<!-- 新闻列表 -->
+<div class="news-archive">
+    <h2>📰 新闻归档</h2>
+    {{ range .Pages }}
+    <article class="daily-news">
+        <h3><a href="{{ .RelPermalink }}">{{ .Date.Format "2006年1月2日" }}</a></h3>
+        {{ .Summary }}
+    </article>
+    {{ end }}
+</div>
+{{ end }}

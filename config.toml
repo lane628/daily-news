@@ -1,0 +1,20 @@
+# Hugo 配置 - 每日早报
+baseURL = "https://yourusername.github.io/daily-news/"
+title = "每日早报"
+
+# 禁用默认主题，使用自定义 layouts
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "每天自动更新的个人新闻聚合网站"
+  author = "Daily News Bot"
+  dateFormat = "2006年1月2日"
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

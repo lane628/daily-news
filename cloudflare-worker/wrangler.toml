@@ -1,0 +1,6 @@
+name = "daily-news-ai-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# API Key 通过 `npx wrangler secret put DEEPSEEK_API_KEY` 设置
+# 不要在此文件中硬编码任何密钥

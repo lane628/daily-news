@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | 每日早报</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    {{ $style := resources.Get "css/main.css" | minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js" as="script">
+    <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.1/dist/umd/index.min.js"></script>
+</head>
+<body>
+    <div class="layout">
+        <!-- 左侧边栏 -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1 class="site-title">📰 每日早报</h1>
+                <p class="site-desc">个人新闻聚合</p>
+            </div>
+
+            <!-- 日期导航 -->
+            <nav class="date-nav">
+                <h3>📅 日期导航</h3>
+                <ul class="date-list" id="dateList">
+                    {{- range (where .Site.RegularPages "Section" "daily") }}
+                    <li>
+                        <a href="{{ .RelPermalink }}" {{ if eq .RelPermalink $.RelPermalink }}class="active"{{ end }}>
+                            {{ .Date.Format "2006-01-02" }}
+                        </a>
+                    </li>
+                    {{- end }}
+                </ul>
+            </nav>
+
+            <!-- 行情速览 -->
+            <div class="market-widget">
+                <h3>📊 行情速览</h3>
+                <div id="marketQuotes"></div>
+            </div>
+        </aside>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            {{ block "main" . }}{{ end }}
+        </main>
+    </div>
+
+    <!-- AI 助手浮动气泡 -->
+    <div class="chat-bubble" id="chatBubble">
+        <span>🤖 问AI助手</span>
+    </div>
+
+    <!-- AI 聊天窗口 -->
+    <div class="chat-window" id="chatWindow" style="display: none;">
+        <div class="chat-header">
+            <span>🤖 AI 助手</span>
+            <button class="chat-close" id="chatClose">✕</button>
+        </div>
+        <div class="chat-messages" id="chatMessages"></div>
+        <div class="chat-shortcuts">
+            <button class="shortcut-btn" data-prompt="总结今天的新闻要点">📋 总结今天</button>
+            <button class="shortcut-btn" data-prompt="今天AI领域有什么重大进展">🤖 AI重点</button>
+            <button class="shortcut-btn" data-prompt="今天市场行情如何">💰 市场概况</button>
+        </div>
+        <div class="chat-input-area">
+            <input type="text" id="chatInput" placeholder="问点什么...">
+            <button id="chatSend">发送</button>
+        </div>
+    </div>
+
+    {{ $search := resources.Get "js/search.js" | minify }}
+    {{ $chat := resources.Get "js/chat.js" | minify }}
+    {{ $market := resources.Get "js/market.js" | minify }}
+    <script src="{{ $search.RelPermalink }}"></script>
+    <script src="{{ $chat.RelPermalink }}"></script>
+    <script src="{{ $market.RelPermalink }}"></script>
+</body>
+</html>

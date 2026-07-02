@@ -1,0 +1,9 @@
+[
+  {"id": 1, "title": "美团推出新一代AI配送调度系统，配送效率提升25%", "summary": "美团宣布上线全新的AI智能调度系统，通过深度强化学习优化骑手路径规划，使平均配送时间缩短8分钟。", "date": "2026-07-01", "category": "internet", "source": "36氪", "source_url": "https://example.com/1"},
+  {"id": 2, "title": "拼多多跨境电商Temu首次实现季度盈利", "summary": "拼多多旗下跨境电商平台Temu在2026年Q2首次实现季度盈利，主要得益于供应链效率提升和广告收入增长。", "date": "2026-07-01", "category": "internet", "source": "晚点LatePost", "source_url": "https://example.com/2"},
+  {"id": 3, "title": "字节跳动组织架构调整：AI业务升级为独立事业群", "summary": "字节跳动正式将AI相关业务从各事业线独立出来，成立AI事业群（AIG）。", "date": "2026-07-01", "category": "internet", "source": "虎嗅", "source_url": "https://example.com/3"},
+  {"id": 4, "title": "OpenAI发布GPT-5：多模态推理能力大幅跃进", "summary": "OpenAI正式发布GPT-5模型，在数学推理、代码生成和多模态理解方面取得重大突破。", "date": "2026-07-01", "category": "ai", "source": "机器之心", "source_url": "https://example.com/6"},
+  {"id": 5, "title": "DeepSeek-V4开源：32B参数超越GPT-4o", "summary": "中国AI公司深度求索发布DeepSeek-V4系列模型并完全开源，32B版本在多项基准测试中超越GPT-4o。", "date": "2026-07-01", "category": "ai", "source": "量子位", "source_url": "https://example.com/7"},
+  {"id": 6, "title": "A股三大指数集体收涨，半导体板块领涨", "summary": "7月首个交易日A股高开高走，上证指数收涨1.2%报3580点，半导体ETF单日涨超4%。", "date": "2026-07-01", "category": "finance", "source": "东方财富", "source_url": "https://example.com/11"},
+  {"id": 7, "title": "美联储暗示9月可能降息，美股三大指数创新高", "summary": "市场预期9月降息概率升至82%，纳指涨1.8%再创历史新高，突破20000点大关。", "date": "2026-07-01", "category": "finance", "source": "华尔街见闻", "source_url": "https://example.com/12"}
+]

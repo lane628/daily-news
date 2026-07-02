@@ -1,0 +1,12 @@
+{
+  "indices": [
+    {"name": "上证指数", "symbol": "000001.SS", "price": 3580.12, "change": 1.2},
+    {"name": "深证成指", "symbol": "399001.SZ", "price": 11256.78, "change": 1.5},
+    {"name": "创业板指", "symbol": "399006.SZ", "price": 2345.67, "change": 2.1},
+    {"name": "道琼斯", "symbol": "^DJI", "price": 42156.89, "change": 0.8},
+    {"name": "纳斯达克", "symbol": "^IXIC", "price": 20012.34, "change": 1.8},
+    {"name": "标普500", "symbol": "^GSPC", "price": 5678.90, "change": 1.1},
+    {"name": "恒生指数", "symbol": "^HSI", "price": 19876.54, "change": -0.3}
+  ],
+  "updated": "2026-07-01 09:00"
+}
