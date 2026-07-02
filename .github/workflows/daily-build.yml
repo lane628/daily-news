@@ -37,6 +37,8 @@ jobs:
 
       # 4. 抓取新闻（需要 DEEPSEEK_API_KEY）
       - name: Fetch daily news
+        timeout-minutes: 10
+        continue-on-error: true
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
@@ -48,6 +50,7 @@ jobs:
 
       # 5. 抓取市场行情
       - name: Fetch market data
+        timeout-minutes: 5
         run: python scripts/fetch_market.py
         continue-on-error: true
 
