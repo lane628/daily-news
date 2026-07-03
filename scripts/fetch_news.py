@@ -142,7 +142,8 @@ def fetch_10jqka(target_date: str) -> list:
             "Referer": "https://news.10jqka.com.cn/",
         }
         resp = requests.get("https://news.10jqka.com.cn/", headers=headers, timeout=15)
-        resp.encoding = "utf-8"
+        # 同花顺网页使用 GBK 编码
+        resp.encoding = "gbk"
 
         if resp.status_code != 200:
             print(f"    [WARNING] HTTP {resp.status_code}")
