@@ -4,7 +4,12 @@ on:
   schedule:
     # 每天早上 9:00 (UTC+8) = 1:00 UTC
     - cron: '0 1 * * *'
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:
+    inputs:
+      news_date:
+        description: '指定新闻日期 (YYYY-MM-DD)，留空则默认昨天'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -44,6 +49,7 @@ jobs:
         continue-on-error: true
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          NEWS_DATE: ${{ github.event.inputs.news_date }}
         run: |
           if [ -z "$DEEPSEEK_API_KEY" ]; then
             echo "⏭️ DEEPSEEK_API_KEY 未配置，跳过新闻抓取"
