@@ -7,15 +7,23 @@ import os
 from openai import OpenAI
 
 
+# 全局单例客户端
+_client = None
+
+
 def get_client():
-    """获取 DeepSeek API 客户端"""
+    """获取 DeepSeek API 客户端（单例复用）"""
+    global _client
+    if _client is not None:
+        return _client
     api_key = os.environ.get("DEEPSEEK_API_KEY")
     if not api_key:
         raise ValueError("环境变量 DEEPSEEK_API_KEY 未设置")
-    return OpenAI(
+    _client = OpenAI(
         api_key=api_key,
         base_url="https://api.deepseek.com"
     )
+    return _client
 
 
 def summarize_article(title: str, content: str, lang: str = "zh") -> str:
@@ -62,11 +70,14 @@ def summarize_article(title: str, content: str, lang: str = "zh") -> str:
             ],
             max_tokens=200,
             temperature=0.3,
+            timeout=30,
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
         print(f"  [WARNING] 摘要生成失败: {e}")
-        return content[:150] + "..."
+        # 降级：截取内容前 150 字作为摘要
+        fallback = content[:150].strip()
+        return (fallback + "...") if fallback else title
 
 
 def batch_summarize(articles: list) -> list:

@@ -297,11 +297,16 @@ def main():
         print(f"  共 {len(unique_articles)} 条，生成摘要中...")
 
         for article in unique_articles:
-            article["summary"] = summarize_article(
-                article["title"],
-                article["content"],
-                article["lang"]
-            )
+            try:
+                article["summary"] = summarize_article(
+                    article["title"],
+                    article["content"],
+                    article["lang"]
+                )
+            except Exception as e:
+                print(f"    [WARNING] 摘要生成异常: {e}")
+                fallback = article["content"][:150].strip()
+                article["summary"] = (fallback + "...") if fallback else article["title"]
 
         all_news[category] = unique_articles
 
