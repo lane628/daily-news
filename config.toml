@@ -1,5 +1,5 @@
 # Hugo 配置 - 每日早报
-baseURL = "https://yourusername.github.io/daily-news/"
+baseURL = "https://lane628.github.io/daily-news/"
 title = "每日早报"
 
 # 禁用默认主题，使用自定义 layouts
