@@ -3,20 +3,20 @@
     {
       "name": "上证指数",
       "symbol": "s_sh000001",
-      "price": 4039.75,
+      "price": 4039.67,
       "change": 0.27
     },
     {
       "name": "深证成指",
       "symbol": "s_sz399001",
-      "price": 15566.23,
-      "change": 0.43
+      "price": 15598.59,
+      "change": 0.64
     },
     {
       "name": "创业板指",
       "symbol": "s_sz399006",
-      "price": 4038.59,
-      "change": 0.53
+      "price": 4054.22,
+      "change": 0.92
     },
     {
       "name": "道琼斯",
@@ -39,9 +39,9 @@
     {
       "name": "恒生指数",
       "symbol": "^HSI",
-      "price": 23467.29,
-      "change": 2.56
+      "price": 23425.1,
+      "change": 2.38
     }
   ],
-  "updated": "2026-07-03 02:15"
+  "updated": "2026-07-03 02:26"
 }
