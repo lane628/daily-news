@@ -85,11 +85,13 @@ def fetch_feed(feed_config: dict, target_date: str) -> list:
             elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
                 pub_date = datetime(*entry.updated_parsed[:6]).strftime("%Y-%m-%d")
 
-            # 只保留目标日期的文章（容忍前一天）
+            # 只保留目标日期当天和前一天的文章
             target_dt = datetime.strptime(target_date, "%Y-%m-%d")
             if pub_date:
                 pub_dt = datetime.strptime(pub_date, "%Y-%m-%d")
                 if pub_dt < target_dt - timedelta(days=1):
+                    continue
+                if pub_dt > target_dt:
                     continue
 
             # 提取图片
