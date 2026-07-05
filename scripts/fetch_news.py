@@ -260,10 +260,9 @@ def generate_markdown(all_news: dict, target_date: str) -> str:
 def main():
     """主流程"""
     # 目标日期（默认昨天）
-    target_date = os.environ.get(
-        "NEWS_DATE",
-        (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
-    )
+    target_date = os.environ.get("NEWS_DATE", "").strip()
+    if not target_date:
+        target_date = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     print(f"=== 每日新闻抓取 · 目标日期: {target_date} ===\n")
 
     all_news = {}
