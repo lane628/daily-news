@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "IDEA 里跑 Claude Code 和 Codex 的最佳搭子，3.3k Star 开源免费太爽了！",
+    "summary": "一款名为Claude Code的开源工具（3.3k Star）在IDEA中运行效果极佳，能显著提升编程效率。用户常犯的错误是将其当作ChatGPT使用，或缺乏对关键功能（如/compact指令、CLAUDE.md配置、Subagents）的掌握，导致效率相差悬殊。正确使用该工具可避免低效的代码修改和摸索过程。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/50658.html"
+  },
+  {
+    "id": 2,
+    "title": "让AI写后端，我多花10分钟测试，省下半天debug",
+    "summary": "东哥在Vibe Coding AI编程实战系列中，将后端开发拆分为多个阶段，并采用“测试先行”策略，通过多花10分钟测试来避免数小时的调试。他先搭建前后端脚手架并验证，再逐步实现前端UI和后端核心的模型接入与NL2SQL功能，确保模块间接口正确。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/50640.html"
+  },
+  {
+    "id": 3,
+    "title": "Orca：给多 Agent 时代的开发者重新造一个 IDE",
+    "summary": "Orca 旨在解决多 Agent 协作开发时 IDE 缺乏基础设施的问题，例如多个 Agent 同时工作时文件相互覆盖。它不直接与 Cursor、Claude Code 等工具竞争代码生成能力，而是专注于为 Claude Code、Codex、OpenCode 等现有工具提供更上层的协作支持。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/49563.html"
+  },
+  {
+    "id": 4,
+    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "summary": "OpenAI正在升级ChatGPT的语音模式，新模型GPT-Live-1旨在减少打断用户，并能在对话停顿中等待用户继续发言。OpenAI研究负责人Kundan Kumar在新闻发布会上称，该模型更接近“与人对话”的体验。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
+  },
+  {
+    "id": 5,
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "summary": "Meta旗下超级智能实验室发布了首个AI图像生成模型Muse Image，该模型已应用于Meta AI、Instagram和WhatsApp的图像工具，并将很快登陆Facebook和Messenger。这是不断扩展的Muse系列AI模型的一部分。",
+    "image_url": "",
+    "date": "2026-07-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+  },
+  {
+    "id": 6,
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "summary": "Anthropic将于周二首次在移动端和网页端推出Claude Cowork AI平台，该扩展功能将优先向Max订阅用户开放，其他套餐用户将在未来几周内获得访问权限。此前，Claude Cowork仅可通过macOS和Windows的桌面应用使用。",
+    "image_url": "",
+    "date": "2026-07-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
+  },
+  {
+    "id": 7,
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "summary": "Solos发布了新款AirGo A6智能眼镜，重量仅约19克，比上一代A5（36-40克）大幅减轻。该眼镜取消了摄像头设计，采用更简洁的外观，并搭载基于语音交互的AI助手。",
+    "image_url": "",
+    "date": "2026-07-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"
+  },
+  {
+    "id": 8,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容似乎不完整，仅包含标题“查看网站地图”，缺少具体新闻正文。请补充完整内容，以便我为您提炼摘要。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 9,
+    "title": "商务部召开加快零售业创新发展专题新闻发布会",
+    "summary": "商务部召开专题新闻发布会，聚焦加快零售业创新发展。会议提出将通过数字化赋能、业态创新等措施推动行业转型升级。相关负责人强调将优化政策环境，支持零售企业提升竞争力。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678074365.shtml"
+  },
+  {
+    "id": 10,
+    "title": "【何亚东】:各位记者朋友们，大家下午好。欢迎参加今天的专题发布会。近日，商务部联合多部门印发了《关于加快零售业创新发展的意见》。为帮助大家更好地了解相关情况，今天我们非常高兴地 ...",
+    "summary": "商务部联合多部门近日印发《关于加快零售业创新的意见》，旨在推动零售业转型升级。该意见由商务部发言人何亚东在专题发布会上介绍，旨在帮助公众了解相关政策。具体措施包括鼓励零售企业创新模式、提升服务体验等。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678074365.shtml"
+  },
+  {
+    "id": 11,
+    "title": "商务部：将进一步加强支持实体零售",
+    "summary": "商务部表示将进一步加强支持实体零售，推动线上线下融合发展。具体措施包括优化营商环境、降低企业成本，并鼓励零售企业创新转型。此举旨在促进消费升级，稳定市场预期。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678073894.shtml"
+  },
+  {
+    "id": 12,
+    "title": "人民财讯7月9日电，在商务部今天(7月9日)举行的专题新闻发布会上，商务部有关负责人表示，将进一步加强支持实体零售，夯实活跃线下消费的根基。负责人介绍说，实体零售是零售业的根本、商品 ...",
+    "summary": "商务部在7月9日的专题新闻发布会上表示，将进一步加强支持实体零售，夯实活跃线下消费的根基。相关负责人指出，实体零售是零售业的根本。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678073894.shtml"
+  },
+  {
+    "id": 13,
+    "title": "商务部：将围绕交通、演出等出台一批服务消费新举措",
+    "summary": "商务部宣布将围绕交通、演出等领域出台一批服务消费新举措，以进一步激发市场活力。这些措施旨在优化消费环境，推动服务消费提质扩容。具体政策细节将在后续公布。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678073867.shtml"
+  },
+  {
+    "id": 14,
+    "title": "人民财讯7月9日电，今天(7月9日)，商务部举行专题新闻发布会。商务部服贸司副司长左晓玻表示，商务部将推动扩大服务消费，加力扩大优质服务供给。着力提升文化娱乐、旅游休闲、体育赛事等领 ...",
+    "summary": "商务部服贸司副司长左晓玻在7月9日的专题新闻发布会上表示，商务部将推动扩大服务消费，加力扩大优质服务供给。重点提升文化娱乐、旅游休闲、体育赛事等领域的服务品质。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678073867.shtml"
+  },
+  {
+    "id": 15,
+    "title": "人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》",
+    "summary": "人力资源社会保障部近日印发《人力资源和社会保障事业发展“十五五”规划》，明确了未来五年就业、社保、人才等领域的重点任务。规划提出，到2030年要实现城镇新增就业5500万人以上，基本养老保险参保率达到95%。该规划由人社部牵头制定，旨在推动人力资源社会保障事业高质量发展。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678071794.shtml"
+  },
+  {
+    "id": 16,
+    "title": "本报讯(记者张芗逸)记者7月9日自人力资源社会保障部获悉，近日，人力资源社会保障部印发《人力资源和社会保障事业发展“十五五”规划》(以下简称《规划》)。《规划》深入贯彻党的二十届四中 ...",
+    "summary": "人力资源社会保障部近日印发《人力资源和社会保障事业发展“十五五”规划》，该规划深入贯彻党的二十届四中全会精神，对“十五五”时期人社事业发展作出部署。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678071794.shtml"
+  },
+  {
+    "id": 17,
+    "title": "利好来了！国务院重磅印发",
+    "summary": "国务院近日印发重磅文件，推出新一轮稳增长政策，重点包括加大财政货币政策力度、优化营商环境等举措。文件明确要求加快落实已出台的减税降费措施，并强调对中小微企业的金融支持。此次政策旨在提振市场信心，推动经济持续回升向好。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678070763.shtml"
+  },
+  {
+    "id": 18,
+    "title": "日前，国务院印发《“十五五”碳达峰行动方案》(以下简称《行动方案》)，对“十五五”时期碳达峰工作作出部署。《行动方案》强调，坚持以习近平新时代中国特色社会主义思想为指导，发挥碳达 ...",
+    "summary": "国务院日前印发《“十五五”碳达峰行动方案》，对2026-2030年碳达峰工作作出全面部署。《行动方案》强调以习近平新时代中国特色社会主义思想为指导，明确将推动能源、工业、交通等重点领域绿色低碳转型。方案提出到2030年非化石能源消费比重达到25%左右等具体目标。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678070763.shtml"
+  },
+  {
+    "id": 19,
+    "title": "整治违规招商引资涉税乱象 虚假繁荣背后的秩序重构",
+    "summary": "中国正大力整治违规招商引资中的涉税乱象，旨在打破地方保护主义和虚假繁荣。国务院已发布《公平竞争审查条例》，明确禁止税收优惠等不当干预市场的行为。专家指出，此举将重构市场秩序，推动经济高质量发展。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678070056.shtml"
+  },
+  {
+    "id": 20,
+    "title": "没有厂房轰鸣，没有货物流转，没有实际用工，十几家企业常年空转，唯一的经营活动是开票走账。这般看似虚无的经营状态，却通过不断地开票走账，撬动了数十亿元的企业营收，再利用当地违规奖 ...",
+    "summary": "十几家企业通过无实际经营活动的开票走账，虚构了数十亿元营收，并利用当地违规奖励政策牟利。这种空转模式虽无厂房和实际用工，却持续多年运作。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678070056.shtml"
+  },
+  {
+    "id": 21,
+    "title": "黄河水利委员会党组传达学习贯彻习近平总书记对防汛救灾工作作出的重要指示精神",
+    "summary": "黄河水利委员会党组召开会议，传达学习习近平总书记对防汛救灾工作的重要指示精神。会议强调要坚决贯彻总书记要求，全力做好黄河防汛救灾工作，确保人民群众生命财产安全。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678066678.shtml"
+  },
+  {
+    "id": 22,
+    "title": "本站讯7月8日，黄河水利委员会召开党组会议，传达学习习近平总书记对防汛救灾工作作出的重要指示精神，在7月6日晚安排部署防汛抗旱工作的基础上，结合黄委实际进一步部署贯彻落实工作。会议 ...",
+    "summary": "黄河水利委员会于7月8日召开党组会议，传达学习习近平总书记对防汛救灾工作的重要指示精神。会议在7月6日晚部署防汛抗旱工作的基础上，结合黄委实际进一步细化落实措施。",
+    "image_url": "",
+    "date": "2026-07-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260709/c678066678.shtml"
+  }
+]
