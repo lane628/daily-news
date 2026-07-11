@@ -21,20 +21,20 @@
     {
       "name": "道琼斯",
       "symbol": "^DJI",
-      "price": 52487.41,
-      "change": -0.83
+      "price": 52637.01,
+      "change": 0.55
     },
     {
       "name": "纳斯达克",
       "symbol": "^IXIC",
-      "price": 26206.89,
-      "change": 1.5
+      "price": 26281.61,
+      "change": 1.59
     },
     {
       "name": "标普500",
       "symbol": "^GSPC",
-      "price": 7543.64,
-      "change": 0.53
+      "price": 7575.39,
+      "change": 1.24
     },
     {
       "name": "恒生指数",
@@ -43,5 +43,5 @@
       "change": -0.1
     }
   ],
-  "updated": "2026-07-10 11:41"
+  "updated": "2026-07-11 07:30"
 }
