@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT 真追上 Claude 了吗？一篇看懂两大办公 Agent 正面对决",
+    "summary": "OpenAI于7月9日发布GPT-5.6模型及新桌面应用ChatGPT Work，宣称其能直接产出表格、文档、PPT等成果，而非仅提供聊天记录。此举直接对标Anthropic于今年1月推出的Claude Cowork办公Agent，两大AI办公助手正式展开正面竞争。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/52183.html"
+  },
+  {
+    "id": 2,
+    "title": "我试了这个1.7k star的工具，网页提取居然能快 20 倍",
+    "summary": "GitHub上一个名为webclaw的Rust网页提取工具获得1.7K星标，能快速提取网页核心内容，避免导航栏、广告等干扰。该工具解决了传统复制粘贴和浏览器自动化工具效率低、易被反爬机制拦截的问题，提取速度提升20倍。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/52133.html"
+  },
+  {
+    "id": 3,
+    "title": "大模型本地部署最强引擎，vLLM 大版本更新",
+    "summary": "vLLM发布v0.25正式版，这是继月初v0.24后的又一次大版本更新。新版本新增对小米MiMo-V2.5、Laguna XS.2、Moondream3及Qianfan等多种模型架构的支持。更新核心模块包括新模型支持、架构优化及性能提升。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/52246.html"
+  },
+  {
+    "id": 4,
+    "title": "FUNCAPTCHAV3：一个专为 Roblox 自动化打造的 FunCaptcha 一站式破解服务",
+    "summary": "FunCaptcha是Arkose Labs推出的旋转图片验证系统，在Roblox自动化中常导致账号管理脚本触发captcha_required错误，即使更换代理、Cookie或设备指纹也无法绕过。该验证要求用户从3D渲染的动物图片中选出特定目标，且失败后难度会逐步升级。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/51817.html"
+  },
+  {
+    "id": 5,
+    "title": "OpenAI Speech Skill：把语音生成从“一次性调用”变成“可复现工程”",
+    "summary": "OpenAI推出的Speech Skill将语音生成从一次性API调用转变为可复现的工程任务，其核心设计强调使用捆绑CLI实现确定性和可重复性。与ElevenLabs等传统TTS方案不同，该技能并非单纯生成声音，而是构建了一个工程化的语音生成流程。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/51801.html"
+  },
+  {
+    "id": 6,
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "summary": "Lorde在周四马德里Real Cool音乐节演出时，公开批评AI眼镜“不性感”。尽管未点名具体品牌，但很可能针对的是音乐节赞助商雷朋与Meta合作推出的AI智能眼镜。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
+  },
+  {
+    "id": 7,
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "summary": "苹果的自动驾驶汽车项目虽未成功落地，但其研发过程中催生了强大的AI芯片。项目早期，苹果意识到需要强大的设备端AI处理能力，这一需求推动了芯片技术的突破。据Mark Gurman透露，尽管汽车处理器最终未能完成，但相关技术遗产已融入苹果现有产品。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+  },
+  {
+    "id": 8,
+    "title": "The fight against AI data centers is just beginning",
+    "summary": "AI数据中心建设引发的争议才刚刚开始。据《The Stepback》周刊报道，早在AI热潮威胁地方电力供应之前，相关问题就已埋下伏笔。该刊记者Emma Roth将持续追踪数据中心扩建动态。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/column/963346/ai-data-centers-fight"
+  },
+  {
+    "id": 9,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的内容中标题和内容均不完整，无法进行准确概括。请提供完整的新闻文本。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 10,
+    "title": "国务院批复同意《扩大消费“十五五”规划》",
+    "summary": "国务院批复同意《扩大消费“十五五”规划》，旨在通过优化消费环境、提升消费能力等措施，进一步释放内需潜力。规划提出到2030年，社会消费品零售总额目标达到60万亿元，年均增长约5%。该规划由商务部牵头制定，将重点推动绿色消费、数字消费等新型消费领域发展。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678143311.shtml"
+  },
+  {
+    "id": 11,
+    "title": "7月13日，中国政府网发布《国务院关于的批复》称，国务院原则同意《扩大消费“十五五”规划》(以下简称《规划》)。《规划》实施涉及的重要政策、重大工程、重点项目要按程序报批。国家发展 ...",
+    "summary": "7月13日，国务院批复原则同意《扩大消费“十五五”规划》，要求重要政策、重大工程和重点项目按程序报批。该规划旨在推动消费扩容提质，具体实施细节待后续公布。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678143311.shtml"
+  },
+  {
+    "id": 12,
+    "title": "国务院批复！《扩大消费“十五五”规划》出炉",
+    "summary": "国务院批复《扩大消费“十五五”规划》，重点部署消费升级与内需扩大。规划提出到2030年，社会消费品零售总额目标突破60万亿元，并强调培育新型消费、优化消费环境。该规划由商务部牵头制定，将推动数字消费、绿色消费等领域发展。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678143251.shtml"
+  },
+  {
+    "id": 13,
+    "title": "据中国政府网13日消息，国务院印发关于《扩大消费“十五五”规划》的批复，原则同意《扩大消费“十五五”规划》(以下简称《规划》)。《规划》包括3大部分：第一部分为总体要求，明确了“十 ...",
+    "summary": "国务院印发《扩大消费“十五五”规划》并原则同意，规划分为三大部分，其中第一部分明确了总体要求。该规划旨在系统部署未来五年扩大消费的重点任务与政策方向。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678143251.shtml"
+  },
+  {
+    "id": 14,
+    "title": "李强主持召开经济形势专家和企业家座谈会",
+    "summary": "李强主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议。与会专家和企业家就经济运行、政策落实等议题进行了深入讨论。李强强调要坚定信心，扎实推动高质量发展。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678142971.shtml"
+  },
+  {
+    "id": 15,
+    "title": "新华社北京7月13日电 中共中央政治局常委、国务院总理李强7月13日下午主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议。 ...",
+    "summary": "李强总理7月13日在北京主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议。与会专家和企业家就经济运行、政策落实等进行了深入讨论。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678142971.shtml"
+  },
+  {
+    "id": 16,
+    "title": "事关扩大消费，国务院最新发文！来看十大要点",
+    "summary": "国务院发文部署扩大消费措施，提出十大要点，包括优化汽车限购、支持新能源汽车下乡、推动家电以旧换新等。文件强调要释放农村消费潜力，并鼓励地方发放消费券。具体政策将围绕稳定大宗消费、促进服务消费等领域展开。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678142754.shtml"
+  },
+  {
+    "id": 17,
+    "title": "促进消费制度机制进一步完善，清理优化消费领域不合理限制性措施取得积极成效，扩大居民消费长效机制更加健全，消费政策与其他经济社会政策协同联动进一步增强，形成更高水平更具活力的消费 ...",
+    "summary": "促进消费制度机制进一步完善，清理优化消费领域不合理限制性措施取得积极成效，扩大居民消费长效机制更加健全。消费政策与其他经济社会政策协同联动进一步增强，形成更高水平更具活力的消费环境。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678142754.shtml"
+  },
+  {
+    "id": 18,
+    "title": "盘后利好！《扩大消费“十五五”规划》《国民健康“十五五”规划》发布",
+    "summary": "盘后，《扩大消费“十五五”规划》与《国民健康“十五五”规划》正式发布，旨在推动消费升级与国民健康水平提升。两项规划聚焦未来五年发展目标，为相关领域提供政策指引。具体实施细节及关键数据有待后续公布。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678141698.shtml"
+  },
+  {
+    "id": 19,
+    "title": "到2030年，消费市场总体规模持续扩大，居民消费率明显提高，全社会商品和服务消费较快增长，社会消费品零售总额达到60万亿元左右。利好来了。据中国政府网13日消息，国务院发布关于《扩大消 ...",
+    "summary": "国务院发布《扩大消费》政策文件，提出到2030年消费市场总体规模持续扩大，居民消费率明显提高，社会消费品零售总额目标达到60万亿元左右。该政策旨在推动全社会商品和服务消费较快增长。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678141698.shtml"
+  },
+  {
+    "id": 20,
+    "title": "国务院国资委党委召开树立和践行正确政绩观学习教育工作专班会",
+    "summary": "国务院国资委党委召开树立和践行正确政绩观学习教育工作专班会，强调要深入学习贯彻相关精神，推动党员干部树立正确政绩观。会议部署了具体工作安排，要求各级党组织压实责任，确保学习教育取得实效。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678141404.shtml"
+  },
+  {
+    "id": 21,
+    "title": "7月9日，国务院国资委党委召开树立和践行正确政绩观学习教育工作专班会，传达学习习近平党建思想，落实中央党的建设工作领导小组会议精神，听取国资央企学习教育工作进展和督导组工作情况， ...",
+    "summary": "7月9日，国务院国资委党委召开专题会议，传达学习习近平党建思想，落实中央党的建设工作领导小组会议精神。会议听取了国资央企学习教育工作进展及督导组工作情况，强调要树立和践行正确政绩观。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678141404.shtml"
+  },
+  {
+    "id": 22,
+    "title": "利好来了！刚刚，国务院重磅发布！事关扩大消费",
+    "summary": "国务院发布重磅政策，聚焦扩大消费以提振经济。文件提出多项具体措施，包括优化消费环境、促进重点领域消费等。此举旨在通过释放内需潜力，推动经济持续回升向好。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678140996.shtml"
+  },
+  {
+    "id": 23,
+    "title": "事关扩大消费，国务院最新发文。7月13日，据中国政府网，国务院发布关于《扩大消费“十五五”规划》（以下简称《规划》）的批复，其中提出，到2030年，消费市场总体规模持续扩大，居民消费 ...",
+    "summary": "国务院发布《扩大消费“十五五”规划》批复，提出到2030年消费市场总体规模持续扩大。该规划旨在推动居民消费升级，促进经济高质量发展。",
+    "image_url": "",
+    "date": "2026-07-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260713/c678140996.shtml"
+  }
+]
