@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+    "summary": "理想L6换代车型以24.98万元起售，搭载与L9同款的自研芯片及中控屏，配置全面升级但未涨价。新车一个版本即提供满配，最快下周一提车。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451576.html"
+  },
+  {
+    "id": 2,
+    "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+    "summary": "银河通用发布全球首个仅需人类视频即可部署的机器人新框架，无需传统编程或仿真训练。该框架支持机器人边执行任务边自主学习，显著降低部署成本。特斯拉等企业可能面临技术路线竞争压力。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451403.html"
+  },
+  {
+    "id": 3,
+    "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+    "summary": "中国移动投资友机技术，押注工业AI下一代基础设施，标志着工业母机进入“计算化时刻”。此次合作旨在通过AI技术提升工业母机的智能化水平，推动制造业数字化转型。具体投资金额及合作细节尚未完全披露。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451371.html"
+  },
+  {
+    "id": 4,
+    "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+    "summary": "无问芯穹与清华大学联合推出RLinf v0.3版本，实现从模型生态到真机部署的五大能力跃升。该版本旨在构建新一代“进化底座”，以破解具身智能行业的发展瓶颈。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451379.html"
+  },
+  {
+    "id": 5,
+    "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+    "summary": "文远知行孵化出具身智能领域的首个“基建商”，其发展路径与英伟达、宁德时代相似。该公司通过提供底层基础设施，推动具身智能技术的商业化应用。这一模式有望复制英伟达在AI芯片和宁德时代在电池领域的成功经验。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451327.html"
+  },
+  {
+    "id": 6,
+    "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+    "summary": "逐际动力发布了一段Demo，强调不要赌某个模型能通吃一切。Figure公司对此表示担忧。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451084.html"
+  },
+  {
+    "id": 7,
+    "title": "一位失忆患者，揭开了AI记忆的误区",
+    "summary": "一位失忆患者的研究揭示了AI记忆的误区，表明记忆并非单一整体，而是能够独立成层。这一发现挑战了当前人工智能对记忆机制的模拟方式，为改进AI系统提供了新视角。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/07/451049.html"
+  },
+  {
+    "id": 8,
+    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+    "summary": "纽约州长凯西·霍楚尔表示，其团队正利用人工智能分析该州“每一条规则、法规和政策”，以排查过时内容。尽管她刚签署了暂停新建AI数据中心的禁令，但本人并不反对使用这项技术。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
+  },
+  {
+    "id": 9,
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "summary": "谷歌将其AI笔记应用NotebookLM更名为Gemini Notebook，但仍作为独立应用运行，同时与Gemini及谷歌搜索深度整合。该应用最初于2023年5月以Project Tailwind项目名亮相，随后正式发布。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
+  },
+  {
+    "id": 10,
+    "title": "Claude can now use your 1Password credentials for you",
+    "summary": "1Password推出了针对Claude的浏览器集成功能，允许Anthropic聊天机器人访问用户存储的登录凭证。用户可授权Claude自动完成预订旅行、管理在线账户等多步骤任务，无需手动输入密码。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
+  },
+  {
+    "id": 11,
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "summary": "欧盟依据数字反垄断法规，要求谷歌必须向竞争对手开放安卓系统和谷歌搜索的关键部分，允许其他AI助手和搜索引擎获得更大访问权限。这两项于周四宣布的决定，可能削弱谷歌对科技行业两大核心平台的控制权。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
+  },
+  {
+    "id": 12,
+    "title": "Computer cops",
+    "summary": "在德克萨斯州沃斯堡市中心，一座庞大的玻璃砖建筑前聚集了数千人，参加被称为“数字时代警务未来”的活动。作为媒体人员，我被禁止入场，但在附近与多位与会者交流，了解了活动内容。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops"
+  },
+  {
+    "id": 13,
+    "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+    "summary": "马斯克旗下的xAI公司起诉一名南卡罗来纳州男子，指控其利用该公司Grok AI聊天机器人生成儿童性虐待材料（CSAM）。xAI在诉讼中称，Terry Wayne Harwood“明知且故意使用Grok绕过安全防护、篡改非自愿图像，并生成和传播CSAM”，违反了相关规定。",
+    "image_url": "",
+    "date": "2026-07-15",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
+  },
+  {
+    "id": 14,
+    "title": "AI slop movies are the new direct-to-video cash grabs",
+    "summary": "本周末，全球影迷将涌入影院观看克里斯托弗·诺兰改编的新片《奥德赛》，预计首周末票房将达8000万至1亿美元。观众热切期待诺兰如何运用尖端电影技术呈现荷马史诗。与此同时，AI生成的粗制滥造电影正成为新时代的“直接发行录像带”式捞钱手段。",
+    "image_url": "",
+    "date": "2026-07-15",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
+  },
+  {
+    "id": 15,
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "summary": "据404 Media报道，黑客事件泄露的数据显示，AI音乐生成器Suno从YouTube Music、Deezer和Genius等平台抓取了数百万首歌曲和歌词用于训练。Suno此前一直未公开其训练数据集的内容及获取方式，此次泄露罕见地揭示了其数据来源。",
+    "image_url": "",
+    "date": "2026-07-15",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的内容似乎不完整，缺少具体的新闻正文。请补充新闻内容，以便我为您提炼摘要。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "今年拟再推出“一揽子”政策！外汇局最新发声",
+    "summary": "国家外汇管理局表示，今年拟再推出“一揽子”政策以稳定外汇市场。具体措施将聚焦于优化跨境资金流动管理，并强调政策将更具针对性和灵活性。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678253672.shtml"
+  },
+  {
+    "id": 18,
+    "title": "2026年上半年，面对跌宕起伏的外部形势，我国外汇市场经受住外部冲击保持稳健运行，呈现出较强活力和韧性。据国家外汇管理局新闻发言人、副局长李斌在7月17日举行的国新办新闻发布会上介绍 ...",
+    "summary": "2026年上半年，我国外汇市场在外部形势跌宕起伏中保持稳健运行，展现出较强活力和韧性。国家外汇管理局新闻发言人、副局长李斌在7月17日国新办发布会上介绍了相关情况。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678253672.shtml"
+  },
+  {
+    "id": 19,
+    "title": "预告：国新办就以海关工作现代化助力“十五五”高质量开局起步有关情况举行新闻发布会",
+    "summary": "国务院新闻办公室将于近期举行新闻发布会，主题为以海关工作现代化助力“十五五”高质量开局起步。发布会将介绍海关在推动高质量发展、优化营商环境等方面的具体举措和成效。具体时间及出席人员信息将另行公布。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678251928.shtml"
+  },
+  {
+    "id": 20,
+    "title": "上证报中国证券网讯据中国网消息，国务院新闻办公室定于2026年7月22日(星期三)上午10时举行“开局起步‘十五五’”系列主题新闻发布会，海关总署署长孙梅君介绍以海关工作现代化助力“十五 ...",
+    "summary": "国务院新闻办公室将于2026年7月22日上午10时举行“开局起步‘十五五’”系列主题新闻发布会。海关总署署长孙梅君将介绍以海关工作现代化助力“十五五”开局的相关情况。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678251928.shtml"
+  },
+  {
+    "id": 21,
+    "title": "预告：国新办就2026年上半年工业和信息化发展情况举行新闻发布会",
+    "summary": "国务院新闻办公室将于2026年7月20日下午3时举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部新闻发言人赵志国、张云明将出席并答记者问。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678251923.shtml"
+  },
+  {
+    "id": 22,
+    "title": "上证报中国证券网讯据中国网消息，国务院新闻办公室定于2026年7月20日(星期一)上午10时举行新闻发布会，工业和信息化部总工程师王卫明介绍2026年上半年工业和信息化发展情况，并答记者问。 ...",
+    "summary": "国务院新闻办公室将于2026年7月20日上午10时举行新闻发布会，工业和信息化部总工程师王卫明将介绍2026年上半年工业和信息化发展情况，并回答记者提问。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678251923.shtml"
+  },
+  {
+    "id": 23,
+    "title": "外交部：要求美方立即撤销对中国记者的歧视性政策",
+    "summary": "外交部发言人要求美方立即撤销对中国记者的歧视性政策。美方长期对中国记者采取签证限制、入境审查等不公正措施，严重违反国际新闻自由原则。中方敦促美方停止政治打压，为两国媒体正常交流创造公平环境。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250734.shtml"
+  },
+  {
+    "id": 24,
+    "title": "据新华社，针对特朗普政府称将缩短记者签证停留期限，其中可能包括中国记者，外交部发言人林剑7月17日在例行记者会上答问时说，美方对人文交流设限不符合任何一方的利益，对美方针对特定国 ...",
+    "summary": "据新华社报道，针对特朗普政府拟缩短记者签证停留期限、可能涉及中国记者一事，外交部发言人林剑7月17日回应称，美方限制人文交流不符合任何一方利益。林剑指出，美方针对特定国家人员的做法有失公平。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250734.shtml"
+  },
+  {
+    "id": 25,
+    "title": "上半年全国法院受理案件2131万件",
+    "summary": "上半年全国法院共受理案件2131万件，案件数量持续高位运行。其中，民事案件占比最大，刑事案件数量有所下降。最高人民法院强调将进一步提升审判质效，确保司法公正。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250706.shtml"
+  },
+  {
+    "id": 26,
+    "title": "新华社电 记者7月16日从最高人民法院获悉，2026年上半年全国法院受理各类案件2131.65万件，同比上升1.15%，其中刑事、民商事案件同比有所下降，行政、执行案件同比有所上升。在刑事案件审判 ...",
+    "summary": "2026年上半年全国法院受理各类案件2131.65万件，同比上升1.15%。其中刑事、民商事案件同比下降，行政、执行案件同比上升。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250706.shtml"
+  },
+  {
+    "id": 27,
+    "title": "国家质量强国建设专家咨询委员会第一次全体会议在京召开",
+    "summary": "国家质量强国建设专家咨询委员会第一次全体会议在北京召开。会议围绕质量强国战略实施展开讨论，并明确了专家咨询委员会的工作方向与重点任务。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250296.shtml"
+  },
+  {
+    "id": 28,
+    "title": "人民财讯7月17日电，7月16日，国家质量强国建设专家咨询委员会第一次全体会议在北京召开。会议强调，党的二十届四中全会对加快建设质量强国作出了明确部署，“十五五”时期是质量强国建设承 ...",
+    "summary": "国家质量强国建设专家咨询委员会第一次全体会议7月16日在北京召开。会议指出，党的二十届四中全会已对加快建设质量强国作出明确部署，“十五五”时期是质量强国建设的关键阶段。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250296.shtml"
+  },
+  {
+    "id": 29,
+    "title": "上半年全国法院受理各类案件2131.65万件",
+    "summary": "上半年全国法院共受理各类案件2131.65万件，同比增长显著。其中，民事案件占比最高，刑事案件数量有所下降。最高人民法院院长张军表示，法院系统将继续优化审判质效，保障司法公正。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250049.shtml"
+  },
+  {
+    "id": 30,
+    "title": "7月16日，最高人民法院发布的2026年上半年审判工作数据显示，上半年人民法院共受理各类案件2131.65万件，同比上升1.15%。其中，受理刑事一审案件47.10万件，同比下降11.18%，判处生效被告人 ...",
+    "summary": "7月16日，最高人民法院发布2026年上半年审判工作数据，上半年全国法院共受理各类案件2131.65万件，同比上升1.15%。其中，刑事一审案件受理47.10万件，同比下降11.18%，判处生效被告人数量相应减少。",
+    "image_url": "",
+    "date": "2026-07-16",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260717/c678250049.shtml"
+  }
+]
