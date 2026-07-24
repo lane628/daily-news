@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "title": "氪星晚报 ｜马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；字节跳动在中卫成立新科技公司，注册资本22亿",
+    "summary": "马斯克在财报会上表示，FSD是拉动特斯拉需求的核心驱动力，选装率极高。字节跳动在中卫成立新科技公司，注册资本22亿，由北京字跳网络技术有限公司全资持股。此外，淡马锡旗下凯德投资与丰树投资的合并谈判因估值分歧陷入停滞。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3908051015488640?f=rss"
+  },
+  {
+    "id": 2,
+    "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+    "summary": "网格智算公司推出基于自研“网格域学习技术”的GridAI大脑，通过模仿人类认知方式实现微数据、小算力的空间理解，使无人机在林下无GNSS环境中完成自主飞行、毫米级测径和避障。该技术仅需几十至数百张样本即可训练，解决了传统深度学习在林下动态环境中的失效问题。目前产品已通过中国林科院验证，并与中林重庆等企业合作，未来计划拓展至机械臂、无人车等具身机器人场景。",
+    "image_url": "https://img.36krcdn.com/hsossms/20260723/v2_219e0aa234d44779b677454a68e02e85@5688585_oswg1125227oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3908027308823684?f=rss"
+  },
+  {
+    "id": 3,
+    "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "summary": "郭列，曾打造脸萌、FaceU和剪映等爆款产品，近期推出AI视频创作Agent Flova.ai，并完成由红杉中国、IDG、云九资本投资的8000万美元融资。他首次阐释在AI时代如何同时为人和Agent设计产品，强调产品需提供灵活容器以支持创意发散和Agent智能发挥。郭列表示，创业享受远大于压力，决策基于科学观测而非共识。",
+    "image_url": "https://img.36krcdn.com/hsossms/20260723/v2_f0bf09344d6a4b1e8dcd046e000b07e9@5783683_oswg995274oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3907953777120385?f=rss"
+  },
+  {
+    "id": 4,
+    "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "summary": "腾讯混元多模态理解负责人胡瀚已离职创业，他曾负责视觉大模型及世界模型研发。团队调整后，前OpenAI研究员田永龙接替其视觉语言模型方向，原研究组或将聚焦世界模型前沿研究。腾讯AI资源向大语言模型倾斜，姚顺雨主导下混元推出Hy3模型，但算力有限，多模态理解技术红利渐退且商业化前景不明。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3907934819521670?f=rss"
+  },
+  {
+    "id": 5,
+    "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+    "summary": "腾讯副总裁林松涛在WAIC论坛上表示，技术突破决定AI速度，真正创造价值决定AI走多远。腾讯三大Agent产品中，WorkBuddy的DAU稳居国内效率智能体第一，Marvis则专注系统级操作，上线两天DAU超30万，七日留存约54%，用户场景以本地文件（44%）和电脑硬件管理（28%）为主。Marvis负责人蔡建涛透露，产品北极星指标是用户真实任务完成数，而非DAU，并计划与混元团队合作推出端侧模型集群。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3907676111983745?f=rss"
+  },
+  {
+    "id": 6,
+    "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+    "summary": "在2026年世界人工智能大会上，FutureTech负责人张梦钊接受专访指出，AI创业正从技术比拼转向行业认知与商业价值创造，强调“一人+Agent”的超级个体模式成为新可能。FutureTech通过全年运营的生态平台和OPC独立先锋挑战赛，连接初创企业与产业资源，重点考察团队能力、商业价值及场景理解，其中行业Know-how被视为核心护城河。",
+    "image_url": "https://img.36krcdn.com/hsossms/20260723/v2_703e7e497c924a8badf8e4af87f48c92@6381723_oswg2080670oswg2140oswg1210_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+    "date": "2026-07-23",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3907639172027522?f=rss"
+  },
+  {
+    "id": 7,
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "summary": "亚马逊正在为Alexa Plus推出AI更新，使其能够以新方式连接智能家居设备。该更新目前处于预览阶段，可支持与博世、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、Tapo、Eufy等品牌的设备联动，并自动处理用户指令。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+  },
+  {
+    "id": 8,
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "summary": "Anthropic公司宣布，其语音模式现已扩展至更强大的Opus和Sonnet模型，此前仅支持速度较快但性能较弱的Haiku模型。该功能还将集成至Gmail、Slack和Canva等应用中。去年推出语音模式时，Anthropic主要聚焦于特定场景。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+  },
+  {
+    "id": 9,
+    "title": "Patreon is laying off 20 percent of workers",
+    "summary": "Patreon宣布裁员20%，约93名员工。CEO Jack Conte在内部备忘录中表示，裁员并非因为AI取代人类，但承认AI已从根本上改变了科技行业的工作方式。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
+  },
+  {
+    "id": 10,
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "summary": "OpenAI于周四向全美用户推出ChatGPT Health服务，允许更多人将医疗记录和健康追踪信息接入该聊天机器人。OpenAI健康产品副总裁Ashley Alexander在简报中声称，公司模型“现在的推理能力已超过临床医生水平”。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+  },
+  {
+    "id": 11,
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "summary": "美国国会议员泰德·刘（加州民主党）和纳撒尼尔·莫兰（得州共和党）计划于周四提出《人工智能紧急关闭法案》，要求AI公司根据国土安全部指令关闭或限制其系统。该法案旨在赋予政府对高风险AI系统的紧急控制权。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+  },
+  {
+    "id": 12,
+    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "summary": "苹果与OpenAI之间的商业秘密诉讼，核心在于谁将定义后智能手机时代。The Verge高级AI记者Hayden Field在Decoder节目中分析了此案对OpenAI未来的影响。苹果指控多名前员工跳槽OpenAI后泄露了关键技术信息。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
+  },
+  {
+    "id": 13,
+    "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+    "summary": "在佛罗里达州中部一个阴湿的周六早晨，十余人聚集在春山分馆图书馆外，抗议社区内超大规模数据中心的建设。尽管赫南多县委员会已于六月一致批准暂停此类开发一年，抗议者仍表达了担忧。报道指出，这些右翼婴儿潮一代抗议者的诉求与左翼存在诸多共同点。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans"
+  },
+  {
+    "id": 14,
+    "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+    "summary": "三星首次公开展示了其即将推出的智能眼镜，带来两款新设计并披露了首批规格，包括长达9小时的电池续航。这款眼镜由三星与谷歌、眼镜品牌Gentle Monster及Warby Parker合作开发，计划于今年秋季发布。",
+    "image_url": "",
+    "date": "2026-07-22",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker"
+  },
+  {
+    "id": 15,
+    "title": "AMD commits up to $5 billion to  Anthropic",
+    "summary": "AMD于周三宣布，将向人工智能公司Anthropic投资高达50亿美元，并帮助其扩展计算能力。作为新合作的一部分，Anthropic将部署多达2吉瓦的AMD Instinct MI450 AI GPU，并使用该芯片制造商的新型Helios机架级系统。",
+    "image_url": "",
+    "date": "2026-07-22",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+  },
+  {
+    "id": 16,
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "summary": "今年3月，Meta的监督委员会要求公司履行承诺，使用自有工具遏制生成式AI虚假内容的传播。7月，Meta推出Content Seal隐形水印技术，用于标记其新AI模型生成的图像。但该技术本可直接采用谷歌的现有方案。",
+    "image_url": "",
+    "date": "2026-07-22",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid"
+  },
+  {
+    "id": 17,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容仅包含标题“查看网站地图”，没有具体新闻正文。请提供完整的新闻文本，以便我为您生成2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 18,
+    "title": "两高：依法从严惩处内幕交易、泄露内幕信息犯罪",
+    "summary": "最高人民法院、最高人民检察院联合发布司法解释，明确依法从严惩处内幕交易、泄露内幕信息犯罪。该解释进一步细化了内幕信息认定标准，并规定了“情节严重”“情节特别严重”的具体情形。此举旨在强化资本市场法治保障，维护投资者合法权益。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678418305.shtml"
+  },
+  {
+    "id": 19,
+    "title": "新华社北京7月24日电（记者冯家顺）最高人民法院、最高人民检察院7月24日联合发布《关于修改〈最高人民法院、最高人民检察院关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的 ...",
+    "summary": "最高人民法院、最高人民检察院7月24日联合发布修改后的司法解释，针对内幕交易、泄露内幕信息刑事案件的法律适用问题作出新规定。该解释由记者冯家顺报道，旨在进一步明确相关犯罪行为的认定标准和量刑尺度。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678418305.shtml"
+  },
+  {
+    "id": 20,
+    "title": "从三组外贸数据读懂“中国机遇2.0”",
+    "summary": "前三季度中国外贸进出口总值达31.11万亿元，同比增长9.9%，其中出口增长13.8%，进口增长5.2%。商务部研究院专家指出，中国正从“世界工厂”向“全球创新中心”转型，高技术产品出口占比提升至58.3%。这一数据表明，中国外贸结构持续优化，“中国机遇”正升级为以创新驱动为核心的新阶段。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678417322.shtml"
+  },
+  {
+    "id": 21,
+    "title": "外贸，丈量开放成色的风向标，观照经济活力的晴雨表。透过7月发布的外贸半年报，我们看到了中国外贸的结构优化、动能转换，也看到了中国机遇的升级跃迁。“中国机遇2.0”有何深意？来看三组 ...",
+    "summary": "7月发布的外贸半年报显示，中国外贸实现结构优化与动能转换，体现了“中国机遇2.0”的升级跃迁。报告通过三组关键数据，揭示了开放成色与经济活力的新变化。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678417322.shtml"
+  },
+  {
+    "id": 22,
+    "title": "明年起，企业年金个人账户转移接续可以线上办理！",
+    "summary": "明年起，企业年金个人账户转移接续将实现线上办理。这一新规旨在简化流程，方便职工在更换工作单位时转移年金账户。具体操作细节将由相关部门后续公布。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678416943.shtml"
+  },
+  {
+    "id": 23,
+    "title": "从2027年1月1日起，职工可以通过登录国家社会保险公共服务平台、全国人社政务服务平台、电子社保卡、掌上12333App等全国统一线上服务渠道，申请转移接续本人企业年金个人账户，并查询办理进 ...",
+    "summary": "从2027年1月1日起，职工可通过国家社会保险公共服务平台等全国统一线上渠道，申请转移接续本人企业年金个人账户，并可查询办理进度。此举旨在简化企业年金转移流程，提升服务便利性。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678416943.shtml"
+  },
+  {
+    "id": 24,
+    "title": "商务部新闻发言人就将14家欧盟实体列入出口管制管控名单答记者问",
+    "summary": "商务部新闻发言人宣布，将14家欧盟实体列入出口管制管控名单。此举旨在维护国家安全和利益，履行国际义务。发言人强调，中方始终遵循国际法和国际关系基本准则。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678416825.shtml"
+  },
+  {
+    "id": 25,
+    "title": "问：2026年7月24日，商务部对外发布管控名单，请问有何考虑？答：北京时间7月23日晚，欧方正式发布第21轮对俄制裁措施，将14家中国内地和香港企业列单制裁。为维护国家安全和利益，履行防扩 ...",
+    "summary": "商务部于2026年7月24日发布管控名单，以回应欧方第21轮对俄制裁中将14家中国内地和香港企业列单制裁的行为。此举旨在维护国家安全和利益，并履行防扩散等国际义务。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678416825.shtml"
+  },
+  {
+    "id": 26,
+    "title": "三部门：将开展征收挥发性有机物环境保护税试点",
+    "summary": "财政部、税务总局、生态环境部三部门联合发布通知，将开展征收挥发性有机物环境保护税试点。此举旨在强化大气污染防治，推动企业减少挥发性有机物排放。具体试点范围及税率将由各地根据实际情况确定。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://field.10jqka.com.cn/20260724/c678414790.shtml"
+  },
+  {
+    "id": 27,
+    "title": "经国务院同意，近日，财政部、税务总局、生态环境部联合发布《征收挥发性有机物环境保护税试点实施办法》(以下简称《办法》)，自2027年1月1日起开展试点工作，在八个行业中将挥发性有机物整 ...",
+    "summary": "经国务院同意，财政部、税务总局、生态环境部联合发布《征收挥发性有机物环境保护税试点实施办法》，自2027年1月1日起在八个行业开展试点。该办法旨在对挥发性有机物征收环境保护税，以推动相关行业减排。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://field.10jqka.com.cn/20260724/c678414790.shtml"
+  },
+  {
+    "id": 28,
+    "title": "“稳”字当头 上半年国资央企压舱石作用显现",
+    "summary": "上半年国资央企坚持“稳”字当头，充分发挥压舱石作用，经济运行保持平稳态势。关键数据显示，央企在能源、交通等基础领域持续发力，有效支撑了国民经济恢复。国资委相关负责人强调，下半年将继续巩固稳中向好基础。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678414190.shtml"
+  },
+  {
+    "id": 29,
+    "title": "■中国经济时报记者 张一鸣面对充满挑战和不确定性的上半年，国资央企保持了平稳有序的发展势头。7月22日闭幕的中央企业负责人研讨班上传递出的信息显示，1—6月，央企实现利润总额1.4万亿 ...",
+    "summary": "中国经济时报记者张一鸣报道，面对上半年挑战，国资央企保持平稳发展。7月22日中央企业负责人研讨班透露，1—6月央企实现利润总额1.4万亿元。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678414190.shtml"
+  },
+  {
+    "id": 30,
+    "title": "外交部：愿在人工智能领域落实好中美元首重要共识",
+    "summary": "外交部表示，愿在人工智能领域落实好中美元首重要共识，推动相关合作。中方强调将秉持负责任态度，与美方共同促进人工智能安全、可靠、可控发展。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678413810.shtml"
+  },
+  {
+    "id": 31,
+    "title": "就有报道称美国总统特朗普表示美中两国领导人将讨论人工智能相关议题，外交部发言人林剑24日在例行记者会上答问时表示，元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道， ...",
+    "summary": "外交部发言人林剑24日回应特朗普称美中领导人将讨论人工智能议题的报道，强调元首外交对中美关系具有不可替代的战略引领作用。中方表示愿与美方共同推动相关议题的对话与合作。",
+    "image_url": "",
+    "date": "2026-07-23",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260724/c678413810.shtml"
+  }
+]
