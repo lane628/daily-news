@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+    "summary": "ChinaJoy已从单纯的游戏展会进化为“科技+数字娱乐”行业的年度线下交汇点，2026年第二十三届展会将于7月底在上海举办。36氪与ChinaJoy“Vision Future前沿科技展区”深度合作，在8月1日至3日期间设立直播间，安排三天十八场对谈，覆盖AI游戏、AI内容、前沿消费电子等赛道，邀请一线从业者分享真实行业趋势与经验。",
+    "image_url": "https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "date": "2026-08-01",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3920595518533250?f=rss"
+  },
+  {
+    "id": 2,
+    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+    "summary": "马斯克否认特斯拉考虑剥离中国业务，称相关报道为假新闻；国内航线燃油附加费自8月5日起下调，800公里以上航线每人省30元；微电子科学与工程专业以7814元月收入成为本科最高薪专业，取代信息安全居首。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "internet",
+    "source": "36氪",
+    "source_url": "https://36kr.com/p/3920241240419720?f=rss"
+  },
+  {
+    "id": 3,
+    "title": "DeepTutor：一个AI原生学习系统凭什么7个月冲上20k Stars",
+    "summary": "港大数据科学实验室Chao Huang团队基于对学生学习工具使用情况的调研，开发了AI原生学习系统DeepTutor，旨在解决现有工具碎片化、上下文断裂的问题。该系统上线7个月即在GitHub获得20k Stars，反映出市场对整合式AI学习工具的强烈需求。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59169.html"
+  },
+  {
+    "id": 4,
+    "title": "AI互联网日报：Kimi进入DoorDash工作流、Gemini Spark开放更多用户、DeepSeek加码1GW算力、小米手机涨价300元起",
+    "summary": "Kimi被海外企业DoorDash采用后遭美国议员调查，DeepSeek计划建设1GW算力中心并开放开发者工具。谷歌、微软、苹果更新AI产品，存储紧缺导致小米手机涨价300元起、Xbox售价上调。国内推进低空AI、万兆网络及AI企业标准，同时面临AI创作版权和数据合规争议。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59424.html"
+  },
+  {
+    "id": 5,
+    "title": "building-mcp-server-on-cloudflare ：从零到部署，一个 MCP 服务器的全球化之旅",
+    "summary": "MCP协议虽火，但多数服务器仍运行在本地，存在关机失效、换机重配和协作困难等问题。Cloudflare推出的building-mcp-server-on-cloudflare Skill，旨在将MCP服务器部署从本地迁移至全球边缘网络，提供从工具开发到部署的完整指导。该方案试图解决本地部署的局限性，推动MCP服务器实现全球化运行。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59124.html"
+  },
+  {
+    "id": 6,
+    "title": "Cloudflare Sandbox SDK：在 Worker 里起一个沙箱，跑完就销毁",
+    "summary": "Cloudflare推出Sandbox SDK，在Workers中提供完整的Linux容器沙箱，用于安全运行AI Agent生成的代码。该方案解决了AI生成代码可能存在的安全风险，如恶意包读取环境变量或执行危险shell命令，同时避免人工审查代码带来的时间消耗。API设计简洁，支持沙箱用完即销毁的隔离模式。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/58984.html"
+  },
+  {
+    "id": 7,
+    "title": "前端 Skill 驱动的团队 AI Coding 实践：从个人到整体提效",
+    "summary": "团队通过将前端规范封装为Skill，前置到AI编码流程之前，以解决全员AI Coding带来的风格漂移和规范一致性问题。实践中发现，后端、PD、设计师用AI写前端代码时，产出缺乏统一性，因此需通过Skill约束确保团队整体提效。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59350.html"
+  },
+  {
+    "id": 8,
+    "title": "AI互联网日报：DeepSeek-V4-Flash打响成本战、美团上线等灯停表、小米汽车交付超3万辆",
+    "summary": "DeepSeek-V4-Flash正式版公测，单任务成本比GPT-5.6 Luna低约60%，打响AI成本战；阿里发布Qwen-Audio将长音频转为结构化文本，美团上线“等灯停表”功能优化骑手等待时间，小米汽车交付量已超3万辆。技术正从功能堆叠转向细节体验，但携程退票提醒升级后高额费用问题仍存，规模增长需兼顾服务稳定性。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59323.html"
+  },
+  {
+    "id": 9,
+    "title": "微信小微，已支持购物",
+    "summary": "微信小微近期开放更多内测用户，新增扫一扫“拍照给AI”、朋友圈“AI帮写”及公众号“AI总结”等入口，并已支持购物功能。用户拍照后，小微可识别商品并推荐链接，直接跳转微信小店购买，但暂未实现自动下单。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/59389.html"
+  },
+  {
+    "id": 10,
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "summary": "Fender CEO Edward \"Bud\" Cole在五月接受T3采访时，借Telecaster吉他75周年之际谈及AI与音乐，称乐队成员如同“模拟AI”，此番言论起初未受关注，但近期引发热议。该评论加剧了公司因先前激怒用户而面临的公关危机。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+  },
+  {
+    "id": 11,
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "summary": "插画师多年来一直警告生成式人工智能初创公司未经许可使用他们的作品训练模型，认为此举无异于盗窃，而AI支持者则辩称这对技术发展必不可少。由此引发的法律纠纷不断升级，但核心争议在于：仅靠付费能否真正说服艺术家接纳AI技术？目前尚无定论，双方仍在博弈中。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+  },
+  {
+    "id": 12,
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "summary": "Fenix Flexin，洛杉矶说唱组合Shoreline Mafia成员，其个人单曲《Rubberz》攀升至Billboard Hot 100第58位，取得个人突破。然而，歌曲发布后迅速引发争议，外界普遍猜测该曲目可能主要由AI生成。",
+    "image_url": "",
+    "date": "2026-08-01",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
+  },
+  {
+    "id": 13,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的内容似乎不完整，仅包含标题“查看网站地图”和空内容。请提供完整的新闻文本，我将为您概括为2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 14,
+    "title": "国家发展改革委召开7月份新闻发布会",
+    "summary": "国家发展改革委召开7月份新闻发布会，介绍宏观经济运行情况。会上，相关负责人就经济形势、政策实施等热点问题作出回应，并公布相关关键数据。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678618682.shtml"
+  },
+  {
+    "id": 15,
+    "title": "中国经济导报、中国发展网讯7月31日，国家发展改革委召开7月份新闻发布会，就当前经济形势和经济工作的相关情况进行解读。“今年上半年，我国经济呈现动能向新、结构向优的发展态势，在复杂 ...",
+    "summary": "国家发展改革委7月31日召开新闻发布会，解读当前经济形势，指出上半年我国经济呈现动能向新、结构向优的发展态势。发布会强调在复杂环境下，经济结构调整和新兴动能培育取得积极进展。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678618682.shtml"
+  },
+  {
+    "id": 16,
+    "title": "聚焦质效提升 深化行动部署",
+    "summary": "聚焦质效提升，相关部门深化行动部署，明确以高质量发展为核心目标。会议提出优化资源配置、强化过程监管等具体措施，确保各项任务落地见效。此次部署旨在推动重点领域实现效率与质量双突破，为后续工作奠定坚实基础。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678617403.shtml"
+  },
+  {
+    "id": 17,
+    "title": "各级审计机关紧扣高质量发展主线，强化政治统领，聚焦重点领域，创新计划管理和质量管控机制，深化研究型审计，加强队伍建设和绩效激励，全力推动审计工作提质增效，以更高质量的审计监督服 ...",
+    "summary": "各级审计机关紧扣高质量发展主线，强化政治统领，聚焦重点领域，创新计划管理和质量管控机制，深化研究型审计，并加强队伍建设和绩效激励，全力推动审计工作提质增效。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678617403.shtml"
+  },
+  {
+    "id": 18,
+    "title": "市场监管总局：运用约谈、通报、立案等监管工具，强化公平竞争审查刚性约束",
+    "summary": "市场监管总局宣布将综合运用约谈、通报、立案等监管工具，强化公平竞争审查的刚性约束。此举旨在提升审查制度的执行效力，确保政策制定与市场竞争规则相协调。相关措施将重点针对违反公平竞争原则的行为，加大监督和问责力度。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615662.shtml"
+  },
+  {
+    "id": 19,
+    "title": "【大河财立方消息】据市说新语，7月28日，市场监管总局在北京召开深入贯彻落实公平竞争审查制度专项行动推进会，听取有关地方工作进展情况，总结阶段性工作成效，部署推动下一阶段重点工作 ...",
+    "summary": "市场监管总局于7月28日在北京召开公平竞争审查制度专项行动推进会，听取地方进展并总结阶段性成效。会议部署了下一阶段重点工作，强调深入落实公平竞争审查制度。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615662.shtml"
+  },
+  {
+    "id": 20,
+    "title": "工业和信息化部等三部门组织开展2026年度重点行业能效、碳效领跑者企业推荐工作",
+    "summary": "工业和信息化部、国家发展改革委、市场监管总局三部门联合启动2026年度重点行业能效、碳效领跑者企业推荐工作，旨在遴选能效与碳效标杆企业。推荐工作覆盖重点行业，将依据能效、碳效水平进行评选，具体申报条件及流程由三部门另行发布。此举旨在推动工业领域节能降碳，助力实现碳达峰碳中和目标。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615377.shtml"
+  },
+  {
+    "id": 21,
+    "title": "近日，为贯彻落实党中央、国务院关于碳达峰碳中和的工作部署，工业和信息化部办公厅、国家发展改革委办公厅、市场监管总局办公厅联合印发《关于组织开展2026年度重点行业能效、碳效领跑者企 ...",
+    "summary": "工信部、国家发改委、市场监管总局三部门联合印发通知，组织开展2026年度重点行业能效、碳效领跑者企业遴选工作，以落实碳达峰碳中和部署。通知旨在通过树立行业标杆，推动重点领域节能降碳，具体遴选范围及标准将按相关要求执行。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615377.shtml"
+  },
+  {
+    "id": 22,
+    "title": "织密核心网 夯实高质量发展硬支撑",
+    "summary": "该新闻聚焦于我国核心网络基础设施建设，强调通过织密核心网来夯实高质量发展的硬支撑。文中提及具体数据，如新增5G基站超88.7万个，累计建成开通5G基站总数达231.2万个，以及工信部部长金壮龙在相关会议上的部署要求，旨在提升网络覆盖和算力水平，为数字经济和产业升级提供坚实底座。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615284.shtml"
+  },
+  {
+    "id": 23,
+    "title": "基础设施是经济社会发展的基石，更是中国式现代化建设的硬核底气。7月31日，国务院总理李强主持召开国务院常务会议，加快实施“十五五”规划确定的重大项目，扎实推进“六张网”规划建设。 ...",
+    "summary": "国务院总理李强7月31日主持召开国务院常务会议，强调基础设施是经济社会发展的基石，并部署加快实施“十五五”规划确定的重大项目。会议重点推进“六张网”规划建设，以夯实中国式现代化建设的硬核底气。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678615284.shtml"
+  },
+  {
+    "id": 24,
+    "title": "在改善民生中扩大内需 国家发展改革委回应经济领域热点问题",
+    "summary": "国家发展改革委在新闻发布会上表示，将通过改善民生扩大内需，重点解决就业、收入分配等群众关切问题。发改委官员强调，将加大民生领域投资力度，并透露已部署多项具体措施以稳定经济预期。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678614977.shtml"
+  },
+  {
+    "id": 25,
+    "title": "7月31日，国家发展改革委召开7月份新闻发布会，解读上半年宏观经济形势，并就扩大内需、下半年经济工作、新兴支柱产业培育以及价格走势等问题回应媒体关切。“今年以来，地缘政治冲突外溢影 ...",
+    "summary": "国家发展改革委7月31日召开新闻发布会，解读上半年宏观经济形势，回应扩大内需、下半年经济工作、新兴支柱产业培育及价格走势等关切。发布会指出，地缘政治冲突外溢影响持续，但未透露具体数据。发改委强调将统筹推进稳增长政策，并关注新兴产业发展与物价稳定。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678614977.shtml"
+  },
+  {
+    "id": 26,
+    "title": "将金融资源精准配置到实体经济重点环节",
+    "summary": "央行行长潘功胜表示，将引导金融资源精准配置到实体经济重点领域和薄弱环节，强化对科技创新、绿色发展等领域的支持。他提出，要完善货币政策传导机制，保持流动性合理充裕，推动社会综合融资成本稳中有降。数据显示，截至三季度末，普惠小微贷款余额同比增长24.1%，制造业中长期贷款余额同比增长30.8%。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678614958.shtml"
+  },
+  {
+    "id": 27,
+    "title": "每年冬天，甘肃武威的吴建国（化名）都会早早开始盘算来年的春耕。作为一家农业合作社负责人，他深知，冬储化肥是全年农业生产的第一步，也是资金压力最大的阶段。往年，为了赶在春节前锁定 ...",
+    "summary": "甘肃武威农业合作社负责人吴建国每年冬季需提前筹备春耕，冬储化肥是全年农业生产首步且资金压力最大。为赶在春节前锁定农资，他需提前规划资金安排。",
+    "image_url": "",
+    "date": "2026-08-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260803/c678614958.shtml"
+  }
+]
