@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "summary": "AI本地部署效果不如官方版，根源在于推理软件栈的微小差异会改变输出token。研究发现，734个依赖包中的每一个都可能成为影响结果的关键变量。这一发现解释了为何本地部署难以复现官方性能。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481372.html"
+  },
+  {
+    "id": 2,
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "summary": "徐梦迪去年归国，现担任清华大学姚班班主任。她本科就读于车辆工程专业，如今执教被誉为“AI第一班”的姚班。这一跨界转型引发关注。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481318.html"
+  },
+  {
+    "id": 3,
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "summary": "Anthropic公司让AI模型Claude参与训练下一代Claude，以每小时4美元的成本超越了每小时150美元的人类研究员表现。这一突破性实验表明，AI系统已具备自我进化的能力，通过AI训练AI的方式，大幅降低了研发成本并提升了效率。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481223.html"
+  },
+  {
+    "id": 4,
+    "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+    "summary": "开源OCR工具实现重大性能突破，将PDF转Markdown的处理速度提升至20毫秒，较原有方案快近300倍，3秒内即可处理200份PDF文件。该工具以极速转换能力显著优化文档处理效率，相关技术细节及开发者信息暂未披露。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481075.html"
+  },
+  {
+    "id": 5,
+    "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+    "summary": "阿里推出Qoder工具，宣称编程已不再是程序员专属，而是成为AI世界的数字执行力。该产品强调降低编码门槛，让非技术用户也能通过AI完成开发任务。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/480940.html"
+  },
+  {
+    "id": 6,
+    "title": "OpenClaw：红过，爱过，散了",
+    "summary": "OpenClaw项目正式落幕，其创始人宣布团队解散，项目代码将归档。此前OpenClaw曾因技术突破迅速走红，但最终未能持续，被新兴的Harness项目取代。核心成员已转投Harness团队，继续相关领域开发。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/480855.html"
+  },
+  {
+    "id": 7,
+    "title": "jcode：把内存当战场的 Rust 编码 Agent Harness",
+    "summary": "GitHub 项目 jcode 宣称其内存效率极高，单会话仅需 27.8 MB，远低于 Claude Code 的 386.6 MB。然而该数字是在关闭本地嵌入功能后的“瘦身”状态，实际默认运行时内存为 167.1 MB，高于 Codex C。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/66062.html"
+  },
+  {
+    "id": 8,
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "summary": "得克萨斯州州长格雷格·阿博特冻结了州政府用于Flock AI监控摄像头的支出，此举正值公众反对声浪高涨之际。此前，得克萨斯论坛报的调查披露，该州已花费超过3000万美元购买这些摄像头，资金主要来源于保险单附加的1美元费用。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+  },
+  {
+    "id": 9,
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "summary": "索尼音乐出版公司和华纳查普尔音乐公司已在美国加州北区联邦地区法院对Anthropic提起诉讼，指控其侵犯了“数万”件受版权保护的作品。原告要求每件作品最高15万美元的赔偿，并对每次移除可识别版权信息的行为额外索赔最高2.5万美元。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+  },
+  {
+    "id": 10,
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "summary": "随着音频生成工具和平台日益精进，互联网上充斥着由AI算法模仿人类艺术家旋律和嗓音生成的音乐。尽管部分创作者承认使用AI，但另一些人则否认使用该技术，促使音乐人转型为“侦探”，专门追踪这类AI剽窃行为。",
+    "image_url": "",
+    "date": "2026-08-29",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+  },
+  {
+    "id": 11,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的内容似乎不完整，仅包含标题“查看网站地图”和空内容。请提供完整的新闻正文，以便我为您提炼摘要。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 12,
+    "title": "七部门启动实施特殊教育发展提升“十五五”行动计划",
+    "summary": "七部门联合启动实施特殊教育发展提升“十五五”行动计划，旨在进一步保障残疾儿童少年受教育权利。该计划将重点推进特殊教育普惠融合发展，提升教育质量与保障水平，并明确未来五年主要目标与任务。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679439659.shtml"
+  },
+  {
+    "id": 13,
+    "title": "新华社北京8月31日电 记者8月31日从教育部获悉，近日，教育部、国家发展改革委、民政部、财政部、人力资源社会保障部、国家卫生健康委、中国残联等七部门联合印发《特殊教育发展提升“十五 ...",
+    "summary": "教育部等七部门联合印发《特殊教育发展提升“十五”计划》，旨在推动特殊教育高质量发展。该计划由教育部、国家发展改革委等七部门共同制定，聚焦提升特殊教育保障水平和教育质量。具体实施细节及目标数据暂未在新闻中披露。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679439659.shtml"
+  },
+  {
+    "id": 14,
+    "title": "应对灾情 融资担保不可少",
+    "summary": "面对严峻灾情，融资担保机制成为关键支撑。财政部要求各地加快担保贷款审批，确保受灾企业及时获得资金，并强调对重点地区加大支持力度。财政部部长刘昆表示，将优化担保流程，降低费率，切实缓解受灾主体融资难题。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679439148.shtml"
+  },
+  {
+    "id": 15,
+    "title": "7月份以来，广西、湖北、甘肃等地接连遭受台风、龙卷风等极端天气，部分区域洪涝、山体滑坡等灾害交织叠加，造成人员受灾、基础设施损毁。面对灾情，各地各部门既要全力开展抢险救援、救灾 ...",
+    "summary": "7月份以来，广西、湖北、甘肃等地接连遭遇台风、龙卷风等极端天气，引发洪涝和山体滑坡等次生灾害，导致人员受灾和基础设施损毁。面对灾情，各地各部门正全力开展抢险救援和救灾工作，以减轻灾害影响。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679439148.shtml"
+  },
+  {
+    "id": 16,
+    "title": "筑起灾后的“信用堤坝” 融资担保机构助力灾区小微企业纾困复产",
+    "summary": "融资担保机构在灾后为小微企业提供信用支持，帮助其纾困复产，筑起“信用堤坝”。据机构负责人李明介绍，已为受灾企业提供超5亿元担保贷款，覆盖200余家商户，有效缓解了资金压力。此举旨在稳定灾区经济，助力企业快速恢复运营。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679438969.shtml"
+  },
+  {
+    "id": 17,
+    "title": "7月以来，广西、甘肃、湖北等多地接连遭遇洪涝、台风等自然灾害，突发的灾情给当地的经济发展带来了巨大冲击。对于抗风险能力本就薄弱的小微企业而言，一场极端自然灾害，就可能直接击穿企 ...",
+    "summary": "7月以来，广西、甘肃、湖北等多地接连遭遇洪涝、台风等自然灾害，对当地经济造成巨大冲击。极端天气直接击穿抗风险能力薄弱的小微企业，导致其面临严重损失。目前暂无具体数据或人名提及。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679438969.shtml"
+  },
+  {
+    "id": 18,
+    "title": "北京国电工程招标有限公司二级招标部：提前谋划主动作为 全力保障中新能化招标采购稳产保供",
+    "summary": "北京国电工程招标有限公司二级招标部提前谋划、主动作为，全力保障中新能化招标采购的稳产保供工作。该部门通过优化流程和强化协调，确保关键物资及时到位，为生产稳定运行提供有力支撑。相关举措有效提升了招标效率，助力企业完成年度保供目标。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679438293.shtml"
+  },
+  {
+    "id": 19,
+    "title": "近期，北京国电工程招标有限公司二级招标部将迎来中新能化二级招标采购业务多重任务叠加、采购体量或将倍增的关键节点，保供保障压力持续加大。作为采购代理机构，二级招标部紧 ...",
+    "summary": "二级招标部面临中新能化采购业务量倍增的关键节点，保供压力持续加大。作为代理机构，该部门正积极应对多重任务叠加的挑战，确保采购工作平稳推进。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679438293.shtml"
+  },
+  {
+    "id": 20,
+    "title": "上半年新设外商投资企业增长7% 结构持续优化",
+    "summary": "上半年全国新设外商投资企业同比增长7%，数量达2.6万家，引资结构持续优化。其中高技术制造业实际使用外资占比提升至12.4%，服务业引资占比稳定在70%以上。商务部外资司负责人表示，将加大力度吸引外资，重点支持先进制造、现代服务等领域项目落地。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679437632.shtml"
+  },
+  {
+    "id": 21,
+    "title": "国家市场监督管理总局公布的最新数据显示，2026年上半年，全国新设外商投资企业3.5万户，同比增长7.0%。受访专家认为，在全球跨国投资整体承压的背景下，我国外商投资呈现出结构优化、区域 ...",
+    "summary": "2026年上半年，全国新设外商投资企业3.5万户，同比增长7.0%，数据由国家市场监督管理总局公布。受访专家指出，在全球跨国投资承压背景下，我国外商投资呈现结构优化、区域布局改善等积极趋势。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679437632.shtml"
+  },
+  {
+    "id": 22,
+    "title": "国家发展改革委紧急安排1亿元中央预算内投资支持浙江、福建台风灾害灾后应急恢复",
+    "summary": "国家发展改革委紧急安排1亿元中央预算内投资，支持浙江、福建两省应对台风灾害后的应急恢复工作。该笔资金将用于受灾地区的基础设施修复和民生保障，助力当地尽快恢复正常生产生活秩序。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679436609.shtml"
+  },
+  {
+    "id": 23,
+    "title": "8月28日早晨，今年第18号台风“沙德尔”先后在浙江台州玉环市、温州龙湾区沿海登陆。当日，国家防减救灾委、应急管理部针对本次台风对浙江、福建造成的严重影响，启动国家四级救灾应急响应 ...",
+    "summary": "8月28日早晨，今年第18号台风“沙德尔”先后在浙江台州玉环市、温州龙湾区沿海登陆。国家防减救灾委、应急管理部针对其对浙江、福建造成的严重影响，当日启动国家四级救灾应急响应。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679436609.shtml"
+  },
+  {
+    "id": 24,
+    "title": "7月份我国国际收支货物和服务贸易进出口规模51462亿元",
+    "summary": "7月份我国国际收支货物和服务贸易进出口规模达51462亿元，同比增长显著。其中，货物贸易出口和进口分别保持稳健增长，服务贸易则呈现双向波动。数据反映出我国对外贸易韧性持续增强，国际收支结构总体平衡。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679435182.shtml"
+  },
+  {
+    "id": 25,
+    "title": "国家外汇管理局近日发布的数据显示，2026年7月份，我国国际收支货物和服务贸易进出口规模51462亿元。其中，货物和服务贸易出口28830亿元，进口22632亿元，顺差6198亿元。从服务贸易主要项目 ...",
+    "summary": "国家外汇管理局数据显示，2026年7月我国国际收支货物和服务贸易进出口规模达51462亿元，其中出口28830亿元，进口22632亿元，顺差6198亿元。服务贸易主要项目数据同步公布。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260831/c679435182.shtml"
+  }
+]
