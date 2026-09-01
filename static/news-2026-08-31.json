@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "summary": "VC斥资4000万打造AI创业乌托邦，设立200万现金冠军奖，吸引创业者入驻。此次颠覆传统模式，由VC主动上门考察项目，而非创业者逐一拜访。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481928.html"
+  },
+  {
+    "id": 2,
+    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+    "summary": "滴滴自动驾驶新一代Robotaxi R2正式开启无人载客测试服务，标志着其自动驾驶技术进入新阶段。该车型将面向公众提供载客体验，具体运营范围及规模尚未公布。此次测试是滴滴在自动驾驶商业化落地上的重要进展。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481923.html"
+  },
+  {
+    "id": 3,
+    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+    "summary": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业。此次合作聚焦于算力基础设施的深度整合，旨在推动国产AI生态发展。双方将共同探索基于华为昇腾算力的创新应用，加速行业智能化转型。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481919.html"
+  },
+  {
+    "id": 4,
+    "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+    "summary": "GPT-6灰测demo引发广泛关注，预计周四正式发布。该模型被形容为“核弹爆炸”级技术突破，具体性能参数尚未公开。目前测试版本已引发行业热议，市场期待其颠覆性能力。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481893.html"
+  },
+  {
+    "id": 5,
+    "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+    "summary": "OpenAI购入数万台Mac用于强化训练，探索英伟达GPU和谷歌TPU之外的算力方案。此举凸显苹果硬件在特定AI任务中的潜力，但未披露具体采购规模与成本。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481759.html"
+  },
+  {
+    "id": 6,
+    "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+    "summary": "灵犀智涌凭借一台由Demo级本体组装而成的机器人，在工业场景赛中成为除行业头部企业外唯一获奖的机器人公司，位列全国第三、公司第二。这家“初创黑马”通过其ROSS Harness技术，成功将机器人送进工业具身智能第一梯队。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481750.html"
+  },
+  {
+    "id": 7,
+    "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+    "summary": "自主研究系统的上限不仅取决于模型智能，还取决于系统能否区分新证据与偶然高分。AQuA框架通过持续进化机制，确保量化研究Agent的回测结果经得起检验，避免将随机波动误判为有效信号。该系统旨在提升研究结论的可靠性与可复现性。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/08/481475.html"
+  },
+  {
+    "id": 8,
+    "title": "从Vibe Coding到Vibe Worlding：AI开始自己“造世界”了",
+    "summary": "Vibe Worlding项目将AI从代码生成扩展到3D世界构建，用户可通过自然语言对话直接创建虚拟环境。该项目由香港科技大学团队开源，提供沙盒训练框架（VibeWorlding-Gym）及VWE-Bench评测基准，相关代码与数据集已分别发布在GitHub和Hugging Face平台。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/66403.html"
+  },
+  {
+    "id": 9,
+    "title": "专访SigmaZ AI联创团队：23岁连续创业者联手前亚马逊AGI核心研究员，豪赌下一代AI Interface",
+    "summary": "SigmaZ AI联创团队由23岁连续创业者与亚马逊AGI核心研究员组成，正押注下一代AI交互界面。团队指出，人类阅读速度仅约每秒5个Token，而前沿模型输出可达每秒上千Token，导致多Agent系统生成内容沦为“无人能读的字符废墟”。他们类比Karpathy观点，认为当前对话框交互如同80年代终端命令行，亟需AI时代的“图形用户界面”。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/66375.html"
+  },
+  {
+    "id": 10,
+    "title": "OpenWiki ：用 Agent 把代码库文档维护成活的",
+    "summary": "LangChain于2026年6月22日开源了OpenWiki，一个为代码库自动编写和维护文档的CLI工具。此举旨在解决Agent获取代码知识时上下文成本高昂的问题，将文档维护从静态转为动态。OpenWiki通过命令行操作，使代码库文档保持“活”的状态。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/66295.html"
+  },
+  {
+    "id": 11,
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "summary": "Debian投票决定允许开发者在其Linux发行版的“开发、维护和文档”工作中使用AI工具。新政策承认“负责任”地使用AI能提升开发者生产力，并指出生成式AI既不豁免于现有标准，也不受额外特殊规则约束。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+  },
+  {
+    "id": 12,
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "summary": "纽约州州长凯西·霍楚尔认为人工智能应“少些邪恶”，并在选举年就多项科技政策采取强硬立场。她近期对Meta等科技巨头的监管问题表态，涉及AI伦理与治理。霍楚尔强调在快速发展的技术环境中需平衡创新与公众利益。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+  },
+  {
+    "id": 13,
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "summary": "欧盟将ChatGPT归类为《数字服务法》下的“超大型在线搜索引擎”，使其面临更严格的监管。OpenAI需对ChatGPT在未成年人影响、用户心理健康及非法内容传播方面的风险承担责任。此举旨在强化对大型在线服务的法律约束。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+  },
+  {
+    "id": 14,
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "summary": "Instagram终于开始打击那些越来越难以识别的虚假AI网红账号，并将“AI创作者”标签更名为“AI生成个人资料”，以明确区分AI生成人物与真实人类。此举旨在回应用户对这类账号的不满，提升平台透明度。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+  },
+  {
+    "id": 15,
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "summary": "得克萨斯州州长格雷格·阿博特冻结了州政府用于Flock人工智能监控摄像头的支出，此举正值公众对该技术的反对声浪高涨之际。此前，得克萨斯论坛报的调查披露，该州已花费超过3000万美元购置Flock摄像头，资金主要来源于保险单附加的1美元费用。",
+    "image_url": "",
+    "date": "2026-08-30",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的内容似乎不完整，仅包含标题“查看网站地图”和空内容。请提供完整的新闻正文，以便我为您提炼摘要。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "商务部：三方面推动中国—东盟贸易合作提质升级",
+    "summary": "商务部表示将从三方面推动中国—东盟贸易合作提质升级，重点包括深化产业链供应链融合、拓展数字经济与绿色经济合作，并优化区域贸易便利化安排。此举旨在进一步巩固东盟作为中国最大贸易伙伴的地位，促进双边贸易投资高质量发展。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679483322.shtml"
+  },
+  {
+    "id": 18,
+    "title": "据央视新闻，在国务院新闻办公室今天上午举行的新闻发布会上，商务部有关负责人介绍，下一步，将重点从三方面推动中国—东盟贸易合作提质升级。据介绍，2025年，中国—东盟贸易总额超过1万 ...",
+    "summary": "商务部在国新办发布会上表示，将重点从三方面推动中国—东盟贸易合作提质升级。2025年，双方贸易总额已超过1万亿美元，创历史新高。下一步举措将聚焦深化互联互通、拓展新兴领域合作及优化贸易结构。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679483322.shtml"
+  },
+  {
+    "id": 19,
+    "title": "国常会讨论并原则通过税收征管法修订草案，这些变化值得关注",
+    "summary": "国务院常务会议讨论并原则通过税收征管法修订草案，重点强化纳税人权益保护与征管数字化升级。草案拟新增涉税信息共享机制，明确电子发票法律效力，并加大对偷逃税行为的处罚力度。修订内容将提交全国人大常委会审议，具体实施时间待定。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679483314.shtml"
+  },
+  {
+    "id": 20,
+    "title": "8月31日，国务院总理李强主持召开国务院常务会议。会议学习贯彻习近平总书记在中央政治局会议研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作时的重要讲话精神、听取城市地下管网建设情 ...",
+    "summary": "8月31日，国务院总理李强主持召开国务院常务会议，学习贯彻习近平总书记在中央政治局会议研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作时的重要讲话精神，并听取城市地下管网建设情况汇报。会议重点部署了灾害救援和城市基础设施相关工作。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679483314.shtml"
+  },
+  {
+    "id": 21,
+    "title": "中国与第一大贸易伙伴，有新动作！",
+    "summary": "中国与第一大贸易伙伴东盟宣布新合作举措，双方将深化经贸投资、互联互通及数字经济等领域合作。此次动作旨在应对全球贸易挑战，进一步巩固双边贸易规模，2024年双边贸易额达6.29万亿元人民币。具体措施包括推动RCEP高质量实施及共建“一带一路”项目对接。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679482040.shtml"
+  },
+  {
+    "id": 22,
+    "title": "中国—东盟自贸区3.0版升级议定书进展如何？中国与东盟经贸合作重点在哪？今年东博会、峰会有何不一样？国新办9月1日举行新闻发布会，介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会 ...",
+    "summary": "国新办9月1日举行发布会，介绍中国—东盟自贸区3.0版升级议定书进展及经贸合作重点，强调双方将深化数字经济、绿色经济等新兴领域合作。第23届中国—东盟博览会、峰会将于今年举办，聚焦制度型开放与产业链供应链互联互通，推动区域经济一体化提质升级。发布会未披露具体数据，但明确将强化规则对接与务实项目落地。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679482040.shtml"
+  },
+  {
+    "id": 23,
+    "title": "7部门发文推动商品消费扩容升级 精准聚焦民之所需",
+    "summary": "商务部等7部门联合发文推动商品消费扩容升级，聚焦汽车、家电、家居等大宗消费领域，提出扩大以旧换新补贴范围并优化服务供给。文件明确将精准对接民生需求，通过降低消费门槛、完善回收体系等措施，促进消费提质升级。此举旨在释放内需潜力，助力经济高质量发展。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481873.shtml"
+  },
+  {
+    "id": 24,
+    "title": "央广网北京9月1日消息(总台记者王子今)据中央广播电视总台经济之声《天下财经》报道，商务部等7部门8月31日发布的《关于推动商品消费扩容升级的实施意见》(以下简称《实施意见》)提出，到20 ...",
+    "summary": "商务部等7部门8月31日发布《关于推动商品消费扩容升级的实施意见》，提出到2030年商品消费规模持续扩大、结构优化升级的目标。该意见聚焦扩大优质商品供给、创新消费场景等方向，旨在促进消费市场高质量发展。总台记者王子今报道。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481873.shtml"
+  },
+  {
+    "id": 25,
+    "title": "李强主持召开国务院常务会议",
+    "summary": "国务院总理李强主持召开国务院常务会议，研究部署当前经济工作重点任务。会议审议通过多项政策措施，强调要着力扩大内需、稳定外贸外资，并加快推进重大项目建设。会议还要求各地各部门压实责任，确保全年经济社会发展目标如期实现。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481631.shtml"
+  },
+  {
+    "id": 26,
+    "title": "新华社北京8月31日电 国务院总理李强8月31日主持召开国务院常务会议，学习贯彻习近平总书记在中央政治局会议研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作时的重要讲话精神。会议强调 ...",
+    "summary": "国务院总理李强8月31日主持召开国务院常务会议，学习贯彻习近平总书记在中央政治局会议研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作时的重要讲话精神。会议强调，要全力做好抢险救援和受灾群众安置工作，确保人民生命财产安全。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481631.shtml"
+  },
+  {
+    "id": 27,
+    "title": "最新利好！七部门联合发布！",
+    "summary": "七部门联合发布最新利好政策，旨在进一步稳定市场预期并促进经济高质量发展。该政策涵盖多个领域，具体措施包括优化营商环境、加大金融支持力度等，相关细节由各部门负责人共同公布。此举预计将有效提振企业信心，助力实体经济持续复苏。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481514.shtml"
+  },
+  {
+    "id": 28,
+    "title": "8月31日，商务部会同国家发展改革委、工业和信息化部、财政部、农业农村部、文化和旅游部、市场监管总局等部门印发《关于推动商品消费扩容升级的实施意见》(以下简称《实施意见》)。商务部 ...",
+    "summary": "8月31日，商务部等七部门联合印发《关于推动商品消费扩容升级的实施意见》，旨在促进商品消费提质扩容。文件提出多项举措，包括优化供给、创新场景、降低消费成本等，以激发消费潜力。具体政策细节及目标数据尚未公布，但强调多部门协同推动落实。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481514.shtml"
+  },
+  {
+    "id": 29,
+    "title": "加速具身智能在多领域真实场景中落地应用 国家发展改革委回应经济领域热点问题",
+    "summary": "国家发展改革委在回应经济领域热点问题时，强调将加速具身智能在多领域真实场景中的落地应用。此举旨在推动人工智能技术与实体经济深度融合，提升产业智能化水平。相关具体政策细节及实施路径尚未完全披露，但已明确释放出支持新兴技术应用的政策信号。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481074.shtml"
+  },
+  {
+    "id": 30,
+    "title": "8月28日，国家发展改革委举行月度新闻发布会。国家发展改革委政策研究室副主任、新闻发言人李超在会上回应了多个经济领域热点问题。研究完善“六张网”多元化投融资模式李超介绍，国家发展 ...",
+    "summary": "国家发展改革委8月28日举行月度新闻发布会，政策研究室副主任、新闻发言人李超回应多个经济热点问题。会上提出研究完善“六张网”多元化投融资模式，并介绍相关进展。",
+    "image_url": "",
+    "date": "2026-08-31",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260901/c679481074.shtml"
+  }
+]
