@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+    "summary": "在ECCV大会上，多模态AI领域的顶尖学者们齐聚一堂，探讨如何将AI技术应用于商业领域。全球共有64支团队参与，组团解决相关难题。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486934.html"
+  },
+  {
+    "id": 2,
+    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。该模型旨在构建AI理解真实世界的入口。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486900.html"
+  },
+  {
+    "id": 3,
+    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+    "summary": "大晓机器人联合南洋理工大学S-Lab和上海人工智能实验室发布了全球首个可仿真的人-场景交互重建框架HSImul3R。该框架旨在让人类视频真正成为机器人技能的来源。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486747.html"
+  },
+  {
+    "id": 4,
+    "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+    "summary": "LingBot-World 2.0轻量版正式开源，模型参数量仅1.3B，单张显卡即可实时运行。该世界模型主打轻量化部署，降低了硬件门槛。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486716.html"
+  },
+  {
+    "id": 5,
+    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+    "summary": "ChatGPT Images 2.5作为AGI时代的首个生图模型正式上线，主打更快的生成速度和更精细的细节表现。该模型在改图功能上实现显著提升，操作体验更接近真实的修图过程。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486684.html"
+  },
+  {
+    "id": 6,
+    "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+    "summary": "蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，旨在帮助品牌更高效地连接全球500万创作者。此次合作将推动海外达人营销从单次投放升级为可规模化复制的增长系统。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/486651.html"
+  },
+  {
+    "id": 7,
+    "title": "AI互联网日报：DeepSeek V4.1 Flash降价上线、高德生成3D城市世界、支付宝设立每年1000万元“智能体涌现奖”",
+    "summary": "DeepSeek发布V4.1 Flash并启用新价格，高德发布3D原生城市世界模型ABot-Earth 0.7，支付宝设立每年1000万元“智能体涌现奖”。阿里国际站聚集1.5万多家美国中小企业，文远知行获西班牙L4运营牌照，老曹认为全球化下一轮竞争更比谁能把规则、交付和本地运营做成长期能力。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68979.html"
+  },
+  {
+    "id": 8,
+    "title": "QoderWake @Waker 支持企业微信了",
+    "summary": "QoderWake 的 @Waker 核心协作能力在继钉钉、飞书之后正式支持企业微信，三大平台团队均可在原工作群中 @Waker 处理任务。该功能旨在让数字员工融入团队 IM 协作场景，借助群内讨论、文档、日程等办公能力理解并参与工作。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68985.html"
+  },
+  {
+    "id": 9,
+    "title": "高德的新野心：让AI从屏幕里走进真实世界",
+    "summary": "高德发布新战略，旨在让AI从屏幕走进真实世界，解决用户出门时买票、排行程和到现场三大场景中的信息盲区问题。例如买票时用户无法判断座位视野，只能靠社交平台返图脑补，常到场才发现视野被挡。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68970.html"
+  },
+  {
+    "id": 10,
+    "title": "Ardot × WorkBuddy：代码能变回设计稿了？一套汽车 HMI 界面的双向实测",
+    "summary": "AI已能分别生成代码和UI，但两端产物互不相认，导致设计师和前端仍需重复劳动。为此，作者借一套汽车HMI界面Demo，实测了WorkBuddy生成代码后反向导回Ardot画布精修的C2D链路，以及设计稿转代码的D2C链路，验证双向打通的可能性。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68928.html"
+  },
+  {
+    "id": 11,
+    "title": "企业级 MultiAgent 落地：Plan 模式与主子 Agent 协作",
+    "summary": "文章介绍了基于AgentScope Java构建的企业级MultiAgent平台，聚焦复杂任务如何通过Plan模式进行规划并拆解给专业Agent协作完成。平台为研发、数据分析和知识问答等场景提供统一的模型调用、工具接入、任务编排、流式输出与运行追踪能力，并指出仅靠ReAct循环难以应对多步骤相互依赖的复杂任务。",
+    "image_url": "",
+    "date": "2026-09-09",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68857.html"
+  },
+  {
+    "id": 12,
+    "title": "AI互联网日报：ChatGPT Images 2.5正式上线/iPhone Duo定价曝光/DeepSeek升级又降价",
+    "summary": "DeepSeek预告V4.1 Flash并下调Flash系列价格，京东物流计划五年采购300万台机器人，腾讯混元联合高校提出流式空间记忆框架Spati。此外，ChatGPT Images 2.5正式上线，iPhone Duo定价曝光。",
+    "image_url": "",
+    "date": "2026-09-09",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68827.html"
+  },
+  {
+    "id": 13,
+    "title": "从钉群提问到任务交付：团队级 Agent 基础设施全链路实践",
+    "summary": "阿里云云原生消息前端团队自研的内部研发协作平台Domino正从单一代码执行工具升级为团队级研发Agent系统，能够理解团队上下文、持续沉淀演进并闭环真实交付。Domino最初诞生于内部前端源码定位工具，后逐步演变为覆盖需求理解、编码、评审、部署和验收的研发平台，其核心目标是让CodingAgent在真实仓库和真实研发链路中完成任务。",
+    "image_url": "",
+    "date": "2026-09-09",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68847.html"
+  },
+  {
+    "id": 14,
+    "title": "零基础也能看懂的 Loop Engineering",
+    "summary": "Loop Engineering 关注如何为 Agent 设计可靠的反馈机制，使其能像小朋友根据批注订正作业一样，依据上一次结果决定下一步行动，并判断何时继续或停止。这也是 TRAE 在 Agentic Coding 中的核心方向。",
+    "image_url": "",
+    "date": "2026-09-09",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68795.html"
+  },
+  {
+    "id": 15,
+    "title": "10个技巧，让你的Workbuddy比别人好用！",
+    "summary": "针对用户在使用WorkBuddy时遇到的对话变长易出错、误生成文件、技能选择困难等常见问题，官方整理了10个实用操作技巧。这些技巧涵盖上下文用量查看等具体设置，旨在帮助用户提升使用体验，让WorkBuddy越用越顺手。",
+    "image_url": "",
+    "date": "2026-09-09",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/68783.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅包含“查看网站地图 >”等导航文字），没有可供概括的正文信息。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "华沿机器人午后拉升 一度涨超79%",
+    "summary": "华沿机器人午后股价大幅拉升，一度涨超79%。该股当日表现强劲，涨幅显著。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679821315.shtml"
+  },
+  {
+    "id": 18,
+    "title": "上证报中国证券网讯(记者何治民)9月11日，华沿机器人午后拉升，一度涨超79%，截至13时11分，股价上涨77.39%，报16.79港元/股。消息面上，华沿机器人正式纳入港股通标的，且同步获纳入恒生综 ...",
+    "summary": "9月11日午后，华沿机器人股价大幅拉升，一度涨超79%，截至13时11分上涨77.39%，报16.79港元/股。消息面上，华沿机器人正式纳入港股通标的，并同步获纳入恒生综指。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679821315.shtml"
+  },
+  {
+    "id": 19,
+    "title": "中际旭创、新易盛逆势拉升，AI硬件龙头股表现活跃",
+    "summary": "中际旭创和新易盛在市场中逆势拉升，成为AI硬件龙头股中的活跃代表。这两家公司的股价表现突出，带动了相关板块的关注度。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679821238.shtml"
+  },
+  {
+    "id": 20,
+    "title": "截至9月11日午间休盘，AI硬件龙头股表现活跃，创业板人工智能ETF华安(159279)跟踪指数下跌2.21%。相关个股方面，中际旭创上涨1.83%，新易盛上涨0.75%，天孚通信下跌4.70%。消息面上，中际旭 ...",
+    "summary": "截至9月11日午间休盘，AI硬件龙头股表现活跃，但创业板人工智能ETF华安(159279)跟踪指数下跌2.21%。个股方面，中际旭创上涨1.83%，新易盛上涨0.75%，天孚通信下跌4.70%。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679821238.shtml"
+  },
+  {
+    "id": 21,
+    "title": "MLCC概念早盘异动，村田拟停产部分产品",
+    "summary": "MLCC概念早盘出现异动，消息面上，村田计划停产部分产品。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820969.shtml"
+  },
+  {
+    "id": 22,
+    "title": "9月11日，早盘MLCC概念异动，双星新材(002585.SZ)直线涨停，昀冢科技(688260.SH)、风华高科(000636.SZ)等涨幅靠前。消息面上，MLCC巨头村田制作所日前发布通知，宣布在2026会计年度启动产品 ...",
+    "summary": "9月11日早盘，MLCC概念出现异动，双星新材直线涨停，昀冢科技、风华高科等涨幅靠前。消息面上，MLCC巨头村田制作所日前宣布将在2026会计年度启动产品相关调整。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820969.shtml"
+  },
+  {
+    "id": 23,
+    "title": "中通快递9月10日于纽交所回购455,123股美国存托股份，耗资约948.7万美元",
+    "summary": "中通快递于9月10日在纽交所回购455,123股美国存托股份，耗资约948.7万美元。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820830.shtml"
+  },
+  {
+    "id": 24,
+    "title": "9月11日，中通快递(ZTO.US)在纽约证券交易所回购455,123股美国存托股份(代表455,123股A类普通股)，每股最高购回价USD21.1，每股最低购回价USD20.71，付出的价格总额为USD9,487,038.94。该批 ...",
+    "summary": "中通快递于9月11日在纽约证券交易所回购455,123股美国存托股份，每股购回价介于20.71至21.1美元之间，总金额为9,487,038.94美元。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820830.shtml"
+  },
+  {
+    "id": 25,
+    "title": "深圳南山跑出的新黑马，超维动力完成超5亿元天使+轮系列融资",
+    "summary": "深圳南山的超维动力完成超5亿元天使+轮系列融资。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820804.shtml"
+  },
+  {
+    "id": 26,
+    "title": "21世纪经济报道记者石恩泽深圳南山再跑出一家具身智能黑马。近日，超维动力(Kinetix AI)宣布完成超5亿元人民币天使+轮系列融资，本轮融资获得新加坡淡马锡控股旗下VC机构祥峰投资，以及方广 ...",
+    "summary": "深圳南山具身智能企业超维动力（Kinetix AI）近日宣布完成超5亿元人民币天使+轮系列融资，投资方包括新加坡淡马锡控股旗下祥峰投资及方广资本等。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820804.shtml"
+  },
+  {
+    "id": 27,
+    "title": "懵了！全线杀跌，股市午评来了",
+    "summary": "今日股市全线杀跌，三大指数均出现大幅下跌。市场情绪低迷，投资者需密切关注后续走势。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820618.shtml"
+  },
+  {
+    "id": 28,
+    "title": "【导读】上午A股主要指数集体下跌，沪指失守3900点，科创综指跌3.65%，全市场超5100只个股下跌，军工股逆市走强9月11日上午，A股主要指数集体下挫。截至午盘，沪指下跌1.82%，失守3900点， ...",
+    "summary": "9月11日上午，A股主要指数集体下挫，沪指跌1.82%失守3900点，科创综指跌3.65%，全市场超5100只个股下跌。军工股逆市走强。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820618.shtml"
+  },
+  {
+    "id": 29,
+    "title": "名创优品9月10日斥资23.81万美元回购10.51万股",
+    "summary": "名创优品于9月10日斥资23.81万美元回购10.51万股。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820448.shtml"
+  },
+  {
+    "id": 30,
+    "title": "名创优品(09896)发布公告，于2026年9月10日，该公司斥资23.81万美元回购10.51万股股份，每股回购价2.255-2.275美元。 ...",
+    "summary": "名创优品（09896）于2026年9月10日斥资23.81万美元回购10.51万股股份，每股回购价介于2.255至2.275美元之间。",
+    "image_url": "",
+    "date": "2026-09-10",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260911/c679820448.shtml"
+  }
+]
