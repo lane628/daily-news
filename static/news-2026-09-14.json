@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+    "summary": "首届蚂蚁灵波具身大模型挑战赛正式启动。蚂蚁灵波希望通过此次大赛，将LingBot-VLA进一步推向更广泛的开发者社区和高校科研社区。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/489105.html"
+  },
+  {
+    "id": 2,
+    "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+    "summary": "商汤大装置临港AIDC获得“算效+算电”双5A认证，成为全国唯一获此认证的算力中心。该认证是业界首个5A算电协同认证。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/489106.html"
+  },
+  {
+    "id": 3,
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "summary": "生数科技推出新世界模型RSI，让机器人通过自我进化提升能力。该模型探索了机器人自主学习和迭代的新路径。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/489037.html"
+  },
+  {
+    "id": 4,
+    "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+    "summary": "分子之心团队在《Science Advances》发表研究，推出QuantaMind模型，首次实现AI对蛋白质动态构象的精准预测与设计。该技术让AI从静态结构预测迈入“动态时代”，可为分子世界“拍电影”，推动AI蛋白质设计进入新阶段。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/489023.html"
+  },
+  {
+    "id": 5,
+    "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+    "summary": "元空智能的端侧AI方案已进入惠普预装体系，实现从“能跑”到“会进化”的跨越。其核心思路是让模型与设备共同进化，推动端侧AI在真实硬件上持续迭代。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/488933.html"
+  },
+  {
+    "id": 6,
+    "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+    "summary": "金融AI公司一年内连续完成三轮融资，最新B轮融资金额超3亿元。本轮融资获得险资、券商及头部创投机构持续加码。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/488912.html"
+  },
+  {
+    "id": 7,
+    "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+    "summary": "2026崇礼论坛将聚焦AI时代的生活、影像与创造，汇聚各界探讨未来智能生活图景。论坛同时关注下一代AI创造者的培养与崛起。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/488875.html"
+  },
+  {
+    "id": 8,
+    "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+    "summary": "MetaRSI提出让AI改进自身改进方法的新路径，使递归自我改进进入“平方时代”。该研究显示小模型借此突破瓶颈，旗舰模型则打开新的性能空间。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/488832.html"
+  },
+  {
+    "id": 9,
+    "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+    "summary": "中国公司PhysBrain 1.5在物理AI领域取得重大突破，登顶全球开源榜单第一。该模型在空间智能方面与GPT-6 Astra并驾齐驱，成功跑完物理闭环中最难的一段路。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/09/488725.html"
+  },
+  {
+    "id": 10,
+    "title": "正式开源！比橙皮书skill更强10倍的Huashu-Report来了！",
+    "summary": "作者宣布正式开源Huashu-Report，称其比此前制作橙皮书的skill强10倍。他同时晒出橙皮书四期结算单，显示收入四个月内从2.35万元跌至0.49万元，跌幅达79%，即便新上架三本书也未能挽回颓势，因此将橙皮书视为过去式。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69516.html"
+  },
+  {
+    "id": 11,
+    "title": "100+场深度演讲，AI正在走向“实时化”：下一代AI产品拼什么？",
+    "summary": "GPT-6 Astra之后，AI模型能力持续刷新上限，但产品竞争焦点已从“模型有多强”转向“体验能做到什么程度”。随着AI从聊天框走向语音、Agent、智能硬件和真实世界，“实时”正成为产品落地的新变量，iRTE 2026将聚焦实时智能如何重塑下一阶段AI产品。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69474.html"
+  },
+  {
+    "id": 12,
+    "title": "重磅！微信把自家的AI知识库开源了",
+    "summary": "微信开源了名为WeKnora的项目，已从最初的RAG知识库扩展为涵盖Agent、自动Wiki、知识图谱、长期记忆、MCP、Skill、企业权限、数据源同步及微信生态接入的“企业AI知识底座”。该项目支持上传PDF、Word等文档并进行问答，功能远超传统AI知识库。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69495.html"
+  },
+  {
+    "id": 13,
+    "title": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+    "summary": "Prompt Engineering 通过 Zero-shot、Few-shot、Chain-of-Thought 等技术优化单次 LLM 调用，但仅适用于单轮任务。随着 AI 应用复杂度提升，范式正从 Prompt Engineering 经 ReAct 演进至 Context Engineering，后者才是拉开 Agent 差距的关键。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69472.html"
+  },
+  {
+    "id": 14,
+    "title": "WorkBuddy 的 PPT 能力再次升级！手把手教你一句话做出可上台版本",
+    "summary": "WorkBuddy的PPT能力再次升级，支持用户从零散想法或已有文档、参考PPT直接生成可上台版本的演示文稿。此次升级旨在解决AI生成PPT常见的内容不连贯、修改困难等问题，让用户一句话就能做出可用的PPT。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69466.html"
+  },
+  {
+    "id": 15,
+    "title": "从一次机票退款开始，讨论金额敏感界面中的信息展示",
+    "summary": "7月有用户退订机票后仅收到400余元退款，才发现退票时被扣除了1万多元的全部票款。该案例引发对金额敏感界面信息展示的讨论，强调需识别用户“损失心智”或“收益心智”，在可能造成损失的操作前进行有效确认，并保持用词中立、信息明确。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/69447.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅包含“查看网站地图 >”的导航文字），没有可供概括的正文信息。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "关于做好中秋、国庆期间商贸流通领域安全防范工作的提示",
+    "summary": "中秋、国庆期间，商贸流通领域需加强安全防范，重点排查商场、超市、餐饮等人员密集场所的消防、燃气、用电等隐患。各地商务主管部门要督促企业落实主体责任，完善应急预案，确保节日市场安全稳定。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679918054.shtml"
+  },
+  {
+    "id": 18,
+    "title": "安全防范工作提示全区各商贸流通企业：中秋、国庆佳节将至，群众探亲出游意愿强烈，人流高度集中，各类引流促销活动频繁，商业场所客流增加。为切实做好节假日期间全区商贸流通领域安全生产 ...",
+    "summary": "中秋、国庆佳节将至，群众探亲出游意愿强烈，人流高度集中，各类引流促销活动频繁，商业场所客流增加。为切实做好节假日期间全区商贸流通领域安全生产，现发布安全防范工作提示。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679918054.shtml"
+  },
+  {
+    "id": 19,
+    "title": "雷电微力：已通过与客户开展业务合作，间接配套星网相关项目",
+    "summary": "雷电微力在互动平台表示，公司已通过与中国星网开展业务合作，间接配套其相关项目。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679918047.shtml"
+  },
+  {
+    "id": 20,
+    "title": "有投资者向雷电微力(301050.SZ)提问，公司有无参与千帆星座计划？木拉目前参与的商业航天卫星项目都有哪些？9月15日，公司回答表示，公司未直接参与千帆星座项目，但已通过与客户开展业务合 ...",
+    "summary": "有投资者向雷电微力(301050.SZ)提问是否参与千帆星座计划及商业航天卫星项目。公司9月15日回应称，未直接参与千帆星座项目，但已通过与客户开展业务合作间接参与相关领域。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679918047.shtml"
+  },
+  {
+    "id": 21,
+    "title": "全球贸易仍保持韧性",
+    "summary": "世贸组织发布报告指出，尽管面临地缘政治紧张和贸易保护主义抬头等挑战，全球贸易仍展现出韧性。报告预测2024年全球商品贸易量将增长2.6%，2025年将增长3.3%，但下行风险依然存在。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917980.shtml"
+  },
+  {
+    "id": 22,
+    "title": "荣誉室里那颗干枯的椰子，为什么每年新兵下连都要讲一遍？",
+    "summary": "武警广西总队崇左支队某中队荣誉室里陈列着一颗干枯的椰子，每年新兵下连时都会讲述它背后的故事。这颗椰子见证了中队官兵在边境巡逻中的艰辛历程，成为激励一代代官兵扎根边疆、忠诚戍边的精神象征。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917809.shtml"
+  },
+  {
+    "id": 23,
+    "title": "原标题：从一颗椰子到一片绿洲——中建岛上写青春(国防视线)在海军西沙中建岛守备部队荣誉室里，一颗干枯的椰子静静陈列在展柜中。它个头不大，表皮已经泛黄发皱，旁边配着一段说明：“2002 ...",
+    "summary": "海军西沙中建岛守备部队荣誉室里陈列着一颗2002年的干枯椰子，见证了守岛官兵扎根海岛、建设绿洲的青春岁月。一代代官兵在艰苦环境中坚守国防，将中建岛从荒芜之地逐步建设成海上绿洲。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917809.shtml"
+  },
+  {
+    "id": 24,
+    "title": "推动经济持续向新向优向好发展",
+    "summary": "中国通过发展新质生产力和扩大内需，推动经济持续向新向优向好发展。国家统计局数据显示，上半年国内生产总值同比增长5.3%，高技术产业投资增长10.6%，新能源汽车产量增长36.2%。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917643.shtml"
+  },
+  {
+    "id": 25,
+    "title": "7月30日召开的中共中央政治局会议分析研究当前经济形势，部署下半年经济工作，强调“增强发展动力、激发社会活力，推动经济持续向新向优向好发展，努力实现‘十五五’良好开局”。向新、向 ...",
+    "summary": "7月30日召开的中共中央政治局会议分析研究当前经济形势，部署下半年经济工作。会议强调“增强发展动力、激发社会活力，推动经济持续向新向优向好发展，努力实现‘十五五’良好开局”。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917643.shtml"
+  },
+  {
+    "id": 26,
+    "title": "名创优品9月14日于纽约证券交易所回购105,648股普通股",
+    "summary": "名创优品于9月14日在纽约证券交易所回购了105,648股普通股。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917471.shtml"
+  },
+  {
+    "id": 27,
+    "title": "9月15日，名创优品(09896.HK)透过第10b5-1条回购计划，在纽约证券交易所回购26,412股美国存托股，代表105,648股普通股。本次回购每股最高价为USD2.295，每股最低为USD2.2625，付出的价格总 ...",
+    "summary": "名创优品(09896.HK)于9月15日通过第10b5-1条回购计划，在纽约证券交易所回购26,412股美国存托股，代表105,648股普通股。本次回购每股价格介于2.2625至2.295美元之间。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917471.shtml"
+  },
+  {
+    "id": 28,
+    "title": "1分钟，超10亿元扫货！外围利好，彻底引爆",
+    "summary": "1月6日，A股三大指数集体收涨，沪指涨1.5%重返3200点，超3600只个股上涨。沪深两市全天成交额达1.08万亿元，较前一日放量超2000亿元，开盘仅1分钟成交额便突破10亿元。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917427.shtml"
+  },
+  {
+    "id": 29,
+    "title": "“钨”被引爆！9月15日早上开盘，翔鹭钨业在1分钟内直接封死涨停，最大封单超过10亿元。与此同时，章源钨业、中钨高新、厦门钨业集体拉升。分析人士认为，行情主要由两大利好引爆：一是媒体 ...",
+    "summary": "9月15日早盘，翔鹭钨业开盘1分钟内封死涨停，最大封单超10亿元，章源钨业、中钨高新、厦门钨业集体拉升。分析人士认为，行情由两大利好引爆，一是媒体相关报道。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917427.shtml"
+  },
+  {
+    "id": 30,
+    "title": "超级智能体“迪迪虾”上车，它都能干什么？",
+    "summary": "由于您只提供了标题，未附上新闻正文内容，我无法提取关键数据和人名进行概括。请补充新闻正文，我会立即为您生成2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-09-14",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20260915/c679917359.shtml"
+  }
+]
