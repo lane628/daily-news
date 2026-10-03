@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+    "summary": "openJiuwen发布X-Router自演进模型路由技术，该技术基于昇腾亲和设计，能让Agent在运行中持续优化模型选择。实测显示，该技术可减少50%以上的Token消耗，实现越跑越省的效果。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/500098.html"
+  },
+  {
+    "id": 2,
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "summary": "著名数学家丘成桐近日发表新论文，在致谢部分提及了GPT和Claude两款人工智能工具。该论文涉及的问题早在44年前就被丘成桐亲自列入问题清单。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/499991.html"
+  },
+  {
+    "id": 3,
+    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+    "summary": "arXiv发布最严新规，规定每位作者每月最多提交2篇论文，且拒稿不退额度。换区提交也无法规避限制。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/499958.html"
+  },
+  {
+    "id": 4,
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "summary": "何恺明团队提出新方法，利用ImageNet训练encoder，仅通过观看猫片就能学会ARC挑战。该方法展示了在无需专门训练数据的情况下，模型仍能完成抽象推理任务。",
+    "image_url": "",
+    "date": "2026-10-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/499812.html"
+  },
+  {
+    "id": 5,
+    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+    "summary": "谷歌突然发布Gemini 4，搭载RSI技术，性能超越GPT和Opus。其价格仅为Astra的一半。",
+    "image_url": "",
+    "date": "2026-10-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/499663.html"
+  },
+  {
+    "id": 6,
+    "title": "Vorssaint：一个菜单栏图标顶十几个付费 Mac 工具，但它只有三个月大",
+    "summary": "Vorssaint 是一个仅诞生三个月、用 Swift 编写且采用 GPL-3.0-or-later 协议的开源 Mac 工具，旨在用一个菜单栏图标整合系统监控、窗口管理、剪贴板、单应用音量、防休眠和截图等十几种通常需要付费订阅的独立工具。它要求 macOS 14 Sonoma 以上系统并仅支持 Apple Silicon 芯片，试图解决多个常驻进程和辅助功能授权带来的维护成本问题。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/71972.html"
+  },
+  {
+    "id": 7,
+    "title": "Gemini 4正式发布，追平GPT-6但被质疑“刷榜”",
+    "summary": "谷歌DeepMind正式发布年度旗舰模型Gemini 4 Argon，在代码、企业任务、安全和长上下文能力上全面对标生产力工具方向。该模型宣称追平OpenAI的GPT-6，但被外界质疑存在“刷榜”行为。",
+    "image_url": "",
+    "date": "2026-10-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/71936.html"
+  },
+  {
+    "id": 8,
+    "title": "谷歌憋了半年，Gemini 4终于发布",
+    "summary": "在OpenAI持续推进GPT系列、Anthropic靠Claude系列吸引开发者的背景下，谷歌沉寂半年后正式发布Gemini 4 Argon。此次谷歌未聚焦聊天、写作等已有能力，而是瞄准AI下一阶段的重要方向：让AI真正参与复杂任务。",
+    "image_url": "",
+    "date": "2026-10-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/71918.html"
+  },
+  {
+    "id": 9,
+    "title": "福利贴：WorkBuddy、豆包、智谱…9家AI大厂Token会员免费领",
+    "summary": "AI圈近期密集推出福利活动，包括WorkBuddy、豆包、智谱等9家AI大厂提供Token会员免费领取，涵盖1亿Token、最高75天免费、30天订阅、DeepSeek V4.1免费、模型限免及双倍积分等。部分活动将在国庆期间陆续结束，建议尽早领取。",
+    "image_url": "",
+    "date": "2026-10-01",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/71911.html"
+  },
+  {
+    "id": 10,
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "summary": "Meta开源了其新型AI代理Muse的代码，允许用户自行制作搭载该AI的Muse设备。公司建议的项目包括将Muse加载到彩色电子墨水屏上显示提醒，或将其添加到HDMI棒上以便在大屏幕上显示。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+  },
+  {
+    "id": 11,
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "summary": "苹果将在Mac上对“完全磁盘访问权限”施加新限制，以应对AI代理带来的风险。苹果周五表示，将推出新的控制措施，确保只有真正希望授予应用这种高级别访问权限的用户才能进行操作。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  },
+  {
+    "id": 12,
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "summary": "OpenAI推出名为Dots的新代理平台，定位为企业办公软件，但也能完成订餐等日常任务。与Meta Muse的亲和风格不同，Dots更强调工作场景应用。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+  },
+  {
+    "id": 13,
+    "title": "Breaking up (with Elon Musk) is hard to do",
+    "summary": "希冯·齐里斯在X上宣布与埃隆·马斯克分手，马斯克是她四个孩子的父亲。她通过引用“Big Tech Alert”的帖子发布这一消息，该账号专门监控用户关注和取关动态。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis"
+  },
+  {
+    "id": 14,
+    "title": "AI hallucinations are making entitled customers even worse",
+    "summary": "纽约市服务员麦迪逊发现，一些顾客用AI查询过敏信息后，到餐厅不再向服务员确认菜品是否安全，导致险些发生过敏事故。AI的错误信息（幻觉）让本就理直气壮的顾客更加自以为是，给餐饮服务带来新的安全隐患。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
+  },
+  {
+    "id": 15,
+    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "summary": "圣安东尼奥市议员里克·加尔万回忆，数据中心在2000年代刚进入该市时看起来像普通办公楼，但近年来已发展为占地数百万平方英尺的大型“超大规模”设施，用于容纳人工智能的物理基础设施。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅显示“标题：查看网站地图 > 内容：”），没有实际的新闻正文可供概括。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "中方强调联合国安理会制裁体系要持续完善",
+    "summary": "中国常驻联合国副代表耿爽在安理会关于制裁问题公开会上表示，安理会制裁体系要持续完善，以更好地应对复杂多变的国际形势。他强调，制裁措施应遵循联合国宪章宗旨和原则，避免对平民和第三国造成负面影响。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436252.shtml"
+  },
+  {
+    "id": 18,
+    "title": "中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善。(新华社) ...",
+    "summary": "中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436252.shtml"
+  },
+  {
+    "id": 19,
+    "title": "A股龙虎榜透视：7家营业部成交额破千亿，资金青睐这些赛道",
+    "summary": "2025年龙虎榜数据显示，共有7家营业部成交额突破千亿元，其中东方财富证券拉萨团结路第二营业部以超2000亿元居首。资金重点流向人工智能、半导体和新能源等赛道，机构与游资博弈加剧。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436114.shtml"
+  },
+  {
+    "id": 20,
+    "title": "今年以来，A股市场交投活跃。Wind数据显示，截至9月30日收盘，今年以来A股成交额约为465.44万亿元。作为洞察主力资金动向的重要指标之一，龙虎榜营业部(按Wind统计口径)排名浮出水面。今年 ...",
+    "summary": "今年以来A股市场交投活跃，截至9月30日收盘，年内成交额约465.44万亿元。作为洞察主力资金动向的重要指标，龙虎榜营业部（按Wind统计口径）排名随之出炉。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436114.shtml"
+  },
+  {
+    "id": 21,
+    "title": "利好！多家A股公司，业绩预喜",
+    "summary": "近期多家A股上市公司发布业绩预告，均传递出积极信号。其中，部分公司预计净利润同比大幅增长，甚至有公司预计实现扭亏为盈。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436040.shtml"
+  },
+  {
+    "id": 22,
+    "title": "随着2026年三季度正式收官，A股上市公司前三季度业绩预告披露工作逐渐展开。数据显示，截至目前，已有38家公司发布了前三季度业绩预告，半导体、硬件设备、有色金属等行业增长明显。从类型 ...",
+    "summary": "截至目前，已有38家A股上市公司披露2026年前三季度业绩预告，半导体、硬件设备、有色金属等行业增长明显。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680436040.shtml"
+  },
+  {
+    "id": 23,
+    "title": "2500亿元消费品以旧换新资金已全部下达！",
+    "summary": "今年用于消费品以旧换新的2500亿元资金已全部下达。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435949.shtml"
+  },
+  {
+    "id": 24,
+    "title": "近日，国家发展改革委会同财政部，向地方下达了今年第四批625亿元超长期特别国债支持消费品以旧换新资金。至此，全年2500亿元消费品以旧换新资金已全部下达。今年以来，各有关部门认真贯彻 ...",
+    "summary": "国家发展改革委会同财政部下达今年第四批625亿元超长期特别国债支持消费品以旧换新资金，全年2500亿元资金已全部下达。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435949.shtml"
+  },
+  {
+    "id": 25,
+    "title": "中方对原产于欧盟的进口对硝基甲苯发起反倾销立案调查，商务部：欧盟需正视自身面临的经贸问题，通过对话协商解决彼此关切",
+    "summary": "商务部宣布对原产于欧盟的进口对硝基甲苯发起反倾销立案调查。商务部表示，欧盟需正视自身面临的经贸问题，通过对话协商解决彼此关切。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435907.shtml"
+  },
+  {
+    "id": 26,
+    "title": "来源：商务部网站、长安街知事据商务部网站10月3日消息，商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问。有记者问：我们关注到商务部今日对原产于欧盟的进口对硝 ...",
+    "summary": "商务部新闻发言人10月3日就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问。有记者问及商务部当日对原产于欧盟的进口对硝基甲苯发起反倾销调查一事。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435907.shtml"
+  },
+  {
+    "id": 27,
+    "title": "商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问",
+    "summary": "商务部新闻发言人就在对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问时表示，商务部已决定对原产于欧盟的进口对硝基甲苯进行反倾销立案调查。该调查将按照中国相关法律法规和世贸组织规则进行，充分保障各利害关系方的合法权利。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435906.shtml"
+  },
+  {
+    "id": 28,
+    "title": "据商务部公告，商务部决定自2026年10月3日起对原产于欧盟的进口对硝基甲苯进行反倾销立案调查。本次调查确定的倾销调查期为2025年7月1日至2026年6月30日，产业损害调查期为2022年1月1日至20 ...",
+    "summary": "商务部决定自2026年10月3日起对原产于欧盟的进口对硝基甲苯进行反倾销立案调查。本次倾销调查期为2025年7月1日至2026年6月30日，产业损害调查期为2022年1月1日至2026年6月30日。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435906.shtml"
+  },
+  {
+    "id": 29,
+    "title": "10月3日，商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问。有记者问：我们关注到商务部今日对原产于欧盟的进口对硝基甲苯发起反倾销调查，能否介绍相关情况？答： ...",
+    "summary": "商务部新闻发言人10月3日就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问。有记者问及此事并请介绍相关情况，发言人作出了回应。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435881.shtml"
+  },
+  {
+    "id": 30,
+    "title": "商务部：对原产于欧盟的进口对硝基甲苯发起反倾销立案调查",
+    "summary": "商务部宣布对原产于欧盟的进口对硝基甲苯发起反倾销立案调查。此次调查针对欧盟相关产品是否存在倾销行为展开。",
+    "image_url": "",
+    "date": "2026-10-02",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261003/c680435808.shtml"
+  }
+]
