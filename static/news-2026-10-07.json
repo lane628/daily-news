@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "summary": "2025年诺贝尔化学奖授予95岁法国教授，他因25年前的科研成果终于圆梦。这一迟来的荣誉表彰了其在化学领域的开创性贡献。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501825.html"
+  },
+  {
+    "id": 2,
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "summary": "《怪物史莱克》编剧已加入一家AI影视公司，该公司视频模型在全球排名第二。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501803.html"
+  },
+  {
+    "id": 3,
+    "title": "晕…这年头还有说人话的AI不",
+    "summary": "很抱歉，您提供的新闻内容为空，只有标题“晕…这年头还有说人话的AI不”，没有正文内容，因此我无法提取关键数据和人名进行概括。请您补充完整的新闻正文，我会立即为您生成2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501796.html"
+  },
+  {
+    "id": 4,
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "summary": "在a16z首份消费级AI应用月收入榜单中，Meshy位列第31名，成为榜单中唯一的AI 3D公司。该榜单同时收录了OpenAI、Anthropic、Canva、Superhuman、Higgsfield等知名企业。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501791.html"
+  },
+  {
+    "id": 5,
+    "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+    "summary": "OpenAI一次性发布722篇数学论文，涵盖黎曼猜想、霍奇猜想和BSD猜想等重大难题，引发数学家关注。三位菲尔兹奖得主对此表示，这并不代表他们认可这些论文的学术价值。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501749.html"
+  },
+  {
+    "id": 6,
+    "title": "刚刚，诺贝尔物理奖一人独揽！",
+    "summary": "2024年诺贝尔物理学奖授予一人独揽，获奖者在物理学领域取得重大突破。南极洲有一座高地以这位获奖者的名字命名，彰显其科学贡献。",
+    "image_url": "",
+    "date": "2026-10-06",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/501746.html"
+  },
+  {
+    "id": 7,
+    "title": "pr-draft-summary ：OpenAI 是怎么让 Codex 写 PR 描述的",
+    "summary": "AI写PR描述常因上下文不足而输出空洞模板。OpenAI在openai-agents-python仓库中推出pr-draft-summary技能，将PR描述拆解为四个环节并分别设定约束，以解决这一问题。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/72772.html"
+  },
+  {
+    "id": 8,
+    "title": "盘点 20 个 9 月份 GitHub 上顶顶顶的开源项目。",
+    "summary": "9月份GitHub上值得关注的开源项目之一是Archify，它能把系统描述或代码仓库画成交互式图表，例如展示网页请求经过接口、缓存和数据库的路径。生成结果是独立网页文件，支持点击节点查看详情、导出图片和分享卡，适合新人介绍项目或讨论架构调整。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/72595.html"
+  },
+  {
+    "id": 9,
+    "title": "nuget-manager：凭什么管住 AI 改 NuGet 包",
+    "summary": "AI 在修改 NuGet 包时容易生成不存在的版本号，例如将 Newtonsoft.Json 写成 NuGet 上根本没有的 13.0.4，因为模型对版本号没有真值概念，只是在预测看似合理的数字。依赖管理是 LLM 最容易出错的环节，包名拼错、版本号不存在或 PackageReference 放错位置等错误不会立即报错，往往等到 CI 或线上才暴露。",
+    "image_url": "",
+    "date": "2026-10-06",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/72761.html"
+  },
+  {
+    "id": 10,
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "summary": "OpenAI为ChatGPT推出全新“智能界面”功能，该更新随GPT-6一同向所有用户推送，使聊天机器人能够以图表、表单、可点击按钮等交互式视觉元素结合文字来回答问题。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+  },
+  {
+    "id": 11,
+    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "summary": "微软在旧金山举行Windows和Surface主题发布会，最大亮点是Surface Laptop Ultra的发布详情。该笔记本搭载英伟达RTX Spark Arm架构芯片，起售价2,599美元，基础配置为8核CPU、24GB内存和512GB存储。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+  },
+  {
+    "id": 12,
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "summary": "微软在Windows和Surface发布会上展示了Copilot AI系统的升级，使其能够访问PC本地文件并在操作系统上执行操作。这是微软“混合智能”理念的一部分，应用和工具将依赖多种智能方式的结合。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+  },
+  {
+    "id": 13,
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "summary": "微软搭载英伟达芯片的Surface RTX Spark Dev Box现已开启预售，售价5999美元，预计11月发货。该产品比英伟达去年推出的DGX Spark迷你PC更贵，原因是内存等零部件短缺导致PC价格上涨。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
+  },
+  {
+    "id": 14,
+    "title": "ChatGPT is getting college planning tools",
+    "summary": "OpenAI为ChatGPT青少年模式新增大学规划工具，帮助用户处理大学申请流程。该工具将申请要求、截止日期、任务和助学金步骤整合到一份计划中。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
+  },
+  {
+    "id": 15,
+    "title": "Muse launches on the iPad",
+    "summary": "Meta的Muse iOS应用在发布近一个月并数周位居苹果App Store免费榜首后，最新更新新增了对iPad的原生支持。该工具是Meta推出的智能AI助手，旨在与OpenClaw、ChatGPT的Dots及Grok Bot竞争，其Mac版本也已于近期发布。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅包含“查看网站地图 >”等导航文字），没有可供概括的正文信息。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "国际金融公司执董会批准中国企业境外投资项目支持五国粮食安全和农业供应链建设",
+    "summary": "国际金融公司执董会批准了中国企业境外投资项目，旨在支持五国粮食安全和农业供应链建设。该项目将促进相关国家的农业发展，提升粮食安全水平。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471257.shtml"
+  },
+  {
+    "id": 18,
+    "title": "人民财讯10月8日电，据财政部网站消息，9月24日，国际金融公司(IFC)执董会按简化程序(AOB)批准了新希望全球项目(Proposed Investment in New Hope Singapore Pte.Limited for ...",
+    "summary": "国际金融公司执董会于9月24日按简化程序批准了新希望全球项目。该项目涉及对新希望新加坡私人有限公司的投资。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471257.shtml"
+  },
+  {
+    "id": 19,
+    "title": "乐动机器人签署协议拟收购德国SABO全部股权 交易金额不超6百万欧元",
+    "summary": "乐动机器人签署协议，拟收购德国SABO全部股权，交易金额不超过6百万欧元。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471249.shtml"
+  },
+  {
+    "id": 20,
+    "title": "10月7日，乐动机器人(01236.HK)宣布，本公司及新加坡全资附属公司ANTHBOT(SG)PTE.LTD.与卖方SABO Holding GmbH、卖方担保人Lars Daniel及Christoph Schindler以及目标公 ...",
+    "summary": "乐动机器人（01236.HK）宣布，本公司及新加坡全资附属公司ANTHBOT(SG)PTE.LTD.与卖方SABO Holding GmbH、卖方担保人Lars Daniel及Christoph Schindler以及目标公司达成一项交易。该交易涉及乐动机器人及其附属公司对目标公司的收购或投资。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471249.shtml"
+  },
+  {
+    "id": 21,
+    "title": "优必选与一汽-大众达成战略合作",
+    "summary": "优必选与一汽-大众达成战略合作，双方将共同探索人形机器人在汽车制造领域的应用。根据协议，优必选工业版人形机器人Walker S将进入一汽-大众工厂，在典型制造场景中开展示范应用。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471074.shtml"
+  },
+  {
+    "id": 22,
+    "title": "北京商报讯(记者王天逸)10月8日，优必选科技宣布，公司近日与一汽-大众汽车有限公司达成战略合作，双方将共同推进具身智能机器人在物流领域的应用场景开发及测试，同时构建示范应用场景，加 ...",
+    "summary": "优必选科技与一汽-大众达成战略合作，共同推进具身智能机器人在物流领域的应用场景开发及测试，并构建示范应用场景。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680471074.shtml"
+  },
+  {
+    "id": 23,
+    "title": "机构：港股券业景气上行，跨境业绩对冲优势凸显",
+    "summary": "暂无具体新闻内容可供概括。请提供完整的新闻正文，以便提取关键数据和人名并生成2-3句摘要。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470991.shtml"
+  },
+  {
+    "id": 24,
+    "title": "10月8日，中邮证券报告指出，港股券业景气上行，跨境业绩对冲优势凸显。中邮证券指出，已披露的香港证券业上半年业绩直接形成基本面强支撑：全行业净盈利同比增21%至517亿港元，市场交易总 ...",
+    "summary": "中邮证券10月8日报告指出，港股券业景气上行，跨境业绩对冲优势凸显。已披露的香港证券业上半年业绩形成基本面强支撑，全行业净盈利同比增长21%至517亿港元。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470991.shtml"
+  },
+  {
+    "id": 25,
+    "title": "森麒麟拟在土耳其投建轮胎项目 持续拓展欧亚市场",
+    "summary": "森麒麟宣布在土耳其投资建设轮胎项目，以持续拓展欧亚市场。此举旨在进一步扩大其全球产能布局，提升国际市场竞争力。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470914.shtml"
+  },
+  {
+    "id": 26,
+    "title": "森麒麟全球化布局再添新落点。10月8日，青岛森麒麟轮胎股份有限公司(以下简称“森麒麟”)发布的公告显示，公司拟与土耳其TATKO集团共同投资建设年产700万条高性能 ...",
+    "summary": "森麒麟拟与土耳其TATKO集团共同投资建设年产700万条高性能轮胎项目，全球化布局再添新落点。该公告于10月8日由青岛森麒麟轮胎股份有限公司发布。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470914.shtml"
+  },
+  {
+    "id": 27,
+    "title": "【预告】国新办10日举行发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况",
+    "summary": "国务院新闻办公室将于10日举行新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470804.shtml"
+  },
+  {
+    "id": 28,
+    "title": "国务院新闻办公室网站10月8日消息，国务院新闻办公室将于2026年10月10日(星期六)上午10时举行“开局起步‘十五五’”系列主题新闻发布会，请人力资源社会保障部新闻发言人、副部长李忠介绍 ...",
+    "summary": "国务院新闻办公室将于2026年10月10日（星期六）上午10时举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部新闻发言人、副部长李忠将介绍相关情况。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470804.shtml"
+  },
+  {
+    "id": 29,
+    "title": "赤峰吉隆黄金矿业集团9月30日股本结构未发生变动",
+    "summary": "赤峰吉隆黄金矿业集团9月30日股本结构未发生变动。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470315.shtml"
+  },
+  {
+    "id": 30,
+    "title": "10月7日，赤峰黄金(06693.HK)向香港交易及结算所有限公司提交截至2026年9月30日止月份的证券变动月报表，显示当月公司股本及已发行股份均未发生变动。于上海证券交易所上市的A股(证券代号60 ...",
+    "summary": "赤峰黄金（06693.HK）于10月7日向香港交易及结算所有限公司提交截至2026年9月30日止月份的证券变动月报表，显示当月公司股本及已发行股份均未发生变动。公司A股在上海证券交易所上市，证券代号为600988。",
+    "image_url": "",
+    "date": "2026-10-07",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261008/c680470315.shtml"
+  }
+]
