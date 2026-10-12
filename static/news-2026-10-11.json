@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "王的猜想，刚刚扩展到四维",
+    "summary": "数学家王虹与Joshua Zahl用127页论文证明了三维挂谷猜想，解决了这个百年难题。如今，王的猜想被扩展至四维空间，引发学界关注。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502584.html"
+  },
+  {
+    "id": 2,
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "summary": "马斯克与A社合作，硅谷VC开始囤积GPU。当前AI领域算力成为核心竞争力，谁掌握算力谁就占据主导地位。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502585.html"
+  },
+  {
+    "id": 3,
+    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+    "summary": "GPT-4o的拯救行动在下架8个月后仍在继续，其初代4o的API快照已进入停用倒计时。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502550.html"
+  },
+  {
+    "id": 4,
+    "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+    "summary": "DeepSeek Bot民间版现已推出，用户只需在DSH上安装插件即可使用。该版本被网友戏称为“DS bot”，并调侃称“Grok Bot我养不起，ds bot不得高低尝尝咸淡”。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502544.html"
+  },
+  {
+    "id": 5,
+    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+    "summary": "西门子将亮相2026工博会，以更集中、更场景化的方式展示其工业全栈能力。公司将以软硬协同的工业全栈能力，推动物理AI加速落地。",
+    "image_url": "",
+    "date": "2026-10-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502541.html"
+  },
+  {
+    "id": 6,
+    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+    "summary": "2026年9月28日，荣耀在北京举办荣耀Magic盛典暨荣耀Magic9系列新品发布会。该系列主打“超清双2亿，掌中电影机”，售价4499元起。",
+    "image_url": "",
+    "date": "2026-10-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502496.html"
+  },
+  {
+    "id": 7,
+    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+    "summary": "Jev在24天内估值翻倍至75亿美元，成为年度硅谷最引人注目的逆袭案例。这一迅猛增长凸显了市场对其前景的高度认可。",
+    "image_url": "",
+    "date": "2026-10-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502492.html"
+  },
+  {
+    "id": 8,
+    "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+    "summary": "Nano Banana发布2.1版本，支持4K直出，中文能力进步明显。",
+    "image_url": "",
+    "date": "2026-10-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502484.html"
+  },
+  {
+    "id": 9,
+    "title": "特斯拉FSD，在欧洲被打回原形",
+    "summary": "特斯拉FSD在欧洲遭遇挫折，被指表现不佳。马斯克对此反而发文表示感谢。",
+    "image_url": "",
+    "date": "2026-10-10",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502467.html"
+  },
+  {
+    "id": 10,
+    "title": "用AI搭建流量上升词自动发现与批量选题流水线",
+    "summary": "出海或海外社媒团队每天最耗精力的往往不是写内容，而是人工到处找选题，运营人员习惯性刷榜单、热搜和同行账号，看到爆款再截图开会讨论是否跟做。这种依赖肉眼盯盘的方式表面勤奋实则低效，且人眼感知存在极强时间滞后，当热点已挂在热搜榜首或同行已获几十万播放时，流量红利可能早已过去。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74573.html"
+  },
+  {
+    "id": 11,
+    "title": "腾讯又一款AI产品即将消失",
+    "summary": "腾讯元器宣布因业务调整，将于2026年11月9日正式停止服务，10月29日起停止创建新智能体和分发API Key，11月9日后所有应用访问、数据读写、API调用等服务全部关闭。平台为开发者提供数据导出和迁移方案，过渡期持续至2027年1月9日。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74569.html"
+  },
+  {
+    "id": 12,
+    "title": "FDE在硅谷是香饽饽，在国内可能是个坑？",
+    "summary": "FDE（前沿部署工程师）在硅谷需求激增，领英报告显示该岗位2023至2025年增长42倍，远超AI工程师的13倍，OpenAI和Anthropic等公司纷纷布局企业服务并收编资深FDE。国内腾讯也在深圳开出40到70K、15薪的FDE岗位，上海政府还专门举办了相关活动，但该岗位在国内可能面临水土不服的风险。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74557.html"
+  },
+  {
+    "id": 13,
+    "title": "openai-docs ：OpenAI 给 Codex 装了个文档路由器，查不到就让它闭嘴",
+    "summary": "OpenAI在openai/skills仓库的curated目录下发布了一个名为openai-docs的skill，专门解决Agent回答API问题时因模型记忆滞后而流畅编造参数名、必填字段和默认值的问题。该skill并非简单的查询封装，而是一份来源路由协议，整包包含9个文件。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74526.html"
+  },
+  {
+    "id": 14,
+    "title": "马斯克又给SpaceXAI改了个名",
+    "summary": "马斯克在社交平台宣布将旗下SpaceXAI正式更名为SpaceXSI，起因是他发帖称“No more AI，SI is better”，并在网友询问后确认会改名。SI是Super Intelligence（超级智能）的缩写。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74498.html"
+  },
+  {
+    "id": 15,
+    "title": "23岁00后押中AI风口，14人干到670亿",
+    "summary": "23岁辍学生Noah Shinn创立的AI公司Instinct成立仅一年，团队仅14人，估值已达100亿美元（约670亿元人民币）。该公司9月28日宣布完成10亿美元融资，红杉资本、Benchmark、Coatue等参投，估值较8月底的25亿美元一个月内翻了4倍。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74426.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅显示“标题：查看网站地图 > 内容：”），没有可供概括的正文信息。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "日本停产，部分MLCC连续涨价，对业绩会产生积极影响么？风华高科回应",
+    "summary": "风华高科就日本停产导致部分MLCC连续涨价是否对业绩产生积极影响作出回应。此前有消息称，日本厂商停产引发MLCC供应紧张，部分产品价格持续上涨。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584259.shtml"
+  },
+  {
+    "id": 18,
+    "title": "有投资者向风华高科(000636.SZ)提问，公司是MLCC龙头企业，日本停产，部分MLCC连续涨价，对业绩会产生积极影响么？10月12日，公司回答表示，今年以来电子元器件行业景气度持续上行，公司目 ...",
+    "summary": "有投资者向风华高科提问，日本停产及MLCC连续涨价是否对业绩产生积极影响。公司10月12日回应称，今年以来电子元器件行业景气度持续上行。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584259.shtml"
+  },
+  {
+    "id": 19,
+    "title": "生意社：10月12日上海地区钴粉报价下跌",
+    "summary": "10月12日，上海地区钴粉报价出现下跌。具体价格变动反映了当前市场供需状况，生意社对此进行了跟踪报道。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584223.shtml"
+  },
+  {
+    "id": 20,
+    "title": "生意社10月12日讯10月12日，上海现货市场钴粉(-200目、-300目)价格下跌，报价330-350元/千克，均价340元/千克，较上一交易日价格下跌5元/千克。【大宗商品公式定价原理】生意社基准价是基于 ...",
+    "summary": "10月12日，上海现货市场钴粉（-200目、-300目）报价330-350元/千克，均价340元/千克，较上一交易日下跌5元/千克。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584223.shtml"
+  },
+  {
+    "id": 21,
+    "title": "潼关黄金盘中跌超5%，金价波动及美国CPI与加息预期影响",
+    "summary": "潼关黄金盘中跌超5%，受金价波动及美国CPI数据与加息预期影响。市场关注美国通胀数据对美联储货币政策的影响，黄金价格承压下行。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584208.shtml"
+  },
+  {
+    "id": 22,
+    "title": "10月12日，潼关黄金(00340.HK)盘中跌超5%，截至14时50分，跌5.17%，报2.48港元/股，成交额3213.79万港元。消息面上，美债收益率仍处于二十多年高位区域，金价低位反复波动。市场密切关注10 ...",
+    "summary": "10月12日，潼关黄金(00340.HK)盘中跌超5%，截至14时50分报2.48港元/股，跌幅5.17%，成交额3213.79万港元。消息面上，美债收益率仍处二十多年高位区域，金价低位反复波动。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680584208.shtml"
+  },
+  {
+    "id": 23,
+    "title": "商务部新闻发言人：中欧就混动汽车贸易磋商确认三项基本原则，不能歧视性对待中国企业",
+    "summary": "商务部新闻发言人就中欧混动汽车贸易磋商表示，双方已确认三项基本原则，并强调不能歧视性对待中国企业。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583938.shtml"
+  },
+  {
+    "id": 24,
+    "title": "IT之家10月12日消息，据央视新闻报道，商务部新闻发言人今日就中欧混动汽车、电动汽车磋商共识答记者问。问：近日，中欧双方在贸易投资磋商机制下就混动汽车、电动汽车贸易进行了深入讨论 ...",
+    "summary": "商务部新闻发言人10月12日就中欧混动汽车、电动汽车磋商共识答记者问，表示双方在贸易投资磋商机制下进行了深入讨论。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583938.shtml"
+  },
+  {
+    "id": 25,
+    "title": "【涨停直击】逆变器龙头，“20CM”直线涨停",
+    "summary": "逆变器龙头股今日直线涨停，涨幅达20%。该股强势封板，表现抢眼。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583424.shtml"
+  },
+  {
+    "id": 26,
+    "title": "10月12日午后，首航新能股价直线拉升至“20CM”涨停。截至发稿，首航新能股价报27.12元/股，涨停板上封单超20万手，最新市值为111.84亿元。图片来源：同花顺消息面上，日前，中欧贸易投资磋 ...",
+    "summary": "10月12日午后，首航新能股价直线拉升至20CM涨停，报27.12元/股，涨停板上封单超20万手，最新市值111.84亿元。消息面上，日前中欧贸易投资磋商相关消息或为股价上涨催化剂。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583424.shtml"
+  },
+  {
+    "id": 27,
+    "title": "央视曝光“宣称投资15亿元项目撂荒” 官方：成立联合调查组，赴现场开展调查",
+    "summary": "央视曝光了“宣称投资15亿元项目撂荒”的问题。官方已成立联合调查组，赴现场开展调查。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583096.shtml"
+  },
+  {
+    "id": 28,
+    "title": "每经AI快讯，松原市农业农村局10月12日通报：10月11日，中央广播电视总台《财经调查》栏目报道反映了涉及松原市一县一区大棚撂荒等问题。我们诚恳接受社会各界监督，针对报道问题，市政府紧 ...",
+    "summary": "松原市农业农村局10月12日通报，中央广播电视总台《财经调查》栏目10月11日报道了松原市一县一区大棚撂荒等问题。市政府已针对报道问题展开处理，并诚恳接受社会各界监督。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680583096.shtml"
+  },
+  {
+    "id": 29,
+    "title": "中央政法委点名“甲醛白菜”“敌敌畏消杀”“药水杨梅”： 从严查处危害食品安全违法犯罪",
+    "summary": "中央政法委点名“甲醛白菜”“敌敌畏消杀”“药水杨梅”等食品安全问题，要求从严查处危害食品安全的违法犯罪行为。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680582617.shtml"
+  },
+  {
+    "id": 30,
+    "title": "中央政法委有关负责同志12日对近日印发《关于依法从严查处危害食品安全违法犯罪的意见》进行解读，表示当前我国食品安全形势总体平稳可控，持续稳中向好，同时也出现了一些新情况、新问题。 ...",
+    "summary": "中央政法委有关负责同志12日就近日印发的《关于依法从严查处危害食品安全违法犯罪的意见》进行解读，指出当前我国食品安全形势总体平稳可控、持续稳中向好，但也出现了一些新情况、新问题。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261012/c680582617.shtml"
+  }
+]
