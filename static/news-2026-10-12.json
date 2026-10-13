@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+    "summary": "华为利用RSI技术让AI通关25款游戏，操作次数比人类少56%。在游戏中AI甚至打出21:0的成绩，无需再调用大模型。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502654.html"
+  },
+  {
+    "id": 2,
+    "title": "智谱新模型，490 tokens/s！",
+    "summary": "智谱推出新模型GLM，实现490 tokens/s的推理速度。该模型被称为“速度仙人”，引发关注。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502649.html"
+  },
+  {
+    "id": 3,
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "summary": "一款新型AI论文工具问世，用户无需使用Ctrl+F即可在原文献中快速定位信息。该工具采用多智能体工作流，能够自动生成论文初稿。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502644.html"
+  },
+  {
+    "id": 4,
+    "title": "何恺明团队发布多模态Harness框架",
+    "summary": "何恺明团队发布了多模态Harness框架，该框架为多模态模型提供了视觉原生的Harness。这一成果旨在解决多模态模型在视觉任务中的原生支持问题。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502628.html"
+  },
+  {
+    "id": 5,
+    "title": "陶哲轩：数学2.0时代已至！",
+    "summary": "陶哲轩提出“数学2.0时代”概念，认为AI与形式化证明工具正深刻改变数学研究方式。他指出，数学家应拥抱新技术，将AI作为协作工具，推动数学发现与验证效率的提升。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502594.html"
+  },
+  {
+    "id": 6,
+    "title": "王的猜想，刚刚扩展到四维",
+    "summary": "数学家王虹与Joshua Zahl证明三维挂谷猜想后，王虹与Hong Wang、Joshua Zahl再度合作，将研究扩展至四维空间，相关论文已于2025年2月24日发布。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502584.html"
+  },
+  {
+    "id": 7,
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "summary": "马斯克与A社合作，硅谷风投开始囤积GPU，AI行业算力竞争加剧。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502585.html"
+  },
+  {
+    "id": 8,
+    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+    "summary": "GPT-4o的拯救行动在下架8个月后仍在继续，其初代4o的API快照已进入停用倒计时。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502550.html"
+  },
+  {
+    "id": 9,
+    "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+    "summary": "DeepSeek Bot民间版现已推出，用户只需在DSH上安装插件即可使用。该版本被网友戏称为“ds bot”，并调侃称“Grok Bot养不起，ds bot不得高低尝尝咸淡”。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/502544.html"
+  },
+  {
+    "id": 10,
+    "title": "AI陪玩迎来新玩家，零一万物做了个游戏搭子UPUP",
+    "summary": "中国游戏用户规模已达6.84亿，游戏市场收入同比增长12.17%，围绕玩家的陪玩、组队等服务需求旺盛。零一万物推出AI游戏搭子UPUP，切入AI陪玩赛道。2025年比心平台电竞指导员存量超1100万人，行业从业者规模持续扩大。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74733.html"
+  },
+  {
+    "id": 11,
+    "title": "用AI搭建流量上升词自动发现与批量选题流水线",
+    "summary": "出海或海外社媒团队每天最耗精力的往往不是写内容，而是人工到处找选题，运营人员习惯性刷榜单、热搜和同行账号，看到爆款再截图开会讨论是否跟风。这种依赖肉眼盯盘的做法表面勤奋实则低效，且人眼感知存在极强时间滞后，当热点已挂上热搜榜首或同行已获几十万播放时，流量红利可能早已过去。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74573.html"
+  },
+  {
+    "id": 12,
+    "title": "腾讯又一款AI产品即将消失",
+    "summary": "腾讯元器宣布因业务调整，将于2026年11月9日正式停止服务，10月29日起停止创建新智能体和分发API Key，11月9日后所有应用访问、数据读写、API调用等服务全部关闭。已发布到微信公众号、微信客服等渠道的智能体也将无法继续响应用户。腾讯为开发者提供数据导出和迁移方案，过渡期持续至2027年1月9日。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/74569.html"
+  },
+  {
+    "id": 13,
+    "title": "Meta has some Wonder Full new AI models",
+    "summary": "Meta在AI竞赛中加速追赶，继推出重组后超级智能实验室的首个模型Muse Spark和热门AI代理Muse之后，又发布了两款新模型Muse Wonder和Muse Wonder Full，声称可与业内最佳模型匹敌。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+  },
+  {
+    "id": 14,
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "微软发布第三代自研AI芯片Maia 300，旨在成为其产品和服务的“主要AI推理系统”。该芯片不仅提升了云端AI工作负载的成本与效率，还能更好地处理最新推理模型和代理任务，从而减少对英伟达GPU的依赖。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  },
+  {
+    "id": 15,
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "summary": "特朗普总统宣布将人工智能更名为“超级智能”的计划，尽管大众仍普遍使用“AI”这一称呼，但硅谷一些最具影响力的人物正开始追随这一更名尝试。",
+    "image_url": "",
+    "date": "2026-10-11",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅显示“查看网站地图 >”），没有具体的新闻正文可供概括。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "雅思考试主办方致歉，将设免费专场！考生可申请报销交通住宿",
+    "summary": "雅思考试主办方就近期考试安排问题致歉，并宣布将设立免费专场考试。受影响考生可申请报销因考试变动产生的交通和住宿费用。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632447.shtml"
+  },
+  {
+    "id": 18,
+    "title": "日前，多地考生反映，雅思考试已连续多日临时停考。10月13日，南都N视频记者从英国文化教育协会官网获悉，针对连日来多地考生反映雅思考试临时停考，雅思主办方将自10月14日起全面恢复考试 ...",
+    "summary": "多地考生反映雅思考试连续多日临时停考。10月13日，南都N视频记者从英国文化教育协会官网获悉，雅思主办方将自10月14日起全面恢复考试。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632447.shtml"
+  },
+  {
+    "id": 19,
+    "title": "金融服务有温度 延时待客显担当",
+    "summary": "近日，建行东营东城支行营业室临近下班时，客户张先生因急需办理对公业务匆匆赶到。网点负责人李燕迅速协调，安排客服经理王芳延时服务，耐心为客户办完业务，展现了金融服务的温度与担当。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632307.shtml"
+  },
+  {
+    "id": 20,
+    "title": "为持续优化适老化金融服务，切实解决老年客户办事难题，工行南通海门四甲支行始终坚持以客户为中心，以贴心、细致、有温度的服务打通老年客户金融服务“最后一公里”，让老年群体真切感受金 ...",
+    "summary": "工行南通海门四甲支行聚焦老年客户办事难题，持续推进适老化金融服务。该行坚持“以客户为中心”，以贴心、细致、有温度的服务打通老年客户金融服务“最后一公里”。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632307.shtml"
+  },
+  {
+    "id": 21,
+    "title": "百纳千成在宁波成立两家智能科技公司",
+    "summary": "百纳千成在宁波成立了两家智能科技公司。这两家公司的具体名称和注册资本等详细信息尚未披露。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632190.shtml"
+  },
+  {
+    "id": 22,
+    "title": "企查查APP显示，近日，宁波熠动智能科技有限公司、宁波焕影智能科技有限公司成立，注册资本均为1000万元，企查查股权穿透显示，两公司均由百纳千成(300291)间接全资持股。 ...",
+    "summary": "近日，宁波熠动智能科技有限公司和宁波焕影智能科技有限公司成立，注册资本均为1000万元。企查查股权穿透显示，这两家公司均由百纳千成（300291）间接全资持股。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632190.shtml"
+  },
+  {
+    "id": 23,
+    "title": "生意社：10月13日国内钴市行情下跌",
+    "summary": "10月13日，国内钴市行情下跌。生意社数据显示，钴价下跌，市场表现疲软。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632189.shtml"
+  },
+  {
+    "id": 24,
+    "title": "生意社10月13日讯品种/规格报价市场/地区报价均价涨跌单位1#钴广东南储现货251000-271000261000-2000元/吨1#钴上海金属网250000-267000258500-4000元/吨电解钴(99.8%)上海华通现货2 ...",
+    "summary": "10月13日，广东南储现货1#钴报价251000-271000元/吨，均价261000元/吨，下跌2000元/吨；上海金属网1#钴报价250000-267000元/吨，均价258500元/吨，下跌4000元/吨。上海华通现货电解钴（99.8%）报价亦出现调整。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632189.shtml"
+  },
+  {
+    "id": 25,
+    "title": "奇瑞汽车在青岛成立汽车销售公司，注册资本5000万",
+    "summary": "奇瑞汽车在青岛成立汽车销售公司，注册资本5000万。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632184.shtml"
+  },
+  {
+    "id": 26,
+    "title": "企查查APP显示，近日，奇瑞(青岛)汽车销售有限公司成立，法定代表人为郑国荣，注册资本为5000万元，经营范围包含：新能源汽车整车销售；汽车销售；汽车零配件零售；机械零件、零部件销售； ...",
+    "summary": "奇瑞(青岛)汽车销售有限公司近日成立，法定代表人为郑国荣，注册资本5000万元。该公司经营范围包括新能源汽车整车销售、汽车销售、汽车零配件零售及机械零件、零部件销售等。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632184.shtml"
+  },
+  {
+    "id": 27,
+    "title": "深圳“小巨人”橙子数字获数千万元B+轮融资，阜阳公司正式投产",
+    "summary": "深圳“小巨人”企业橙子数字完成数千万元B+轮融资，由中金资本旗下基金领投。同时，其阜阳公司正式投产，预计年产值超10亿元。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632176.shtml"
+  },
+  {
+    "id": 28,
+    "title": "金秋送爽，硕果盈枝。10月13日上午，阜阳市大眼橙科技有限公司开业庆典在阜阳颍泉区智能制造产业园举行。颍泉区委常委、副区长杨丽群，区政协副主席、科技局局长储艳霞，区经济开发区管委会 ...",
+    "summary": "10月13日上午，阜阳市大眼橙科技有限公司开业庆典在阜阳颍泉区智能制造产业园举行，颍泉区委常委、副区长杨丽群，区政协副主席、科技局局长储艳霞等出席。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632176.shtml"
+  },
+  {
+    "id": 29,
+    "title": "港交所押注人民币产品，欲吸引全球资金",
+    "summary": "港交所行政总裁欧冠升表示，港交所正押注人民币产品，以吸引全球资金。他指出，随着中国与全球市场的联系日益紧密，港交所将推出更多人民币计价产品，以满足国际投资者的需求。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632085.shtml"
+  },
+  {
+    "id": 30,
+    "title": "港交所行政总裁陈翊庭在10月12日发布的博客文章中透露，港交所计划推出新一轮措施，以提升市场流动性、吸引更多国际投资者，并扩大人民币的使用范围。具体路径包括人民币计价的黄金期货和股 ...",
+    "summary": "港交所行政总裁陈翊庭10月12日发表博客文章称，港交所计划推出新一轮措施提升市场流动性、吸引国际投资者并扩大人民币使用范围。具体路径包括推出人民币计价的黄金期货和股票等产品。",
+    "image_url": "",
+    "date": "2026-10-12",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261013/c680632085.shtml"
+  }
+]
