@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+    "summary": "2026全球开发者先锋大会暨国际具身智能技能大赛以“具身进实景，劳动最光荣”为主题，抢先盘点了十大亮点。大会聚焦具身智能在真实场景中的应用，并突出劳动价值。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503294.html"
+  },
+  {
+    "id": 2,
+    "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+    "summary": "阶跃终端正式发布首款「Agent手机」STEPX Neo，定位为“物理版Agent”。该产品面向创客群体先行推出。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503244.html"
+  },
+  {
+    "id": 3,
+    "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+    "summary": "一辆领克汽车在坠崖事故中因安全性能表现突出而引发关注，尽管其智能配置并不出彩。这起事故让领克意外出圈，也反映出当前汽车竞争正回归汽车本身的安全与品质。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503231.html"
+  },
+  {
+    "id": 4,
+    "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+    "summary": "AI技术正在重写综艺生产逻辑，从创意到成本全面变革。《变形计》以赛博形式复活，AI版MrBeast爆火，LibTV入局打造AI综艺明星。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503211.html"
+  },
+  {
+    "id": 5,
+    "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+    "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）正式发布旗下首款大模型原生智能体手机STEPX Neo。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503201.html"
+  },
+  {
+    "id": 6,
+    "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+    "summary": "MemSilicon宣布完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片。该芯片采用与CMOS标准工艺兼容的1TnR技术路线，公司正加速推进相关研发。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503198.html"
+  },
+  {
+    "id": 7,
+    "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+    "summary": "国内最年轻的AI教授（据公开信息）创业，目标是让世界模型走向全身全模态。其核心思路是为Ego补上缺失的交互信息。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503172.html"
+  },
+  {
+    "id": 8,
+    "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+    "summary": "商汤大装置助力上海量子城市首批智能体落地，实现从“懂空间”到“能干活”的升级。该智能体使调度效率提升80%。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503173.html"
+  },
+  {
+    "id": 9,
+    "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+    "summary": "APUS AI于10月13日宣布开源Personal Agent产品Reflex Agent，其响应速度比Claude Code快3倍，并实现真正无限上下文。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/503165.html"
+  },
+  {
+    "id": 10,
+    "title": "QoderWake 上新：数字员工有了你的经验，也有了自己的电脑",
+    "summary": "QoderWake在云栖大会期间推出三项新能力：个人分身可在授权后从钉钉聊天和会议纪要中学习业务背景与表达方式，云电脑为数字员工提供持久化云端工作环境，Waker小管家帮助理清需求并匹配合适的数字员工。这些能力旨在让数字员工熟悉用户业务并拥有持续工作的环境，不再依赖本地电脑开机。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75856.html"
+  },
+  {
+    "id": 11,
+    "title": "cloudflare-deploy ：决策树才是产品",
+    "summary": "OpenAI在Smithery上发布的cloudflare-deploy技能，以一份730多词的SKILL.md搭配60来个参考目录，比例明显失衡。Cloudflare产品线极为分散，仅“运行代码”需求就有Workers和Pages两套无服务器函数方案，另有Durable Objects、Containers和Workflows等。该技能的核心并非脚本，而是决策树。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75584.html"
+  },
+  {
+    "id": 12,
+    "title": "豆包被腾讯、阿里拒之门外，中国的Personal Agent难了",
+    "summary": "字节跳动旗下豆包手机助手宣布《屏幕自动化操作声明协议》进入下一阶段，将陆续放开第三方应用的屏幕自动化操作权限，但微信、QQ、淘宝、支付宝、钉钉、饿了么等应用均拒绝授权。这意味着豆包无法操作腾讯、阿里等旗下核心应用，中国Personal Agent的发展面临重大阻碍。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75809.html"
+  },
+  {
+    "id": 13,
+    "title": "腾讯、阿里、OpenAI，开始批量砍AI产品了",
+    "summary": "腾讯元器宣布将于11月9日停止服务，用户搭建的智能体全部失效，此前腾讯已停运QClaw，豆包和千问也于三个月前同日下线用户自建智能体。海外方面，OpenAI今年先后关停了Sora和Atlas浏览器。自2023年ChatGPT爆火以来，AI产品正经历批量关停潮。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75791.html"
+  },
+  {
+    "id": 14,
+    "title": "一文拆解Jev架构：一个判断模型是怎么被拼出来的",
+    "summary": "2026年9月，硅谷和开源社区因名为Jev的模型陷入狂热，该模型宣称是“系统一”模型，能直接给出判断和概率，速度极快。与过去三四年大语言模型需生成大量思考Token再输出结论不同，Jev以“快准狠”的接口吸引开发者疯狂追捧。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75743.html"
+  },
+  {
+    "id": 15,
+    "title": "双面田柯宇：一次无法自圆其说的「行侠仗义」",
+    "summary": "田柯宇是过去两年中国生成式AI领域最具争议的年轻创业者，他创立的十人世界模型实验室在五源资本和IDG加持下估值达两亿美元，同时他凭借第一作者论文《Visual Autoregressive Modeling》获得NeurIPS 2024最佳论文奖。然而，他在字节跳动商业化技术团队担任算法实习生期间身陷字节跳动索赔诉讼，被指涉及“字节投毒”事件。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/75756.html"
+  },
+  {
+    "id": 16,
+    "title": "Review & Preview: Blistering in the Sun",
+    "summary": "9月通胀报告表现火热，令华尔街担忧美联储可能在10月加息。",
+    "image_url": "",
+    "date": "2026-10-14",
+    "category": "finance",
+    "source": "Yahoo Finance",
+    "source_url": "https://finance.yahoo.com/m/4d20f5d7-ca41-3488-9991-642d3ccb112c/review-%26-preview%3A-blistering.html?.tsrc=rss"
+  }
+]
