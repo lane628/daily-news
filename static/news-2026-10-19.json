@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+    "summary": "这家量子计算公司正从百比特芯片研发推进到整机交付，并同步搭建千比特规模量子算力云平台，致力于将量子算力推向可调用服务。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504277.html"
+  },
+  {
+    "id": 2,
+    "title": "通研院孵化的团队，也盯上了RSI",
+    "summary": "通研院孵化的团队正在关注RSI（递归自我改进）技术方向。该团队致力于解决AI越来越懂用户之后，如何让智能真正属于用户的核心问题。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504294.html"
+  },
+  {
+    "id": 3,
+    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+    "summary": "2026年10月19日下午，2026物理AI与世界模型大会医疗健康世界模型分会场在南京国际博览中心钟山厅举行。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504266.html"
+  },
+  {
+    "id": 4,
+    "title": "全栈自研！国产高端互连芯片，稳了!",
+    "summary": "国产高端互连芯片实现全栈自研，历经六年蛰伏累计出货80万颗，标志着该领域自主可控取得关键突破。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504225.html"
+  },
+  {
+    "id": 5,
+    "title": "AI 开始挑战最复杂的系统：生命",
+    "summary": "10月17日，哲源科技发布WHIRLPO计算医学平台。该平台旨在用AI挑战生命这一最复杂的系统，标志着AI在计算医学领域的进一步应用。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504242.html"
+  },
+  {
+    "id": 6,
+    "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+    "summary": "10月19日，RISC-V中国峰会在深圳举行，达摩院玄铁出席并首发车规产品路线图。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504238.html"
+  },
+  {
+    "id": 7,
+    "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+    "summary": "首届全球具身智能应用创新挑战赛暨2026中国机器人大赛于10月18日下午闭幕。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504199.html"
+  },
+  {
+    "id": 8,
+    "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+    "summary": "商汤大装置日均处理6万亿Token，AI基础设施竞争正从算力规模转向高质量Token产能。文章探讨商汤如何通过优化推理效能来提升Token产出质量，以应对这一行业趋势转变。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504188.html"
+  },
+  {
+    "id": 9,
+    "title": "谷歌开源RSI新成果！华人浓度爆表",
+    "summary": "谷歌开源了RSI（递归自我改进）新成果，其Harness层由华人团队主导研发，团队中华人比例极高。该成果聚焦AI自我迭代能力的工程化实现，具体技术细节与性能数据尚未完全披露。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504184.html"
+  },
+  {
+    "id": 10,
+    "title": "从 BERT、GPT 到 Jev：一文看懂大模型架构的演进与分化",
+    "summary": "2026年9月，TypeSafe AI发布Jev，该模型不生成文本，而是针对输入材料回答选择题、评分题或判断题并直接返回各答案概率，完成一组判断仅需百毫秒量级，远快于常见语言模型的数秒到数分钟。文章从2017年Transformer原始结构出发，梳理BERT与GPT两条主流技术路线，以及DeepSeek、Qwen等当前模型，说明Jev与主流大模型之间的架构演进与分化关系。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77227.html"
+  },
+  {
+    "id": 11,
+    "title": "MiniMax M3.1 Flash正式发布：重新定义 Agent 的性能与成本",
+    "summary": "MiniMax正式发布新一代Flash模型M3.1 Flash，其早期版本曾以匿名身份“Space Bunny”处理超200T Token。该模型在Agentic任务、编程、Computer Use及网络安全等能力上实现代际提升，线上推理速度提升近3倍，使用成本降低70%。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77156.html"
+  },
+  {
+    "id": 12,
+    "title": "Vercel-Deplo：一个禁止 Agent 复查部署结果的 Skill",
+    "summary": "vercel-deploy 是 openai/skills 仓库 curated 目录下的一个 Skill，在 Smithery 上归入 DevOps 分类，页面显示 7,309 星、17 次安装，安装量极小。该 Skill 出自 OpenAI 官方维护的 Codex 技能目录（2025 年 11 月建立），其核心特点是禁止 Agent 复查部署结果。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/76864.html"
+  },
+  {
+    "id": 13,
+    "title": "刘强东，要开全国最大的机器人4S店？",
+    "summary": "京东已与智元、云深处、众擎、松延动力等近百家机器人企业达成维修服务合作，刘强东计划未来5年建设全国最大的机器人4S店网络。其思路是让快递员转型学习维修机器人，由机器人负责送快递、人类负责维修保养，从而在机器人普及的背景下为快递员开辟新职业方向。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77042.html"
+  },
+  {
+    "id": 14,
+    "title": "Codex 核心团队万字复盘：做对什么、踩过哪些坑，以及 8 条 AI 原生产品法则",
+    "summary": "Every联合创始人Dan Shipper采访了Codex核心团队成员Embiricos、Thibault Sottiaux和Andrew Ambrosino，复盘Codex从云端产品遇冷转向本地、再推出不允许用户直接修改代码的桌面应用的曲折历程。报道探讨了AI产品应围绕用户当前习惯设计还是押注模型未来能力的核心难题，并总结了8条AI原生产品法则。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77007.html"
+  },
+  {
+    "id": 15,
+    "title": "Popto 爆款兔评测：链接一贴就出片，但每秒 3 块的渲染费劝退谁",
+    "summary": "Popto爆款兔是一站式AI数字人口播视频创作平台，用户粘贴抖音、小红书或微信视频号链接即可自动拆解结构、写文案、选数字人并渲染成片。但官方标价数字人口播视频3元一秒，一条一分钟的片子需180元，成本是否值得需用户自行权衡。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/76852.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”），没有正文可供概括。请补充新闻正文内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "短期市价能否刷新5年内高点？",
+    "summary": "抱歉，您提供的新闻内容为空，只有标题“短期市价能否刷新5年内高点？”，没有正文信息，无法提炼摘要。请补充新闻正文内容。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680875003.shtml"
+  },
+  {
+    "id": 18,
+    "title": "10月中东局势支撑原油价格，上旬PX及PTA开工负荷下降，PTA现货价格创4年内高点，短期市价能否刷新5年内高点？成本支撑叠加检修增加PTA市价创四年内高点2026年10月PTA现货价格最高涨至7610元 ...",
+    "summary": "10月中东局势支撑原油价格，上旬PX及PTA开工负荷下降，PTA现货价格最高涨至7610元/吨，创4年内高点。成本支撑叠加检修增加推动PTA市价上行，短期能否刷新5年内高点仍待观察。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680875003.shtml"
+  },
+  {
+    "id": 19,
+    "title": "协鑫科技拟25亿收购协鑫锂电控股权 后者承诺未来两年利润不低于6.2亿",
+    "summary": "协鑫科技拟以25亿元收购协鑫锂电控股权，后者承诺未来两年利润不低于6.2亿元。此次收购旨在整合锂电业务资源，进一步拓展新能源产业链布局。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680874899.shtml"
+  },
+  {
+    "id": 20,
+    "title": "10月19日，协鑫科技(03800.HK)在港交所公告称，公司与控股股东协鑫集团订立不具法律约束力的谅解备忘录，拟收购协鑫锂电约81.91%股权，交易对价初步估计约25亿元(约29.36亿港元)。其中，收 ...",
+    "summary": "协鑫科技与控股股东协鑫集团订立不具法律约束力的谅解备忘录，拟以约25亿元收购协鑫锂电约81.91%股权。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680874899.shtml"
+  },
+  {
+    "id": 21,
+    "title": "国家发展改革委：将以更大力度更实举措有效扩大内需",
+    "summary": "国家发展改革委表示将以更大力度、更实举措有效扩大内需。相关政策举措旨在激发消费潜力和扩大有效投资，推动经济持续回升向好。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873999.shtml"
+  },
+  {
+    "id": 22,
+    "title": "据央视新闻，国家发展改革委今天(10月20日)举行新闻发布会，相关负责人介绍，我国将以更大力度、更实举措有效扩大内需。同时，完善扩大内需体制机制，促进供需高效畅通循环。坚持惠民生和促 ...",
+    "summary": "国家发展改革委10月20日举行新闻发布会，相关负责人介绍我国将以更大力度、更实举措有效扩大内需，完善扩大内需体制机制，促进供需高效畅通循环。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873999.shtml"
+  },
+  {
+    "id": 23,
+    "title": "利率定价基准走向多元化，24省已落地百余笔DR贷款",
+    "summary": "截至2月末，24个省份已落地百余笔DR贷款，利率定价基准走向多元化。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873924.shtml"
+  },
+  {
+    "id": 24,
+    "title": "中国证券报记者10月20日了解到，随着央行有序完善短端利率调控机制，隔夜利率DR001的基准性不断提高。今年下半年开始，部分金融机构开始尝试以DR利率作为浮动利率贷款的定价基准，也是央行 ...",
+    "summary": "中国证券报记者10月20日了解到，随着央行有序完善短端利率调控机制，隔夜利率DR001的基准性不断提高。今年下半年开始，部分金融机构开始尝试以DR利率作为浮动利率贷款的定价基准。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873924.shtml"
+  },
+  {
+    "id": 25,
+    "title": "首批136项标志性重大应用场景项目清单有何亮点？国家发改委详解",
+    "summary": "国家发改委发布首批136项标志性重大应用场景项目清单，涵盖多个领域。这些项目旨在推动新技术新产品应用，促进产业升级和经济发展。发改委相关负责人详细解读了清单的亮点和意义。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873923.shtml"
+  },
+  {
+    "id": 26,
+    "title": "国家发展改革委政策研究室副主任、新闻发言人李超10月20日在国家发展改革委新闻发布会上表示，国家发展改革委会同有关部门推出首批136项标志性重大应用场景项目清单，就是要通过项目化、清 ...",
+    "summary": "国家发展改革委政策研究室副主任、新闻发言人李超10月20日在新闻发布会上表示，国家发展改革委会同有关部门推出首批136项标志性重大应用场景项目清单。此举旨在通过项目化、清单化方式推动重大应用场景落地。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873923.shtml"
+  },
+  {
+    "id": 27,
+    "title": "国家发展改革委：正在研究制定扩大内需战略实施方案（2026-2030年）",
+    "summary": "国家发展改革委正在研究制定扩大内需战略实施方案（2026-2030年）。该方案旨在系统部署未来五年扩大内需工作，进一步释放内需潜力。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873922.shtml"
+  },
+  {
+    "id": 28,
+    "title": "国家发展改革委国民经济综合司副司长左刚10月20日在国家发展改革委新闻发布会上表示，正在研究制定扩大内需战略实施方案(2026-2030年)，并将加快推动印发实施。下一步，国家发展改革委将会 ...",
+    "summary": "国家发展改革委国民经济综合司副司长左刚10月20日在新闻发布会上表示，正在研究制定扩大内需战略实施方案（2026-2030年），并将加快推动印发实施。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873922.shtml"
+  },
+  {
+    "id": 29,
+    "title": "300466，强势“20cm”封板！三大板块，涨停潮",
+    "summary": "300466强势封板20cm涨停，带动三大板块出现涨停潮。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873918.shtml"
+  },
+  {
+    "id": 30,
+    "title": "早盘机械设备等三大板块掀涨停潮。个股方面，宇树科技今天上午再度放量上行，短短几个交易日累计最大涨幅接近四成。此前较长时间宇树科技股价表现低迷。三大板块掀涨停潮 A股市场今天上午整 ...",
+    "summary": "A股市场今天上午机械设备等三大板块掀起涨停潮。个股方面，宇树科技上午再度放量上行，短短几个交易日累计最大涨幅接近四成，而此前较长时间其股价表现低迷。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261020/c680873918.shtml"
+  }
+]
