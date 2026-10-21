@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "summary": "MiniMax在国模Agent评测中排名第一，并对Flash模型进行了大幅升级，提升了全时段性能。此次更新还涉及“大肥鱼”相关谷价信息，但具体数据未在标题中详述。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504517.html"
+  },
+  {
+    "id": 2,
+    "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+    "summary": "MemT 1.0 通过将记忆机制原生集成到 Transformer 架构中，补上了 RSI 三块关键拼图中的模型层记忆能力。该方案从模型层实现记忆功能，使 Transformer 具备原生记忆能力。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504456.html"
+  },
+  {
+    "id": 3,
+    "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+    "summary": "比亚迪集团于2026年10月16日正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴。该会议将于2026年举行，比亚迪将以官方合作伙伴身份参与其中。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504452.html"
+  },
+  {
+    "id": 4,
+    "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+    "summary": "比亚迪携多品牌于当地时间10月12日亮相2026巴黎国际车展，以技术赋能全球化深耕。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504435.html"
+  },
+  {
+    "id": 5,
+    "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+    "summary": "是石科技发布TokenFleet调度框架，将首Token延迟降低32.4%。该框架通过集群调度优化，进一步提升了国产推理效率。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504421.html"
+  },
+  {
+    "id": 6,
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "summary": "Meshy推出基于全新自研AI模型的Meshy Edit，用户只需圈选修改区域并用一句话描述改动，约一分钟即可生成新模型，且未选中区域保持原样。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504415.html"
+  },
+  {
+    "id": 7,
+    "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+    "summary": "赛豆首款AI汽车公告图正式公示，搭载宁德时代电池。网友通过零件价格推测该车售价将在20万元以上。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504395.html"
+  },
+  {
+    "id": 8,
+    "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+    "summary": "GTC2026全球流量大会（上海）将于2026年11月4日至5日在上海世博展览馆H3馆举办。大会设立“AI硬件专区”，面向AI硬件出海企业开放，邀请企业参展占位，避免在出海浪潮中沦为“背景板”。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504372.html"
+  },
+  {
+    "id": 9,
+    "title": "DeepSeek-V4.1-Flash-1017 评测：跑分屠榜的快手模型，但别把它当旗舰用",
+    "summary": "DeepSeek推出V4.1-Flash-1017版本，距9月10日首发仅一个多月便全面强化，网页端、App、API三端同步切换，调用方式仍为deepseek-flash。该版本将终端基准拉高三分之一以上，输出价格仅为同级旗舰的零头，主打Coding Agent仓库级任务的高性价比。但它快得真实也糙得真实，评测提醒别把它当旗舰用。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77512.html"
+  },
+  {
+    "id": 10,
+    "title": "告别 AI Demo 页面：构建支持淘内货品运营、可C端投放的会场 Agent Harness",
+    "summary": "方舟AI会场Agent Harness突破传统AI仅生成静态Demo页面的局限，构建出支持淘内真实货品运营且可面向C端投放的生产级会场系统，通过策划、视觉设计、数据装配与页面构建的完整链路，将用户一句话需求转化为承载视觉规范、商品供给与渲染协议的HTML产物。技术上重点构建了会场域认知、业务Agent工作区及自迭代环境，借助Skill体系注入淘系设计规范与业务规则，利用SubAgent实现上下文隔离与并行提效，并配合多层质检与全链路观测机制保障交付。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77353.html"
+  },
+  {
+    "id": 11,
+    "title": "Anatomy Atelier ：把 9 个器官装进浏览器",
+    "summary": "GitHub项目thebuggeddev/anatomy（Anatomy Atelier）是一个跑在浏览器里的交互式3D人体解剖室，收录心脏、大脑、肺、肝脏、肾脏、眼睛、肠道、胰腺、皮肤共9个器官，已获3692个Star和942个Fork。该项目仓库仅有9个commit，其中8个来自作者本人，而最早一次性建成整个平台的提交作者栏写的是AI“codex”。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77243.html"
+  },
+  {
+    "id": 12,
+    "title": "从 BERT、GPT 到 Jev：一文看懂大模型架构的演进与分化",
+    "summary": "2026年9月，TypeSafe AI发布Jev，该模型不生成文本，而是针对输入材料回答选择题、评分题和判断题三类限定问题并直接返回各答案概率，完成一组判断仅需百毫秒量级，远快于常见语言模型的数秒到数分钟。文章从2017年Transformer原始结构出发，梳理BERT与GPT两条主流技术路线，以及DeepSeek、Qwen等当前模型，说明Jev与主流大模型之间的架构演进与分化关系。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77227.html"
+  },
+  {
+    "id": 13,
+    "title": "MiniMax M3.1 Flash正式发布：重新定义 Agent 的性能与成本",
+    "summary": "MiniMax正式发布新一代Flash模型M3.1 Flash，其早期版本曾以匿名身份“Space Bunny”处理超200T Token。该模型在Agentic任务、编程、Computer Use及网络安全等能力上实现代际提升，线上推理速度提升近3倍，使用成本降低70%。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77156.html"
+  },
+  {
+    "id": 14,
+    "title": "Vercel-Deplo：一个禁止 Agent 复查部署结果的 Skill",
+    "summary": "vercel-deploy 是 openai/skills 仓库 curated 目录下的一个 Skill，在 Smithery 上归入 DevOps 分类，页面显示 7,309 星、仅 17 次安装。该 Skill 针对 Agent 部署场景中指令隐含前提缺失的问题，禁止 Agent 复查部署结果。它出自 OpenAI 官方维护的 Codex 技能目录，该仓库建于 2025 年 11 月。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/76864.html"
+  },
+  {
+    "id": 15,
+    "title": "刘强东，要开全国最大的机器人4S店？",
+    "summary": "京东已与智元、云深处、众擎、松延动力等近百家机器人企业达成维修服务合作，刘强东计划未来5年建设全国最大的机器人4S店网络。其思路是让快递员转型学习维修机器人，由机器人负责送快递、人类负责维修保养，从而在机器人普及的背景下为快递员开辟新职业方向。",
+    "image_url": "",
+    "date": "2026-10-19",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/77042.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅包含标题“查看网站地图”和格式标记，无正文），无法生成摘要。请补充新闻正文内容。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "10月21日证券之星午间消息汇总：事关中长期资金入市！北交所发声",
+    "summary": "北交所发声推动中长期资金入市，相关举措涉及优化投资端制度安排。10月21日午间消息汇总显示，北交所就引导中长期资金入市作出表态，具体政策细节待进一步披露。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680919512.shtml"
+  },
+  {
+    "id": 18,
+    "title": "宏观要闻1、北交所：将畅通中长期资金入市渠道在2026金融街论坛年会上，北京证券交易所董事长鲁颂宾表示，将丰富市场指数基金产品，推进北证50ETF落地工作，加大北交所基金产品供给，持 ...",
+    "summary": "北京证券交易所董事长鲁颂宾在2026金融街论坛年会上表示，北交所将畅通中长期资金入市渠道，丰富市场指数基金产品，推进北证50ETF落地工作，并加大北交所基金产品供给。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680919512.shtml"
+  },
+  {
+    "id": 19,
+    "title": "发展新质生产力 有了“统一标尺”",
+    "summary": "我国发布新质生产力发展评价指标体系，首次为各地各行业发展新质生产力提供“统一标尺”。该体系涵盖多个维度指标，旨在科学衡量发展水平、引导资源合理配置。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680918661.shtml"
+  },
+  {
+    "id": 20,
+    "title": "（一）发展新质生产力 有了“统一标尺”10月9日，中共中央、国务院印发《关于发展新质生产力的意见》。国家发改委有关负责同志指出，《意见》“为全国发展新质生产力确立了统一思想行动的标 ...",
+    "summary": "中共中央、国务院于10月9日印发《关于发展新质生产力的意见》，国家发改委有关负责同志指出该文件为全国发展新质生产力确立了统一思想行动的标尺。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680918661.shtml"
+  },
+  {
+    "id": 21,
+    "title": "证监会亮出三大举措，北交所、新三板一体化改革提速",
+    "summary": "证监会推出三大举措，加快北交所与新三板一体化改革。具体包括优化发行上市机制、完善交易制度、加强监管协同，以提升市场服务创新型中小企业的能力。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680918318.shtml"
+  },
+  {
+    "id": 22,
+    "title": "10月21日，中国证监会公众公司监管司一级巡视员商庆军在2026金融街论坛年会“共建服务中小企业资本市场新生态”论坛上表示，将紧扣防风险、强监管、促高质量发展的工作主线，持续健全监管制 ...",
+    "summary": "中国证监会公众公司监管司一级巡视员商庆军在2026金融街论坛年会“共建服务中小企业资本市场新生态”论坛上表示，将紧扣防风险、强监管、促高质量发展的工作主线，持续健全监管制度。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680918318.shtml"
+  },
+  {
+    "id": 23,
+    "title": "进一步推动科技与商贸深度融合",
+    "summary": "新闻标题为“进一步推动科技与商贸深度融合”，但正文内容为空，无法提取关键数据和人名进行概括。请提供完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917839.shtml"
+  },
+  {
+    "id": 24,
+    "title": "《关于加快推进科技兴商的意见》（以下简称《意见》）近日已正式发布。在国新办19日举行的新闻发布会上，商务部部长助理袁晓明表示，《意见》是立足新发展阶段，首次以“科技兴商”为主题， ...",
+    "summary": "《关于加快推进科技兴商的意见》近日正式发布，商务部部长助理袁晓明在国新办19日新闻发布会上表示，这是立足新发展阶段首次以“科技兴商”为主题的专门文件。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917839.shtml"
+  },
+  {
+    "id": 25,
+    "title": "国家开发银行：“十四五” 时期累计发放城市更新领域相关贷款超2万亿元",
+    "summary": "国家开发银行在“十四五”时期累计发放城市更新领域相关贷款超2万亿元。该行表示，“十四五”时期将加大城市更新领域支持力度，助力城市高质量发展。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917342.shtml"
+  },
+  {
+    "id": 26,
+    "title": "中房网讯10月20日，国家开发银行副行长王克冰在北京市城市更新平台发布会上表示，2025年开发银行专门设立城市更新专项贷款，加大金融服务的力度。“十四五”时期，国家开发银行 ...",
+    "summary": "国家开发银行副行长王克冰在北京市城市更新平台发布会上表示，2025年开发银行专门设立城市更新专项贷款，加大金融服务力度。“十四五”时期，国家开发银行持续推进城市更新金融服务。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917342.shtml"
+  },
+  {
+    "id": 27,
+    "title": "以务实举措便利企业出口 以制度优化增强发展信心",
+    "summary": "海关总署推出务实举措便利企业出口，通过制度优化增强发展信心。这些措施旨在简化通关流程、降低企业成本，提升出口效率。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917095.shtml"
+  },
+  {
+    "id": 28,
+    "title": "10月19日，商务部、海关总署发布《进一步优化两用物项出口管制质疑和鉴别工作有关事项》的公告(以下简称《公告》)，进一步明确部门办理时限，完善货物分类处理安排。出口管制关系国家安全和 ...",
+    "summary": "商务部与海关总署10月19日联合发布公告，进一步优化两用物项出口管制质疑和鉴别工作，明确部门办理时限并完善货物分类处理安排。该公告旨在强化出口管制，维护国家安全。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680917095.shtml"
+  },
+  {
+    "id": 29,
+    "title": "人社部、中央网信办、教育部、公安部、国务院国资委，联合发布风险提示",
+    "summary": "人社部、中央网信办、教育部、公安部、国务院国资委联合发布风险提示，提醒公众警惕不法分子利用“境外高薪”“央国企内推”等名义实施招聘诈骗。提示指出，此类骗局常以收取中介费、培训费或诱导从事违法活动为手段，求职者应通过正规渠道核实信息，避免上当受骗。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680916409.shtml"
+  },
+  {
+    "id": 30,
+    "title": "当前正处求职招聘旺季，一些不法分子冒用央国企名义发布虚假招聘信息引流，打着“内部推荐”“直签保录”等幌子，甚至伪造招聘录用材料，诱导求职者支付高额费用，严重侵害求职者合法权益， ...",
+    "summary": "当前正值求职招聘旺季，一些不法分子冒用央国企名义发布虚假招聘信息，以“内部推荐”“直签保录”等幌子诱导求职者支付高额费用，甚至伪造招聘录用材料，严重侵害求职者合法权益。",
+    "image_url": "",
+    "date": "2026-10-20",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261021/c680916409.shtml"
+  }
+]
