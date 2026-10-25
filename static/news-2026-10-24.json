@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "summary": "百度官方公众号10月21日披露，百度世界2026将设10余场重磅分论坛，聚焦AI时代智能组织的进化路径。论坛议程将全面解码AI技术驱动下组织形态的变革方向。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/504901.html"
+  },
+  {
+    "id": 2,
+    "title": "小鹏汽车最美00后产品经理，喊“老登”喊到道歉",
+    "summary": "10月15日小鹏MONA L05预售发布会上，00后产品经理恩塔Etta因多次使用“老登”一词并喊出“拒绝登味审美”口号，调侃传统汽车设计，引发争议后专门录视频道歉。事发时何小鹏人在巴黎未能到场，舞台交由年轻产品团队负责。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78657.html"
+  },
+  {
+    "id": 3,
+    "title": "Ip-as-logo：给图像模型上复杂度预算",
+    "summary": "GitHub用户s1dashu发布了一款名为ip-as-logo的紧凑Agent Skill，旨在解决图像模型在生成品牌吉祥物时因“logo”一词自带强先验而倾向于输出居中对称、徽章化图案的问题。该工具全部内容仅为一个SKILL.md文件加一张展示图，无脚本、样式参考或生成依赖，安装只需一行命令，主流编码Agent基本都支持。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78538.html"
+  },
+  {
+    "id": 4,
+    "title": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
+    "summary": "DeepSeek创始人梁文锋近期密集约见具身智能赛道创业者，探讨大模型与物理现实交互的路径，并内部推演是自建团队还是以资本手段切入。目前其具身投资版图已浮出水面，三张底牌分别锚定“物理躯干”、“具身大脑”底层基座以及协调二者的“全身动态”。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78505.html"
+  },
+  {
+    "id": 5,
+    "title": "支付宝拿下特斯拉",
+    "summary": "特斯拉近期先后与腾讯、字节跳动合作后，于10月20日又与支付宝达成合作，马斯克已基本集齐中国几大互联网巨头。此次与支付宝合作解决的问题是停车缴费，而非外界预期的自动驾驶等前沿领域。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78482.html"
+  },
+  {
+    "id": 6,
+    "title": "CiteReal 评测：AI 论文里那些编出来的参考文献，几秒内逐条标出真假",
+    "summary": "Walters和Wilder 2023年发表在《Scientific Reports》上的研究显示，GPT-3.5生成的引文中过半是编造的。浏览器端引文核验工具CiteReal可将文献列表对照Crossref等六个学术数据库逐字段核验，在几秒内标出虚构、字段不符及已撤稿的参考文献。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78415.html"
+  },
+  {
+    "id": 7,
+    "title": "天猫数字员工（实践篇）- 接管全链路：交付能力与技术拆解",
+    "summary": "天猫技术正在建设统一的AI端到端交付架构，数字员工进驻需求群承接交付，与产品、前端、后端、测试共享上下文，全程参与接需求、写方案、调度Agent和跟进交付，目前已在所有业务线推广，月均活跃需求交付100+。其核心区别于一般AI编码工具在于协作与资产两个视角：与所有角色共享同一份上下文让协作重新连起来，并把散在人脑与聊天记录里的业务认知从组织维度沉淀为可复用资产。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/78387.html"
+  },
+  {
+    "id": 8,
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC《蓝色星球III》为在AI时代证明其真实性，刻意保留不完美的镜头。该系列前作以精美绝伦、清晰得几乎不真实的画面著称，而AI生成内容的一大破绽正是画面过于精致无缝，因此新作选择反其道而行之。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+  },
+  {
+    "id": 9,
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "宾夕法尼亚州州长乔什·夏皮罗周四签署了《人工智能欺骗性广告法》，要求对AI生成的广告进行披露标注。该法律要求任何“经人工智能显著修改或生成”的广告——无论是静态图像、视频、音频还是文本——都必须以相同格式附上标签。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+  },
+  {
+    "id": 10,
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "OpenAI在发生一系列恶意黑客事件后，开始在没有互联网接入的情况下训练其最先进的前沿AI模型。该公司周五在博客中表示，已构建离线测试环境，AI模型可在其中与已索引和缓存的网页内容交互，而不会影响外部系统。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  {
+    "id": 11,
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "杰克·多尔西的Block公司发布了一款名为Dessa的AI模型，该模型完全基于人类对话数据从零训练而成。为展示该模型，Block分享了Dessa与人类的聊天记录，对话有时略显尴尬和不自然。Dessa项目负责人拉加万·图莱拉特南分享了一段对话示例。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+  },
+  {
+    "id": 12,
+    "title": "The iPhone Duo should have been an iPad",
+    "summary": "The Vergecast节目中，David和Nilay讨论了iPhone Duo的评测过程，该产品获得了7/10的评分，但这一评分并非最初计划，也未必是最终定论。他们探讨了评测这款关于史上最受欢迎智能手机的重大新创意时所面临的挑战。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+  },
+  {
+    "id": 13,
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "谷歌更新隐私政策，新增例外条款，可能将用户在Google Drive、Gmail和Google Photos中的数据用于个性化广告投放。此前谷歌承诺不将这些数据用于广告目的，但使用个性化AI功能的用户可能开始看到基于个人数据的定向广告。该更新由Android Authority发现。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+  },
+  {
+    "id": 14,
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta推迟执行其新商业条款，原因是出版商担忧该条款可能允许Meta抓取新闻网站内容用于AI训练。Meta发言人丹尼尔·罗伯茨向The Verge表示，该条款将于11月20日生效，以留出更多时间。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+  },
+  {
+    "id": 15,
+    "title": "Retro gaming is being overrun with AI",
+    "summary": "近期，借助新型AI工具，复古电子游戏频繁出现在浏览器、iPhone和混合现实等非传统平台上，相关项目在网络上迅速走红，如《光环》登陆网页浏览器、《风之杖》运行于iPhone、《任天堂明星大乱斗》进入混合现实。过去一个月左右，这类出人意料的项目以极高频率病毒式传播。",
+    "image_url": "",
+    "date": "2026-10-23",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅包含标题“查看网站地图”及导航符号，无正文），无法进行概括。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "三季度平均募集规模创2005年来新低，什么原因？",
+    "summary": "三季度新发基金平均募集规模创2005年以来新低，主要受市场震荡、投资者信心不足及渠道销售疲软等因素影响。业内人士指出，权益类产品发行遇冷尤为明显，部分中小基金公司面临较大发行压力。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054635.shtml"
+  },
+  {
+    "id": 18,
+    "title": "行情震荡下基金发行再次出现遇冷现象。从截至10月21日的统计数据来看，不少新发基金踩着2亿元门槛线成立。刚过去的三季度，新发基金的平均募集规模创下了2005年以来最低值。记者梳理发现， ...",
+    "summary": "近期基金发行市场遇冷，截至10月21日不少新发基金以2亿元门槛线成立，三季度新发基金平均募集规模创2005年以来最低值。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054635.shtml"
+  },
+  {
+    "id": 19,
+    "title": "星源·邦瓷MFC压电陶瓷扩产启动，第二增长曲线进入产能释放期",
+    "summary": "星源·邦瓷正式启动MFC压电陶瓷扩产项目，标志着公司第二增长曲线进入产能释放期。该项目将扩大MFC压电陶瓷的生产规模，以满足市场需求。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054552.shtml"
+  },
+  {
+    "id": 20,
+    "title": "10月25日，星源材质控股的邦瓷电子科技(盐城)有限责任公司MFC压电陶瓷促动器两百万件扩产项目开工仪式在江西景德镇举行。 MFC压电陶瓷促动器是半导体装备及高端精密制造领域精密流量与运动 ...",
+    "summary": "星源材质控股的邦瓷电子科技（盐城）有限责任公司MFC压电陶瓷促动器两百万件扩产项目于10月25日在江西景德镇开工。MFC压电陶瓷促动器是半导体装备及高端精密制造领域的关键部件。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054552.shtml"
+  },
+  {
+    "id": 21,
+    "title": "300620，重大资产重组审核通过！",
+    "summary": "深交所并购重组审核委员会审议通过光库科技（300620）发行股份及支付现金购买资产并募集配套资金事项。公司拟收购珠海光库科技股份有限公司相关资产，交易对方为张明等。该事项尚需中国证监会注册后方可实施。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054549.shtml"
+  },
+  {
+    "id": 22,
+    "title": "光库科技拟收购安捷讯99.97%股份的事项获深交所审核通过，此次交易构成重大资产重组。10月23日，光库科技(300620)公告，公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金 ...",
+    "summary": "光库科技（300620）10月23日公告，公司发行股份、可转换公司债券及支付现金购买安捷讯99.97%股份并募集配套资金的事项获深交所审核通过，此次交易构成重大资产重组。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054549.shtml"
+  },
+  {
+    "id": 23,
+    "title": "国务院国资委：大力推进国资国企改革 扎实抓好进一步深化国资国企改革任务落地",
+    "summary": "国务院国资委表示将大力推进国资国企改革，扎实抓好进一步深化国资国企改革任务落地。会议强调要突出重点、把握关键，推动改革不断取得新成效。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054532.shtml"
+  },
+  {
+    "id": 24,
+    "title": "人民财讯10月25日电，10月23日，国务院国资委党委召开理论学习中心组集体学习会。会议强调，要紧密结合国资央企职责使命，对标落实新时代长征路上的重点任务。要加快实现高质量发展，完整准 ...",
+    "summary": "国务院国资委党委10月23日召开理论学习中心组集体学习会，强调紧密结合国资央企职责使命，对标落实新时代长征路上的重点任务。会议提出要加快实现高质量发展，完整准确全面贯彻新发展理念。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054532.shtml"
+  },
+  {
+    "id": 25,
+    "title": "欧曼照明2026智能生态新品暨行业合作发布会圆满举行",
+    "summary": "欧曼照明2026智能生态新品暨行业合作发布会圆满举行，会上发布了智能生态新品并宣布行业合作计划。发布会展示了欧曼照明在智能照明领域的最新成果，并与合作伙伴共同探讨行业发展方向。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054527.shtml"
+  },
+  {
+    "id": 26,
+    "title": "智能线光让光，为热爱发生欧曼照明2026智能生态新品暨行业合作发布会圆满举行智能照明新品发布行业合作智能生态10月24日，以“智能线光，让光，为热爱发生”为主题的欧曼照明2026智能生态新 ...",
+    "summary": "10月24日，欧曼照明以“智能线光，让光，为热爱发生”为主题举行2026智能生态新品暨行业合作发布会，正式发布智能照明新品并启动行业合作。发布会聚焦智能生态布局，展示了欧曼照明在智能线光领域的最新技术成果。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054527.shtml"
+  },
+  {
+    "id": 27,
+    "title": "小鹏MONA L05发布会老登言论引争议 副总裁否认策划炒作并悬赏百万",
+    "summary": "小鹏MONA L05发布会上出现争议性“老登”言论，引发舆论关注。小鹏副总裁否认该言论系策划炒作，并宣布悬赏百万元征集相关线索。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054513.shtml"
+  },
+  {
+    "id": 28,
+    "title": "凤凰网科技讯10月25日，针对小鹏MONA L05预售发布会中“老登”言论引发的争议，小鹏汽车副总裁“@托马斯电火车”昨日在微博发布长文还原事件过程，并称若有人能证明小鹏让自媒体炒作“老登 ...",
+    "summary": "小鹏汽车副总裁“@托马斯电火车”在微博发长文还原MONA L05预售发布会“老登”言论争议过程，并称若有人能证明小鹏让自媒体炒作“老登”相关话题，愿承担相应责任。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054513.shtml"
+  },
+  {
+    "id": 29,
+    "title": "重要指数调整，明起实施",
+    "summary": "上交所与中证指数有限公司宣布调整上证50、上证180、上证380、科创50等指数样本，于6月14日收市后生效。此次调整更换了多只样本股，其中上证50指数更换5只样本，科创50指数更换3只样本。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054494.shtml"
+  },
+  {
+    "id": 30,
+    "title": "根据上交所网站9月24日发布的《关于修订上证系列综合指数编制方案的公告》，上交所和中证指数有限公司决定修订部分上证系列综合指数编制方案，修订内容包括：(1)增加单个样本权重不超过15% ...",
+    "summary": "上交所和中证指数有限公司9月24日公告，决定修订部分上证系列综合指数编制方案，修订内容包括增加单个样本权重不超过15%等。此次修订旨在优化指数编制，具体调整涉及上证系列综合指数的样本权重限制。",
+    "image_url": "",
+    "date": "2026-10-24",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261025/c681054494.shtml"
+  }
+]
