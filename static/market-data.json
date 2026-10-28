@@ -3,45 +3,45 @@
     {
       "name": "上证指数",
       "symbol": "s_sh000001",
-      "price": 3681.62,
-      "change": -0.43
+      "price": 3677.6,
+      "change": 0.8
     },
     {
       "name": "深证成指",
       "symbol": "s_sz399001",
-      "price": 11417.69,
-      "change": -1.01
+      "price": 11467.66,
+      "change": 1.97
     },
     {
       "name": "创业板指",
       "symbol": "s_sz399006",
-      "price": 2599.45,
-      "change": -1.47
+      "price": 2630.8,
+      "change": 3.24
     },
     {
       "name": "道琼斯",
       "symbol": "^DJI",
-      "price": 52361.58,
-      "change": -0.96
+      "price": 52377.57,
+      "change": 0.31
     },
     {
       "name": "纳斯达克",
       "symbol": "^IXIC",
-      "price": 26169.38,
-      "change": 0.62
+      "price": 26477.81,
+      "change": 2.01
     },
     {
       "name": "标普500",
       "symbol": "^GSPC",
-      "price": 7676.77,
-      "change": 0.17
+      "price": 7722.6,
+      "change": 1.3
     },
     {
       "name": "恒生指数",
       "symbol": "^HSI",
-      "price": 23103.82,
-      "change": 0.05
+      "price": 23094.39,
+      "change": -0.51
     }
   ],
-  "updated": "2026-10-27 06:07"
+  "updated": "2026-10-28 06:46"
 }
