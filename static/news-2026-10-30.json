@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+    "summary": "英伟达与麻省理工学院团队在Hugging Face发布了视频增强项目Open-H3-Regenerate-2K的模型权重。该方案基于MiniMax H3开源视频增强方案，最高支持4K重生成。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506743.html"
+  },
+  {
+    "id": 2,
+    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+    "summary": "国产开源OCR模型OXR以1.3B参数规模登顶全球第一，其核心技术RSI（强化自改进）发挥关键作用。该模型实现了对一切内容的解析能力，标志着国产开源OCR技术取得重大突破。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506686.html"
+  },
+  {
+    "id": 3,
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "summary": "Anthropic的Claude新模型曝光，包括新Fable和新Opus等版本。目前披露的信息有限，具体参数和发布时间尚未明确。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506674.html"
+  },
+  {
+    "id": 4,
+    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+    "summary": "清华大学联合无问芯穹、智元提出具身智能规模化落地新路径，让机器人从学习人类转向学习机器人同伴，成为彼此的“老师”。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506662.html"
+  },
+  {
+    "id": 5,
+    "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+    "summary": "MEET2027大会报名通道已正式开启，首批重磅嘉宾已确认出席。活动具体时间、地点及嘉宾名单等详细信息可查看官方发布内容。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506609.html"
+  },
+  {
+    "id": 6,
+    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+    "summary": "智己LS8纯电版正式发布，25万元起售，全系标配线控底盘与宁德时代电池，并搭载Momenta世界模型，主打“买车送终身AI”概念。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506569.html"
+  },
+  {
+    "id": 7,
+    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+    "summary": "阶跃终端旗下大模型原生智能体手机STEPX Neo在发布两周后迎来首次升级，智能体能力持续释放。",
+    "image_url": "",
+    "date": "2026-10-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506554.html"
+  },
+  {
+    "id": 8,
+    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+    "summary": "商汤大装置在大模型私有化市场以9.4%的市场份额再次稳居第二位，蝉联中国MaaS市场TOP2。",
+    "image_url": "",
+    "date": "2026-10-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506550.html"
+  },
+  {
+    "id": 9,
+    "title": "AI安全是AI规模化应用“加速器”",
+    "summary": "AI安全并非AI发展的“刹车片”，而是AI高质量发展的“加速器”。这一观点强调安全机制能够推动AI规模化应用，而非阻碍技术进步。",
+    "image_url": "",
+    "date": "2026-10-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506544.html"
+  },
+  {
+    "id": 10,
+    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+    "summary": "Genspark推出全新视频Agent，主打All in one、零基础也能拍短剧，任何人都可使用。奥特曼和Dario同台唱rap为该产品宣传造势。",
+    "image_url": "",
+    "date": "2026-10-29",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506478.html"
+  },
+  {
+    "id": 11,
+    "title": "Agent 数据飞轮平台的选型和实践",
+    "summary": "宙斯是1688探索企业AI自主经营的组织经营大脑，通过连接业务知识、数据与多角色Agent，让AI围绕经营目标参与分析、协同执行并持续跟进，已在1688即时零售、商业发展等业务中落地实践。本文分享了宙斯在选型数据飞轮平台过程中的思考和实践，该实践已收录到开源项目Alibaba Cloud AI Agent Handbook调优篇。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80643.html"
+  },
+  {
+    "id": 12,
+    "title": "TRAE 插件市场上新：一站式搞定小程序开发与上线",
+    "summary": "TRAE插件市场上线“小程序开发（miniapp-builder）”插件，用户通过自然语言描述需求即可创建或修改微信、抖音、支付宝小程序，并在工作台预览页面、查看日志、交由Agent修复，再生成真机二维码上传开发版。该插件支持从一句话需求到真机扫码的完整Vibe Coding流程，既可快速验证原型，也能继续迭代已有项目。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80624.html"
+  },
+  {
+    "id": 13,
+    "title": "对话 Google AI 基建负责人：从芯片配比到全球部署，Agent 正在重写数据中心的建设逻辑",
+    "summary": "Google AI基础设施负责人Amin Vahdat在与红杉资本Sonya Huang的对话中，阐述了AI服务能力每六个月翻倍背景下数据中心建设面临的挑战，包括十万颗加速器集群的故障管理、硬件与模型迭代周期不匹配等问题。他从TPU设计取舍讲到长时程Agent如何重写数据中心建设逻辑，并强调芯片算力最终必须落实为真实任务来衡量建设回报。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80649.html"
+  },
+  {
+    "id": 14,
+    "title": "养大肥鱼只是开始，DeepSeek这10组插件值得装上",
+    "summary": "DeepSeek Harness作为一套开放的Agent工具，用户可在电脑中与其对话、读取工作目录文件并调用工具完成任务，抖音和B站上已有不少网友为其安排账号看视频、挑选话题甚至参与评论聊天。其插件社区随之活跃，第三方社区目录已收录数万个项目，既有成熟工具也有刚发布不久的个人作品。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80604.html"
+  },
+  {
+    "id": 15,
+    "title": "AI Infra进阶：3万字深入理解线性注意力机制",
+    "summary": "作者沉迷于AI Infra学习，深入探讨线性注意力机制，并指出大模型推理能力的不可解释性。文章引用数学家陶哲轩在加州理工Math 2.0演讲中提出的问题：若AI研发的癌症新药通过三期临床试验，在用于患者前是否要求至少一位人类专家理解其药理机制。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80561.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”），无法提炼摘要。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "三季报披露收官，谁在领跑？",
+    "summary": "三季报披露收官，各行业龙头企业业绩表现分化，部分公司凭借强劲增长领跑市场。关键数据和人名需结合具体内容进一步确认。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321684.shtml"
+  },
+  {
+    "id": 18,
+    "title": "A股上市公司三季报披露10月31日结束。据Wind数据统计，截至10月31日，共有5574家上市公司披露第三季度报告。上市公司业绩继续保持较快增长，新动能引领作用尤为突出。报告期内，上市公司合 ...",
+    "summary": "截至10月31日，共有5574家A股上市公司披露三季报，业绩继续保持较快增长，新动能引领作用突出。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321684.shtml"
+  },
+  {
+    "id": 19,
+    "title": "中国稀土筹划收购中稀凉山",
+    "summary": "中国稀土公司正筹划收购中稀凉山，具体交易细节尚未披露。此次收购旨在整合稀土资源，提升行业集中度。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321640.shtml"
+  },
+  {
+    "id": 20,
+    "title": "10月30日晚间，中国稀土(000831)公告，公司收到控股股东中国稀土集团通知，拟发行股份收购中稀(凉山)稀土有限公司股权并同步募集配套资金。本次交易预计构成重大资产重组及关联交易，不构成 ...",
+    "summary": "中国稀土(000831)10月30日晚间公告，控股股东中国稀土集团拟发行股份收购中稀(凉山)稀土有限公司股权并同步募集配套资金。本次交易预计构成重大资产重组及关联交易。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321640.shtml"
+  },
+  {
+    "id": 21,
+    "title": "阿里、苹果，重要合作来了！",
+    "summary": "阿里巴巴与苹果宣布达成重要合作。此次合作涉及双方在技术与生态领域的深度协同，具体细节尚未完全披露。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321634.shtml"
+  },
+  {
+    "id": 22,
+    "title": "【导读】阿里巴巴与苹果达成合作，将千问集成至Apple智能10月31日，阿里巴巴官宣，与Apple达成合作，将千问集成至Apple智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文 ...",
+    "summary": "阿里巴巴10月31日官宣与Apple达成合作，将千问集成至Apple智能。中国用户可在Siri、写作工具及视觉智能中直接调用千问的文",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321634.shtml"
+  },
+  {
+    "id": 23,
+    "title": "【2026.10】60台珠江钢琴交付龙源教育集团坪郊学校",
+    "summary": "2026年10月，60台珠江钢琴正式交付龙源教育集团坪郊学校。此次交付旨在支持该校音乐教育发展，为师生提供更优质的教学设备。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321622.shtml"
+  },
+  {
+    "id": 24,
+    "title": "2026年10月，60台珠江钢琴来到广东省阳江市，成功交付给龙源教育集团坪郊学校使用，为学校的音乐艺术教育事业增添力量。阳江市江城区坪郊龙源学校位于阳江市江城区坪郊谭郊村，是阳江市龙源 ...",
+    "summary": "2026年10月，60台珠江钢琴交付给广东省阳江市龙源教育集团坪郊学校使用。该校位于阳江市江城区坪郊谭郊村，这批钢琴将为学校的音乐艺术教育事业增添力量。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321622.shtml"
+  },
+  {
+    "id": 25,
+    "title": "苹果选择千问，阿里AI拿到大结果",
+    "summary": "苹果选择与阿里千问合作，阿里AI业务取得重大突破。此举标志着阿里AI技术在科技巨头供应链中获得关键认可。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321458.shtml"
+  },
+  {
+    "id": 26,
+    "title": "今天早上起来，我打开苹果官网，本来想看看新发的iPad mini。当时还犯嘀咕，这么贵，Apple智能没有，高刷也没有。结果往下一滑，看到苹果今天早晨刚发的消息。苹果说，千问进了Siri、写作工 ...",
+    "summary": "苹果官网发布消息称，千问已接入Siri和写作工具等苹果智能功能。此前用户对新iPad mini因价格高、缺少Apple智能和高刷屏而有所抱怨，但苹果当日早晨公布的这一合作消息成为关注焦点。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321458.shtml"
+  },
+  {
+    "id": 27,
+    "title": "东部某县一名长期负责企业账款清欠工作的财政部门人士，经常遇到企业相关人员上门反映欠款兑付问题。来访企业人员情况不一，有的耐心说明自身经营压力，讲述资金周转困难；也有部分来访人员 ...",
+    "summary": "东部某县财政部门一名长期负责企业账款清欠工作的人士，经常遇到企业人员上门反映欠款兑付问题。来访企业人员情况不一，有的耐心说明经营压力和资金周转困难，也有部分来访人员行为失当。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321402.shtml"
+  },
+  {
+    "id": 28,
+    "title": "三季报持仓透视：超2750亿元QFII持仓曝光，22股获持续加仓",
+    "summary": "截至三季度末，QFII现身804只个股前十大流通股东名单，合计持仓市值超2750亿元。其中22只个股获QFII连续多个季度持续加仓，持仓动向显示外资对部分A股标的的配置意愿增强。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321393.shtml"
+  },
+  {
+    "id": 29,
+    "title": "截至2026年三季度末，5个申万一级行业获QFII持股市值超过百亿元，分别是电子、银行、机械设备、电力设备及有色金属。2026年A股三季报披露正式收官，合格境外机构投资者(QFII)持仓全貌随之浮 ...",
+    "summary": "截至2026年三季度末，QFII持股市值超过百亿元的申万一级行业共有5个，分别为电子、银行、机械设备、电力设备及有色金属。随着2026年A股三季报披露收官，QFII持仓全貌随之浮现。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321393.shtml"
+  },
+  {
+    "id": 30,
+    "title": "超2750亿元QFII持仓曝光 22家公司获连续3个季度环比加仓",
+    "summary": "QFII最新持仓曝光，持仓市值超2750亿元，22家公司获连续3个季度环比加仓。",
+    "image_url": "",
+    "date": "2026-10-30",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261031/c681321382.shtml"
+  }
+]
