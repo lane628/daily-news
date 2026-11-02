@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+    "summary": "西湖大学成立西湖世界模型研究中心，该布局始于三年前，今年爆火。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507076.html"
+  },
+  {
+    "id": 2,
+    "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "summary": "Anthropic旗下AI模型Claude被曝暗中修改Harness机制，禁止用户进行逆向游戏操作。该事件引发社区关注，具体改动细节及官方回应尚未完全披露。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507038.html"
+  },
+  {
+    "id": 3,
+    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+    "summary": "清华姚期智团队提出“代数世界模型”，旨在让AI像牛顿一样进行科学思考。该模型通过代数方法构建世界模型，使AI能够从观测数据中自动发现规律。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507031.html"
+  },
+  {
+    "id": 4,
+    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "summary": "老牌便利店引入机器人售货，尽管在实验室经过上万次锤炼，但在实际货架前仍出现摔瓶子等问题，显示落地难度远超预期。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/506990.html"
+  },
+  {
+    "id": 5,
+    "title": "Jev新成果，再次引爆开源",
+    "summary": "Jev发布新成果，以“性价比屠夫”著称，再次引爆开源社区。该成果延续其高性价比路线，引发广泛关注。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/506922.html"
+  },
+  {
+    "id": 6,
+    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+    "summary": "DeepSeek重磅开源Agent底座架构，该架构能让AI自主发现Bug并提交PR。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506904.html"
+  },
+  {
+    "id": 7,
+    "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+    "summary": "苹果被曝8G内存的iPad实际搭载12G内存，但通过软件限制屏蔽了多余容量，引发用户对库克“精准刀法”的吐槽。这种“牛奶倒河里”式的硬件阉割操作再次翻红，凸显苹果在产品配置上的刻意限制策略。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506884.html"
+  },
+  {
+    "id": 8,
+    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+    "summary": "世界模型首次被用于指导芯片设计，新芯片搭载超大核NPU，算力达700TOPS，且99%算力可用。该成果实现了AI算力利用的“九九成”效率。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506866.html"
+  },
+  {
+    "id": 9,
+    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "summary": "Claude宣布取消5小时使用限制，首批Ultra用户已获解封。200美元的Ultra用户将优先享受这一调整。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/10/506855.html"
+  },
+  {
+    "id": 10,
+    "title": "Claude-automation-recommender：新手最该装的 Claude Code 配置顾问",
+    "summary": "Anthropic推出的claude-automation-recommender工具旨在解决新手面对Claude Code五类扩展机制（Hooks、Skills、Subagents等）时不知优先配置哪些的困境。该工具不写代码也不改动文件，仅扫描代码库后给出针对性的配置建议，帮助用户判断项目该启用哪些功能。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80913.html"
+  },
+  {
+    "id": 11,
+    "title": "腾讯又出新Buddy，WorkBuddy多了个兄弟",
+    "summary": "腾讯音乐推出AI音乐创作产品MusicBuddy，官网已上线并处于内测阶段。曹哥获得内测权限后为2026AI产品大会创作了主题曲，效果不错。腾讯Buddy家族已涵盖WorkBuddy、CodeBuddy、DataBuddy、LearnBuddy等多款产品。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/80859.html"
+  },
+  {
+    "id": 12,
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "作者赶在Meta之前自己动手做了一个AI电子宠物。Meta的扎克伯格给AI配上软萌小脸，并计划今年假日季推出Muse Charm，让用户像养电子宠物一样随身携带AI助手，但作者表示不会购买，因为自己家里已经有了Muse Charm。",
+    "image_url": "",
+    "date": "2026-10-31",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+  },
+  {
+    "id": 13,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”及导航符号，无正文），无法提炼摘要。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 14,
+    "title": "奇瑞汽车涨超3% 三季度归母净利同环比双增 机构料出口有望支持公司盈利稳健向好",
+    "summary": "奇瑞汽车股价涨超3%，三季度归母净利润实现同比和环比双增长。机构预计出口业务有望支持公司盈利稳健向好。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351801.shtml"
+  },
+  {
+    "id": 15,
+    "title": "奇瑞汽车(09973)涨超3%，截至发稿，涨2.62%，报23.54港元，成交额5744.32万港元。消息面上，10月30日，奇瑞汽车发布2026年三季度业绩，中金研报指出，奇瑞汽车三季度业绩符合该行预期，3Q26 ...",
+    "summary": "奇瑞汽车(09973)股价涨超3%，截至发稿涨2.62%报23.54港元，成交额5744.32万港元。10月30日公司发布2026年三季度业绩，中金研报指出业绩符合该行预期。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351801.shtml"
+  },
+  {
+    "id": 16,
+    "title": "沪指收涨1.08%，A股超百股涨停",
+    "summary": "沪指收涨1.08%，A股市场超百股涨停。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351729.shtml"
+  },
+  {
+    "id": 17,
+    "title": "北京商报讯(记者王蔓蕾)11月2日，A股三大股指高开高走，创业板指午后一度涨超3.5%，之后涨幅有所收窄。截至收盘，上证综指、深证成指、创业板指分别收涨1.08%、1.63%、1.87%，分别报3638.03 ...",
+    "summary": "11月2日，A股三大股指高开高走，创业板指午后一度涨超3.5%后涨幅收窄。截至收盘，上证综指、深证成指、创业板指分别收涨1.08%、1.63%、1.87%，分别报3638.03点等。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351729.shtml"
+  },
+  {
+    "id": 18,
+    "title": "600715，午后“地天板”",
+    "summary": "600715在午后交易中出现“地天板”走势，即股价从跌停板直线拉升至涨停板。该股当日振幅剧烈，引发市场关注。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351715.shtml"
+  },
+  {
+    "id": 19,
+    "title": "11月2日午后，AI漫剧概念股文投控股(600715)快速拉升至涨停，报2.24元/股，上演“地天板”，该股早盘以跌停价开盘。10月21日至11月2日，文投控股实现9天5板。数据显示，10月28日至10月30日 ...",
+    "summary": "11月2日午后，AI漫剧概念股文投控股(600715)快速拉升至涨停，报2.24元/股，上演“地天板”，该股早盘以跌停价开盘。10月21日至11月2日，文投控股实现9天5板。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351715.shtml"
+  },
+  {
+    "id": 20,
+    "title": "PriceSeek提醒：中国稀土拟筹划重大资产重组事项",
+    "summary": "中国稀土公司宣布拟筹划重大资产重组事项。该消息由PriceSeek提醒发布，具体重组细节尚未披露。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351660.shtml"
+  },
+  {
+    "id": 21,
+    "title": "生意社11月02日讯中国稀土集团资源科技股份有限公司(以下简称中国稀土发布公告称，公司于2026年10月30日收到中国稀土集团有限公司发来的《关于筹划重大资产重组事项的通知》，拟由公司通过 ...",
+    "summary": "中国稀土（中国稀土集团资源科技股份有限公司）于2026年10月30日收到中国稀土集团有限公司发来的《关于筹划重大资产重组事项的通知》，拟筹划重大资产重组。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351660.shtml"
+  },
+  {
+    "id": 22,
+    "title": "2027年度“新基石研究员项目”启动申报",
+    "summary": "2027年度“新基石研究员项目”已启动申报。该项目旨在长期稳定支持杰出科学家开展基础研究，本年度计划资助不超过60人，其中实验类每人每年最高500万元、理论类每人每年最高300万元，资助期5年。申报截止日期为2026年9月30日。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351402.shtml"
+  },
+  {
+    "id": 23,
+    "title": "上证报中国证券网讯(记者刘逸鹏)11月2日，记者从腾讯获悉，第四期(2027年度)“新基石研究员项目”于2026年11月1日至2027年1月15日正式开放申报，这也是该项目首次跨年申报。据介绍，“新基 ...",
+    "summary": "第四期“新基石研究员项目”于2026年11月1日至2027年1月15日开放申报，首次实行跨年申报。该消息由腾讯于11月2日向记者刘逸鹏透露。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351402.shtml"
+  },
+  {
+    "id": 24,
+    "title": "600715，上演“地天板”！",
+    "summary": "600715（*ST文投）今日盘中上演“地天板”，从跌停价直线拉升至涨停价，振幅达20%。该股近期连续多日跌停后今日出现极端反转走势，引发市场关注。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351401.shtml"
+  },
+  {
+    "id": 25,
+    "title": "【导读】午后A股AI漫剧概念股文投控股直线冲高，上演“地天板”11月2日午后，A股AI漫剧概念古文投控股直线冲高，上演“地天板”行情，最新报2.24元/股，换手率为15.14%，最新市值为91亿元。 ...",
+    "summary": "11月2日午后，A股AI漫剧概念股文投控股直线冲高，上演“地天板”行情，最新报2.24元/股，换手率15.14%，市值91亿元。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351401.shtml"
+  },
+  {
+    "id": 26,
+    "title": "中国外商投资企业协会第七次会员代表大会暨第七届理事会第一次会议在北京召开",
+    "summary": "中国外商投资企业协会第七次会员代表大会暨第七届理事会第一次会议在北京召开。会议选举产生了第七届理事会，曹宏瑛当选会长。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351349.shtml"
+  },
+  {
+    "id": 27,
+    "title": "10月30日，中国外商投资企业协会第七次会员代表大会暨第七届理事会第一次会议在北京召开。商务部部长王文涛发表视频讲话，副部长兼中华人民共和国国际贸易谈判副代表凌激出席会议并讲话。王 ...",
+    "summary": "中国外商投资企业协会第七次会员代表大会暨第七届理事会第一次会议10月30日在北京召开，商务部部长王文涛发表视频讲话，副部长凌激出席会议并讲话。",
+    "image_url": "",
+    "date": "2026-11-01",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261102/c681351349.shtml"
+  }
+]
