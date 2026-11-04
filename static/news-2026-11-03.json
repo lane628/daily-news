@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+    "summary": "某巨头企业正在打造下一代自主智能仓，由AI接管调度运营，机器人负责具体作业，使仓库运营越干越聪明。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507507.html"
+  },
+  {
+    "id": 2,
+    "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+    "summary": "智己LS8纯电版搭载了历时8年研发的底盘，并由两大厂联合开发电池。两位CTO关起门来争论，体现了双方在技术路线上的深度博弈与协作。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507473.html"
+  },
+  {
+    "id": 3,
+    "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+    "summary": "AI竞争下一程的关键在于构建生产力系统，而非单纯获取模型本身。模型人人可得，真正拉开差距的是将AI转化为实际生产力的系统能力。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507448.html"
+  },
+  {
+    "id": 4,
+    "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+    "summary": "纯语音Personal Agent正式亮相，被视为最接近乔布斯心中Siri形态的产品。该产品提供了一个可触摸的起点，标志着语音助手从概念走向实际体验。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507419.html"
+  },
+  {
+    "id": 5,
+    "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+    "summary": "苹果被曝正在研发的新产品，中国央企TeleAI的智慧看护助手8个月前已安装进公共卫生间。该产品由TeleAI推出，具体安装时间和场景均已明确。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507410.html"
+  },
+  {
+    "id": 6,
+    "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+    "summary": "2026世界互联网大会于11月3日上午在浙江乌镇开幕。AI数据平台OceanBase荣获大会杰出贡献奖。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507405.html"
+  },
+  {
+    "id": 7,
+    "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+    "summary": "小米集团在2026年世界互联网大会乌镇峰会上获得“杰出贡献奖”创新突破类奖项，同时小米具身基座模型荣获“领先科技奖”，斩获双料大奖。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507396.html"
+  },
+  {
+    "id": 8,
+    "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+    "summary": "A社紧急修改招股书，因单季营收狂揽1130亿人民币但RSI指标接近失控。公司正设法控制RSI，具体措施尚未披露。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507382.html"
+  },
+  {
+    "id": 9,
+    "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+    "summary": "北京大学与硅谷IBM联合研究，将模拟计算推进到矩阵时代，实现GPU迭代一百次的任务一步完成。这一成果重新定义了计算范式。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507367.html"
+  },
+  {
+    "id": 10,
+    "title": "从OpenClaw，怎么走到了Super Agent？",
+    "summary": "文章回顾了过去一年Agent产品工具的演进逻辑，从年初受OpenClaw影响、以聊天工具中的Bot形态降低新手使用门槛，到4、5月更多新用户转向WorkBuddy等产品，以此解释DeepSeek Harness产品团队发布的Super Agent为何走到今天这一步。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81712.html"
+  },
+  {
+    "id": 11,
+    "title": "Personal Agent 的交互需要被重新定义，Orilo 从 Voice 切入",
+    "summary": "Personal Agent赛道热度与质疑并存，ZF曾讨论其可能是伪命题，算力成本和用户需求是主要疑虑。当前玩家多在比拼算力、Connector数量和任务执行能力，但面临复杂任务不高频、手动输入门槛高、云电脑成本高昂三大问题。Orilo从Voice切入，试图重新定义Personal Agent的交互方式。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81623.html"
+  },
+  {
+    "id": 12,
+    "title": "VoiceStudio：19 个语音引擎，配一张空的性能表",
+    "summary": "VoiceStudio是过去半年GitHub上表现突出的本地语音项目，将云端语音服务能力拆分为19个语音合成引擎和12个语音识别引擎，全部在本地运行，无需账号和API Key。截至2026年11月1日，该仓库获得96,556 Stars、10,714 Forks、334个watcher，自2026年4月9日创建后长期位居Trendshift榜首。其协议为AGPL-3，用户需注意许可证风险。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81589.html"
+  },
+  {
+    "id": 13,
+    "title": "Claude-md-improver：六张打分表，把项目记忆从玄学变成工程",
+    "summary": "CLAUDE.md文件的核心问题在于写出后缺乏维护，过期内容如失效的构建命令和已拆除的目录路径会被Claude当作真理反复读取，且这类错误没有任何提示机制。Anthropic官方插件市场中的claude-md-improver Skill通过六张打分表对项目记忆文件进行系统化评估，将原本依赖人工自觉的维护工作转变为可量化的工程流程。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81573.html"
+  },
+  {
+    "id": 14,
+    "title": "从直板到折叠屏：腾讯Kuikly如何适配 iPhone Duo？",
+    "summary": "腾讯开源的跨端框架Kuikly基于Kotlin Multiplatform技术覆盖Android、iOS、HarmonyOS等六大平台，支撑日活超5亿。面对苹果iPhone Duo折叠屏带来的布局与交互差异，Kuikly凭借原生UI渲染能力适配系统新特性，本文结合示例介绍如何复用跨端代码完成折叠屏适配工作。",
+    "image_url": "",
+    "date": "2026-11-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81278.html"
+  },
+  {
+    "id": 15,
+    "title": "限时免费！TRAE开发者个人助理TRAE宝来了",
+    "summary": "TRAE宝是TRAE推出的开发者个人助理，可跨项目理解方案与决策、统筹多任务，支持写功能、修bug、审PR、整理文档等，暂不支持视频生成。即日起至2026年11月8日23:59，登录TRAE桌面端最新版使用TRAE宝进行问答和下达任务全部不消耗积分，限时免费体验。",
+    "image_url": "",
+    "date": "2026-11-02",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81124.html"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”），没有正文信息可供概括。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "“8·28”新政再下一城：首创预售门槛，严控保函置换比例",
+    "summary": "“8·28”新政在部分城市进一步落地，首次设立商品房预售门槛，并严格限制保函置换预售监管资金的比例。新政旨在加强预售资金监管，防范房地产项目交付风险。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://field.10jqka.com.cn/20261104/c681451622.shtml"
+  },
+  {
+    "id": 18,
+    "title": "继湖北十堰后，又一城市落地“8.28”地产新政细则。日前，浙江金华出台现房销售细则，成为全国第18个落实“8.28”地产新政的城市。值得注意的是，金华细则中明确规定，8月28日后新发布土地 ...",
+    "summary": "浙江金华出台现房销售细则，成为全国第18个落实“8.28”地产新政的城市，继湖北十堰之后又一城市落地相关细则。细则明确规定，8月28日后新发布土地出让公告的项目须实行现房销售。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://field.10jqka.com.cn/20261104/c681451622.shtml"
+  },
+  {
+    "id": 19,
+    "title": "国家发展改革委向民营企业推介50个投资项目",
+    "summary": "国家发展改革委向民营企业推介了50个投资项目。此举旨在吸引民间资本参与，促进投资增长。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681451518.shtml"
+  },
+  {
+    "id": 20,
+    "title": "新华社电 记者3日从国家发展改革委获悉，近日国家发展改革委民营局召开有关民营企业和行业协会座谈会，听取在投资过程中存在的问题障碍及意见建议，并围绕民营企业投资意向，集中推介一批农 ...",
+    "summary": "国家发展改革委民营局近日召开民营企业和行业协会座谈会，听取投资过程中的问题障碍及意见建议。会议围绕民营企业投资意向，集中推介了一批农业项目。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681451518.shtml"
+  },
+  {
+    "id": 21,
+    "title": "天一冷就想吃“黏糊饭”，海底捞新品油焖土豆泥外卖10天卖出超10万单",
+    "summary": "海底捞推出新品“油焖土豆泥”外卖，上市10天销量突破10万单。该产品主打冬季“黏糊饭”消费需求，成为海底捞外卖业务的新增长点。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681450299.shtml"
+  },
+  {
+    "id": 22,
+    "title": "临近立冬，多地气温持续走低，胃口也跟着“换季”。比起轻食沙拉，热乎、浓郁、软糯的食物更让人惦记。从黏糊麻辣烫、辣糊糊火锅，到土豆泥火鸡面、土豆泥拌饭，这些口感绵密、浓郁入味的“ ...",
+    "summary": "临近立冬多地气温持续走低，人们胃口“换季”，更偏爱热乎浓郁软糯的食物而非轻食沙拉。黏糊麻辣烫、辣糊糊火锅、土豆泥火鸡面、土豆泥拌饭等口感绵密、浓郁入味的食物受到青睐。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681450299.shtml"
+  },
+  {
+    "id": 23,
+    "title": "九载进博再赴约 开放共赢启新程",
+    "summary": "第九届进博会再赴开放之约，以开放共赢开启新征程。活动聚焦进博会九年来的发展历程，展现其作为国际采购、投资促进、人文交流、开放合作平台的重要作用。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681450214.shtml"
+  },
+  {
+    "id": 24,
+    "title": "11月5日至10日，第九届中国国际进口博览会将在上海如约启幕。162个国家、地区和国际组织共赴盛会，4142家境外企业齐聚黄浦江畔，整体展览展示面积首次突破44万平方米，多项核心 ...",
+    "summary": "第九届中国国际进口博览会将于11月5日至10日在上海举行，吸引162个国家、地区和国际组织及4142家境外企业参展，整体展览展示面积首次突破44万平方米。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681450214.shtml"
+  },
+  {
+    "id": 25,
+    "title": "定向弹药再升级：1000亿、1%、护盘式回购，三部委四招稳市",
+    "summary": "三部委联合推出四招稳市措施，包括1000亿定向弹药升级、1%的护盘式回购等政策工具。这些举措旨在通过定向弹药再升级和护盘式回购等手段稳定市场。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681449533.shtml"
+  },
+  {
+    "id": 26,
+    "title": "21世纪经济报道记者崔文静11月2日，央行、金融监管总局、证监会等部门连开了两场座谈会，出台稳定市场的一系列政策。政策一：机构端：互换便利(SFISF)第三次操作落地。互换便利11月3日第三 ...",
+    "summary": "央行、金融监管总局、证监会等部门于11月2日连开两场座谈会，出台稳定市场的一系列政策。其中，互换便利（SFISF）第三次操作于11月3日落地。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681449533.shtml"
+  },
+  {
+    "id": 27,
+    "title": "再鼎医药盘中涨超5%",
+    "summary": "再鼎医药盘中股价涨幅一度超过5%。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681449374.shtml"
+  },
+  {
+    "id": 28,
+    "title": "11月4日，再鼎医药(09688.HK)盘中涨超5%，截至13时58分，涨5.45%，报17.790港元/股，成交额4795.79万港元。消息面上，2026年欧洲肿瘤内科学会年会当日启幕，29项中国创新药研究入选突破性摘 ...",
+    "summary": "11月4日，再鼎医药(09688.HK)盘中涨超5%，截至13时58分涨5.45%，报17.790港元/股，成交额4795.79万港元。消息面上，2026年欧洲肿瘤内科学会年会当日启幕，29项中国创新药研究入选突破性摘要。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681449374.shtml"
+  },
+  {
+    "id": 29,
+    "title": "盘中！直线拉升，多股涨停！A股最火赛道，发起反攻",
+    "summary": "A股最火赛道盘中直线拉升，多股涨停，发起反攻。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681448942.shtml"
+  },
+  {
+    "id": 30,
+    "title": "宇树科技创始人王兴兴在2026世界互联网大会乌镇峰会互联网企业家论坛上表示，明年大概率将是机器人行业或机器人模型发展的临界点。作为A股近期最火赛道的机器人概念股，今日再度发起反攻！ ...",
+    "summary": "宇树科技创始人王兴兴在2026世界互联网大会乌镇峰会互联网企业家论坛上表示，明年大概率将是机器人行业或机器人模型发展的临界点。作为A股近期最火赛道的机器人概念股当日再度发起反攻。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261104/c681448942.shtml"
+  }
+]
