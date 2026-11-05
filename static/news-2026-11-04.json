@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+    "summary": "百度无人车推出基于世界模型的“黑客帝国”式仿真系统，能实时推演全局场景，连路人都有独立行为逻辑。该系统让无人车跑一天相当于真实路测三年，大幅提升训练效率。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507647.html"
+  },
+  {
+    "id": 2,
+    "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "summary": "招商局狮子山实验室发布具身推理模型“驭物™ Lion-ER-35B-A3B”，该模型仅激活3B参数，便在十项基准测试中实现全线提升。模型不靠堆砌数据，旨在让机器人看懂真实物理世界。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507586.html"
+  },
+  {
+    "id": 3,
+    "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+    "summary": "超维动力在2026香港金融科技周上展出全栈矩阵，具身智能硬科技引发全场关注。这场展示呈现了一场别开生面的具身智能科技盛宴。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507574.html"
+  },
+  {
+    "id": 4,
+    "title": "腾讯发布全新大模型，又排名第一了？",
+    "summary": "国产大模型近期密集发布并纷纷宣称“排名第一”：9月小米MiMo-V2.6称拿下全球开源大模型第一，阿里千问Qwen3.8-Max称拿下前端编程全球第一，Kimi、智谱、DeepSeek也各有榜单成绩。11月4日腾讯混元Hy4正式发布，措辞相对克制，称跻身全球最强开源模型“之一”。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81921.html"
+  },
+  {
+    "id": 5,
+    "title": "从OpenClaw，怎么走到了Super Agent？",
+    "summary": "文章回顾了Agent产品工具过去一年的演进逻辑，从年初受OpenClaw影响、以聊天工具中的Bot形态降低新手使用门槛，到4、5月更多新用户转向WorkBuddy等产品，并由此探讨如何从OpenClaw走到DeepSeek Harness产品团队发布的Super Agent。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81712.html"
+  },
+  {
+    "id": 6,
+    "title": "Personal Agent 的交互需要被重新定义，Orilo 从 Voice 切入",
+    "summary": "Personal Agent赛道热度与质疑并存，ZF曾讨论其可能是伪命题，算力成本和用户需求是主要争议点。当前玩家普遍比拼算力资源、Connector连接数量和任务执行能力，但面临复杂任务不够高频、手动输入交互门槛高、云电脑方案成本高昂三大问题。Orilo从Voice切入，试图重新定义Personal Agent的交互方式。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81623.html"
+  },
+  {
+    "id": 7,
+    "title": "VoiceStudio：19 个语音引擎，配一张空的性能表",
+    "summary": "VoiceStudio是过去半年GitHub上表现突出的本地语音项目，将云端语音服务能力拆分为19个语音合成引擎和12个语音识别引擎，全部在本地运行，无需账号和API Key。截至2026年11月1日，该仓库获得96,556 Stars、10,714 Forks、334个watcher，自2026年4月9日创建后长期位居Trendshift榜首。其协议为AGPL-3，用户需注意许可证风险。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81589.html"
+  },
+  {
+    "id": 8,
+    "title": "Claude-md-improver：六张打分表，把项目记忆从玄学变成工程",
+    "summary": "CLAUDE.md文件的核心问题在于写完后缺乏维护，过期内容（如失效的构建命令和已拆除的目录路径）会被Claude当作真理反复读取，且这类错误没有任何提示机制。Anthropic官方插件市场中的claude-md-improver Skill通过六张打分表对项目记忆文件进行系统化评估，将原本依赖人工自觉的维护工作转变为可量化的工程流程。",
+    "image_url": "",
+    "date": "2026-11-03",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81573.html"
+  },
+  {
+    "id": 9,
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "summary": "高通在2026年第四季度财报电话会议上表示，由于智能手机销量较2025年下滑约20%，公司正寻求通过数据中心业务提振业绩。高通计划借助此前宣布的与亚马逊和Meta等公司的合作，大举进军AI数据中心市场。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+  },
+  {
+    "id": 10,
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "summary": "埃隆·马斯克在社交媒体平台（原推特）上花费4.46亿美元，文章批评此举并列举了17种更好的资金使用方式。文章还指出，过度沉迷社交媒体会因阅读博眼球的内容而损害大脑。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+  },
+  {
+    "id": 11,
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "summary": "AT&T的智能家居安全系统Connected Life现已与Gemini for Home集成，成为首个接入Google Home Premium的家用安全产品。此次更新使Gemini能够提供家庭事件摘要、视频历史搜索等功能。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+  },
+  {
+    "id": 12,
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "summary": "Nothing公司CEO裴宇在X平台发文宣布，公司将于12月推出首款AI设备，距其公布“AI原生”设备及AI操作系统计划仅一年多。裴宇未透露该设备的具体细节，仅提及其中一项功能。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+  },
+  {
+    "id": 13,
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "summary": "《The Verge》资深评测员Victoria Song在每周专栏“Optimizer”中撰文，讨论那些声称能改变生活的最新科技产品。她在文中提到心理治疗师常问她“这让你感觉如何”，并以此引出对Amazon Bee Frontier设备的吐槽。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
+  },
+  {
+    "id": 14,
+    "title": "ChatGPT will now make you animated GIFs",
+    "summary": "ChatGPT现在可以通过提示词或上传照片生成GIF动图。该功能与OpenAI新推出的Images 2.6模型同步上线，用户可调整动画速度、编辑单帧并分享。此前ChatGPT无法原生一次性生成GIF。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+  },
+  {
+    "id": 15,
+    "title": "Data centers lost the midterms",
+    "summary": "数据中心开发商在中期选举后恐将面临更严格的建厂环境，全美选民投票支持主张暂停建设及增设扩建障碍的候选人。据NBC新闻民调，76%的选民持相关立场，这对AI产业的核心支柱构成沉重打击。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”），无法生成摘要。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "商务部召开例行新闻发布会（2026年11月5日）",
+    "summary": "商务部于2026年11月5日召开例行新闻发布会，新闻发言人何亚东就近期商务领域重点工作情况进行发布，并回答记者提问。发布会涉及中美经贸磋商进展、第八届进博会筹备情况以及外贸运行等议题。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501382.shtml"
+  },
+  {
+    "id": 18,
+    "title": "【黄玲】:各位记者朋友：大家下午好，欢迎参加商务部例行新闻发布会。今天我没有需要向大家通报的信息，愿意回答记者朋友们提出的问题。下面请提问。【封面新闻记者】:近日，阿曼苏丹海赛姆 ...",
+    "summary": "商务部例行新闻发布会上，封面新闻记者就阿曼苏丹海赛姆相关事宜提问。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501382.shtml"
+  },
+  {
+    "id": 19,
+    "title": "优刻得等在乌兰察布成立数据服务公司",
+    "summary": "优刻得等企业在乌兰察布共同成立数据服务公司，注册资本为5000万元人民币。新公司法定代表人为季昕华，经营范围涵盖数据处理和存储支持服务等。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501368.shtml"
+  },
+  {
+    "id": 20,
+    "title": "企查查APP显示，近日，乌兰察布优刻得骋风而今数据服务有限公司成立，法定代表人为刘奇，注册资本为1000万元，经营范围包含：数据处理和存储支持服务；大数据服务；云计算装备技术服务；人 ...",
+    "summary": "乌兰察布优刻得骋风而今数据服务有限公司近日成立，法定代表人为刘奇，注册资本1000万元。公司经营范围涵盖数据处理和存储支持服务、大数据服务、云计算装备技术服务等。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501368.shtml"
+  },
+  {
+    "id": 21,
+    "title": "突然，罕见暴涨！背后发生了什么？",
+    "summary": "抱歉，您提供的新闻内容为空，只有标题“突然，罕见暴涨！背后发生了什么？”，没有正文信息，因此无法提炼出包含关键数据和人名的具体摘要。请补充新闻正文内容后再试。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501306.shtml"
+  },
+  {
+    "id": 22,
+    "title": "【导读】光伏暴涨，恒科也罕见暴涨，背后是什么逻辑？大家好啊，今天的市场，有惊无险，近5000家公司上涨，指数也在涨，恒生科技指数更是罕见暴涨了5%。如果你没有在“CPO”里，今天的体验 ...",
+    "summary": "今日市场近5000家公司上涨，指数整体走高，恒生科技指数罕见暴涨5%，光伏板块亦大幅上涨。文章围绕光伏暴涨与恒科大涨背后的逻辑展开分析，并提及“CPO”相关投资体验。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501306.shtml"
+  },
+  {
+    "id": 23,
+    "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
+    "summary": "商务部新闻发言人表示，中方对扩大自美采购农产品持开放态度，但强调对等降税措施的落地是扩大采购的前提条件。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501265.shtml"
+  },
+  {
+    "id": 24,
+    "title": "商务部新闻发言人黄玲在5日举行的例行新闻发布会上回答有关进口美国农产品的提问时表示，中美农产品贸易是双边经贸合作的重要组成部分。扩大两国在农业领域合作，既可以丰富两国民众的餐桌 ...",
+    "summary": "商务部新闻发言人黄玲5日在例行新闻发布会上表示，中美农产品贸易是双边经贸合作的重要组成部分，扩大两国农业领域合作既可丰富两国民众的餐桌。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501265.shtml"
+  },
+  {
+    "id": 25,
+    "title": "领益智造等在苏州成立创投合伙企业，出资额3501万",
+    "summary": "领益智造等在苏州成立创投合伙企业，出资额3501万。该合伙企业由领益智造等共同出资设立，具体名称及合伙人信息未在标题中披露。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501158.shtml"
+  },
+  {
+    "id": 26,
+    "title": "天眼查App显示，近日，苏州领顺创业投资合伙企业(有限合伙)成立，执行事务合伙人为苏州顺融投资管理有限公司，出资额3501万元人民币，经营范围为创业投资、股权投资、以自有资金从事投资活 ...",
+    "summary": "天眼查App显示，苏州领顺创业投资合伙企业（有限合伙）近日成立，执行事务合伙人为苏州顺融投资管理有限公司，出资额3501万元人民币。该企业经营范围包括创业投资、股权投资及以自有资金从事投资活动。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681501158.shtml"
+  },
+  {
+    "id": 27,
+    "title": "优步(UBER.US)Q3电话会：巴西、印度“司机荒”拖累出行业务 10月供给已现改善",
+    "summary": "优步Q3电话会披露，巴西和印度的司机短缺拖累了出行业务表现，但10月供给已出现改善迹象。公司未在摘要中提及具体人名或数据。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681500882.shtml"
+  },
+  {
+    "id": 28,
+    "title": "优步(UBER.US)在11月4日美股盘前公布2026年第三季度业绩。当季营收147.66亿美元，同比增长10%，高于FactSet预期的146.6亿美元;非GAAP每股收益0.88美元，增长35%，高于预期的0.86美元；总预 ...",
+    "summary": "优步11月4日美股盘前公布2026年第三季度业绩，当季营收147.66亿美元，同比增长10%，高于FactSet预期的146.6亿美元；非GAAP每股收益0.88美元，增长35%，高于预期的0.86美元。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681500882.shtml"
+  },
+  {
+    "id": 29,
+    "title": "泰国万祥基地是否已投产运营？万祥科技回应",
+    "summary": "万祥科技就泰国万祥基地是否已投产运营的提问作出回应。公司确认该基地目前尚未投产，具体投产时间将根据后续进展另行公告。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681500862.shtml"
+  },
+  {
+    "id": 30,
+    "title": "有投资者向万祥科技(301180.SZ)提问，泰国万祥基地已经投产运营了吗？11月5日，公司回答表示，公司于泰国无生产基地。 ...",
+    "summary": "有投资者向万祥科技(301180.SZ)提问泰国万祥基地是否已投产运营，公司11月5日回答表示公司在泰国无生产基地。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261105/c681500862.shtml"
+  }
+]
