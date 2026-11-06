@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+    "summary": "海亮科服推出AI生涯规划服务，旨在帮助更多家庭为孩子的人生大事提供规划支持。该服务的基础规划功能免费向公众开放。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507919.html"
+  },
+  {
+    "id": 2,
+    "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+    "summary": "智象创始人梅涛提出“智能体化的世界模型”概念，认为三条AI技术路线终将合流。该观点指向AI技术未来走向智能体化世界模型的趋势。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507834.html"
+  },
+  {
+    "id": 3,
+    "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+    "summary": "拼多多将农创赛从PPT搬到田间，让年轻人参与草莓工厂种植。经过170天实践，项目交出成熟“答案”，展现了平台推动农业创新的落地成果。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/507823.html"
+  },
+  {
+    "id": 4,
+    "title": "一文拆解DeepSeek Harness新架构",
+    "summary": "DeepSeek发布《Super-agent设计探索：迈向更自主的Agent系统》，提出DSH（DeepSeek Harness）新架构，文章当天在圈内广泛传播。网上分享多停留在概念复读，而DSH的价值在于用清晰描述串联起自“小龙虾”出现后各团队零散尝试过的思路，引发“原来我的”式共鸣。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82388.html"
+  },
+  {
+    "id": 5,
+    "title": "红果拿下豆包，腾讯阿里也坐不住了？",
+    "summary": "阿里正在内测AI影视创作平台Looogen（逻辑智片），主打用Agent制作短剧，覆盖剧本改编、分镜制作、角色配音到成片剪辑全流程。与此同时，QuestMobile数据显示红果短剧用户规模已超过豆包，AI短剧赛道竞争升温，腾讯、阿里等大厂纷纷布局。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82265.html"
+  },
+  {
+    "id": 6,
+    "title": "客单价 2000 美金、5 万人排队，这家 Personal Agent OS 公司 3 个月再拿数千万美元融资",
+    "summary": "Personal Agent OS公司Tiiny AI完成数千万美元Pre-A轮融资，由敦鸿资产领投，顺为资本、经纬创投、锦秋基金超额追投，光源资本担任孵化方及独家财务顾问。这是该公司不到三个月内再获资本加码，其客单价达2000美金、已有5万人排队。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82241.html"
+  },
+  {
+    "id": 7,
+    "title": "吴恩达也投了，微软AutoGen核心作者做了个Personal Agent群聊",
+    "summary": "吴恩达投资了一个由微软AutoGen核心作者打造的Personal Agent群聊项目s.space，支持多人带着各自的AI Agent进群协作，不同人的Agent可互相配合完成任务。与此同时，DeepSeek也公布了Super-agent方案，其AI能在群聊中主动复现故障并寻找修复办法，无需被专门@安排任务。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82233.html"
+  },
+  {
+    "id": 8,
+    "title": "Hallmark：一半篇幅在教 AI 不许做什么",
+    "summary": "Hallmark项目由Together AI团队开发，采用MIT协议，专为Claude Code、Codex、Cursor等AI编程工具设计，其核心思路是反向约束而非堆砌资料——最厚的文件是一份88条编号规则清单，其中39条为绝对禁止项，26条仅记录不拦截，其余才涉及美学指导。该项目2026年4月27日建仓，截至11月1日已获43,678 Stars和2,291 Forks。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82442.html"
+  },
+  {
+    "id": 9,
+    "title": "腾讯发布全新大模型，又排名第一了？",
+    "summary": "国产大模型近期密集发布并纷纷宣称“排名第一”：9月小米MiMo-V2.6称拿下全球开源大模型第一，阿里千问Qwen3.8-Max称拿下前端编程全球第一，Kimi、智谱、DeepSeek也各有榜单成绩。11月4日腾讯混元Hy4正式发布，宣传口径为跻身全球最强开源模型之列，措辞相对克制，特意留了“之一”。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/81921.html"
+  },
+  {
+    "id": 10,
+    "title": "Example：一份九十行的说明书，决定了你写 Skill 的第一印象",
+    "summary": "Anthropic官方在Smithery上发布了一个名为example-skill的Skill示例，仅约九十行代码、三条frontmatter和几段骨架说明，安装量仅19次。该示例挂在anthropics/claude-plugins-official仓库下，与动辄数万安装量的MCP服务器形成鲜明对比。",
+    "image_url": "",
+    "date": "2026-11-04",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82432.html"
+  },
+  {
+    "id": 11,
+    "title": "Perplexity launches its own take on AI agents for work",
+    "summary": "Perplexity推出面向工作的AI代理“Teammates”，与OpenAI和Anthropic展开竞争。该常驻代理可在工作区内承担多种角色，并从用户已使用的Perplexity工具中调取现有项目、技能和记忆。Teammates与Perplexity Computer集成，后者可在用户设备上部署代理。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+  },
+  {
+    "id": 12,
+    "title": "Muse has a voice mode now",
+    "summary": "Meta首席执行官马克·扎克伯格宣布，用户现在可以与Muse AI智能体进行实时语音对话。该功能已在iOS应用上线，用户在与Muse对话时，顶部的虚拟形象会同步呈现互动效果。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+  },
+  {
+    "id": 13,
+    "title": "Claude AI can plug directly into your bank account",
+    "summary": "Anthropic推出新功能，允许Claude通过Plaid银行桥接平台直接连接用户的银行和信用卡账户，以管理个人财务。用户可以向聊天机器人询问“这个月我的钱花哪了”等问题，Claude将生成财务概览。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+  },
+  {
+    "id": 14,
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "summary": "周二晚，民主党创造历史，掌控了众议院和参议院，蓝色浪潮席卷传统红州和摇摆州。乔治亚州选出全国首位黑人女性州长，新墨西哥州选出首位印第安原住民女性州长，缅因州一位参议员让位。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+  },
+  {
+    "id": 15,
+    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "summary": "流行歌手Grimes将出演AI生成的科幻电影《Gods Don't Give Gifts》，该片被称为“首部登陆院线的AI电影”，是检验AI电影商业潜力的重要案例。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅包含标题“查看网站地图”和“>”符号，无正文），无法提炼摘要。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "入股原动力智能公司，智元机器人有这些新布局",
+    "summary": "智元机器人入股原动力智能公司，布局新业务领域。此次投资旨在拓展其在智能科技方面的应用，具体细节尚未披露。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548707.shtml"
+  },
+  {
+    "id": 18,
+    "title": "该公司经营范围含智能机器人的研发、人工智能行业应用系统集成服务、智能控制系统集成等投资时间网、标点财经快讯天眼查App显示，近日，原动力(深圳)智能有限公司发生工商变更，新增智元机 ...",
+    "summary": "原动力（深圳）智能有限公司近日发生工商变更，新增智元机器人为股东。该公司经营范围包括智能机器人研发、人工智能行业应用系统集成服务及智能控制系统集成等。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548707.shtml"
+  },
+  {
+    "id": 19,
+    "title": "商务部回应两起涉欧反倾销调查：对位芳纶长丝、乙叉降冰片烯立案符合法定条件",
+    "summary": "商务部宣布对原产于欧盟的进口对位芳纶长丝和乙叉降冰片烯发起反倾销立案调查，两起案件均符合法定条件。商务部新闻发言人表示，调查将依法依规进行，充分保障各方合法权益。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548658.shtml"
+  },
+  {
+    "id": 20,
+    "title": "11月6日，商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问。商务部新闻发言人表示，相关调查均应国内产业申请发起。申请人提供的初步证据显示，2023年 ...",
+    "summary": "商务部新闻发言人11月6日就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问时表示，相关调查均应国内产业申请发起。申请人提供的初步证据显示，2023年相关进口产品存在倾销行为，对国内产业造成损害。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548658.shtml"
+  },
+  {
+    "id": 21,
+    "title": "参院银行委换帅：华伦掌权，BTC 监管不确定性延长",
+    "summary": "美国参议院银行委员会换帅，伊丽莎白·华伦接掌该委员会。这一人事变动意味着比特币及加密货币监管的不确定性将进一步延长。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548526.shtml"
+  },
+  {
+    "id": 22,
+    "title": "据 Woofun AI消息，美国参议院在11月3日中期选举中由民主党重掌控制权，这一政治格局的逆转使伊莉莎白.华伦预计将于2027年1月出任参议院银行委员会主席。作为国会内对加密货币持最严厉批评 ...",
+    "summary": "美国参议院在11月3日中期选举中由民主党重掌控制权，伊莉莎白·华伦预计将于2027年1月出任参议院银行委员会主席。作为国会内对加密货币持最严厉批评态度的议员之一，华伦的上任可能对加密货币政策格局产生重大影响。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548526.shtml"
+  },
+  {
+    "id": 23,
+    "title": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问",
+    "summary": "商务部新闻发言人就涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯两起反倾销调查答记者问，表示调查机关将依法开展调查，充分保障各利害关系方权利，并根据调查结果客观公正作出裁决。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548284.shtml"
+  },
+  {
+    "id": 24,
+    "title": "据商务部消息，有记者问：我们关注到商务部今日对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起两起反倾销调查，能否介绍相关情况？答：相关调查均应国内产业申请发起。申请人提供的初步证 ...",
+    "summary": "商务部应国内产业申请，对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起两起反倾销调查。申请人提供了初步证据，相关调查程序已启动。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548284.shtml"
+  },
+  {
+    "id": 25,
+    "title": "外交部：中美要相向而行 推动经贸关系持续稳定向好发展",
+    "summary": "外交部发言人表示，中美双方应相向而行，共同推动两国经贸关系持续稳定向好发展。中方强调，健康稳定的中美经贸关系符合双方共同利益，希望美方与中方一道为此作出努力。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548256.shtml"
+  },
+  {
+    "id": 26,
+    "title": "11月6日，外交部发言人郭嘉昆主持例行记者会。有记者就进口美国农产品一事提问。对此，郭嘉昆表示，这个问题建议向中方主管部门进一步询问。维护中美经贸关系稳定发展，符合两国和两国人民 ...",
+    "summary": "11月6日，外交部发言人郭嘉昆主持例行记者会，就记者关于进口美国农产品的提问回应称建议向中方主管部门进一步询问。郭嘉昆表示，维护中美经贸关系稳定发展符合两国和两国人民的利益。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548256.shtml"
+  },
+  {
+    "id": 27,
+    "title": "有记者问：我们关注到商务部今日对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起两起反倾销调查，能否介绍相关情况？答：相关调查均应国内产业申请发起。申请人提供的初步证据显示，2023年 ...",
+    "summary": "商务部应国内产业申请，对涉及欧盟的进口对位芳纶长丝和乙叉降冰片烯发起两起反倾销调查。申请人提供的初步证据显示，2023年相关产品进口存在倾销行为。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548215.shtml"
+  },
+  {
+    "id": 28,
+    "title": "中瑞双方推动自贸协定升级议定书早日生效实施",
+    "summary": "中瑞双方表示将共同推动自贸协定升级议定书早日生效实施。双方同意在贸易、投资、金融、环保等领域加强合作，并支持尽快启动中瑞自贸协定新一轮谈判。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548064.shtml"
+  },
+  {
+    "id": 29,
+    "title": "近日，中国与瑞士在北京签署了自贸协定升级议定书。在5日举行的例行新闻发布会上，商务部新闻发言人黄玲表示，下一步，中瑞双方将分别履行各自国内程序，推动议定书早日生效实施。据介绍， ...",
+    "summary": "中国与瑞士近日在北京签署自贸协定升级议定书。商务部新闻发言人黄玲5日在例行新闻发布会上表示，下一步中瑞双方将分别履行各自国内程序，推动议定书早日生效实施。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681548064.shtml"
+  },
+  {
+    "id": 30,
+    "title": "港交所：前三季度营收为246亿港元 同比增长12%",
+    "summary": "港交所前三季度营收246亿港元，同比增长12%。",
+    "image_url": "",
+    "date": "2026-11-05",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261106/c681547993.shtml"
+  }
+]
