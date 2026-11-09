@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "资本正在撤离“世界模型”",
+    "summary": "资本正在撤离“世界模型”领域，行业不再处于持续火热的“夏天”状态。新闻以“没有永远的夏天”点明资本退潮的趋势，但未披露具体数据或人名。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508466.html"
+  },
+  {
+    "id": 2,
+    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+    "summary": "AI写代码速度过快导致GitHub等基础设施不堪重负，OpenAI已收购替代产品，A社选择原地自研，马斯克也计划入局。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508449.html"
+  },
+  {
+    "id": 3,
+    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+    "summary": "OpenAI新融资到账110亿美元，仅为原计划的一半，显示融资规模大幅缩水。硅谷投资人对OpenAI的投资态度趋于谨慎。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508344.html"
+  },
+  {
+    "id": 4,
+    "title": "为了去AI味，人类开始主动写烂文章了……",
+    "summary": "人类为去除AI写作痕迹开始主动写烂文章，但不会说人话不一定是人，说人话的也不一定不是AI。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508330.html"
+  },
+  {
+    "id": 5,
+    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+    "summary": "硅谷华人团队抢在DeepSeek之前研发出下一代Agent Harness，直指当前单Session架构的局限。两大Agent玩家对此不谋而合，共同推动这一技术方向。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508264.html"
+  },
+  {
+    "id": 6,
+    "title": "AGENTS.MD，危险危险危险！！！",
+    "summary": "一种名为AGENTS.MD的全新电脑病毒被曝光，存在严重安全风险。该病毒的危险性引发关注，需警惕其传播与危害。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508244.html"
+  },
+  {
+    "id": 7,
+    "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+    "summary": "浙大00后博士生主导开发的世界模型，将十几种物理要素集成于单一模型，并基于华为昇腾平台实现原生运行。该成果被称为中国版Cosmos，展示了在物理世界建模领域的新进展。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508236.html"
+  },
+  {
+    "id": 8,
+    "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+    "summary": "谷歌的Jeff Dean与李飞飞在最新对谈中围绕递归自我改进（RSI）展开讨论，双方在多个关键问题上存在明显非共识。核心分歧之一在于RSI的速度上限，对谈明确指出RSI不可能无限快。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/508196.html"
+  },
+  {
+    "id": 9,
+    "title": "字节AI大洗牌，扣子和Trae陨落",
+    "summary": "字节在一个月内接连调整三条AI产品线：扣子企业版宣布分阶段下线，TraeWork独立客户端结束服务，TRAE中国版个人账号将升级为豆包飞书账号。字节正减少独立入口、合并客户端、统一账号，将分散的AI产品和能力逐步整合到豆包体系中。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/83122.html"
+  },
+  {
+    "id": 10,
+    "title": "红果4.3亿月活，腾讯这次能撼动吗？",
+    "summary": "红果短剧月活已达4.3亿，腾讯正从用户和内容两条路线同时发力试图撼动其市场地位。微视新增独立短剧入口，并通过看剧领金币、兑换现金等活动抢夺用户；微信绿泡泡则开出最高90%现金分成，并从公众号挖掘小说改编短剧以争夺内容资源。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82962.html"
+  },
+  {
+    "id": 11,
+    "title": "WorkBuddy实测：AI做的PPT能改，还能变身演讲台",
+    "summary": "WorkBuddy装上两个GitHub开源Skill后实测AI生成演示文稿：PPT-Master可直接生成可用PowerPoint打开编辑的标准PPTX文件，此次共生成5页，涵盖封面、核心指标、增长表现、关注议题和下一季度行动计划；另一Skill则将演示文稿变成可翻页、同步观众屏的网页。",
+    "image_url": "",
+    "date": "2026-11-07",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/82944.html"
+  },
+  {
+    "id": 12,
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "summary": "英伟达周日宣布对CEO黄仁勋与中国政府代理人、AI高管Alice Huang的关系展开调查。除董事会宣布调查外，黄仁勋还向英伟达员工发送备忘录承认了这段关系。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+  },
+  {
+    "id": 13,
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "summary": "英伟达宣布对CEO黄仁勋与Megaspeed高管Alice Huang的关系展开调查，后者据报被中国国家安全部招募从事间谍活动。英伟达董事会已发布声明，启动独立调查。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+  },
+  {
+    "id": 14,
+    "title": "Apple is racing to make Siri more agentic",
+    "summary": "彭博社的马克·古尔曼称，CEO约翰·特努斯正施压AI负责人克雷格·费德里吉，要求加速Siri路线图，打造能与OpenAI的Dots或Meta的Muse竞争的强大AI智能体。费德里吉已在极短时间内交付了可用版本的Siri AI，但公司对此并不抱幻想。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+  },
+  {
+    "id": 15,
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "summary": "猫王埃尔维斯·普雷斯利的音乐版权方和埃米纳姆部分热门唱片出版商起诉AI音乐公司Suno，指控其非法生成模仿这两位艺术家的音乐和歌词。普雷斯利一案的律师称Suno违反了田纳西州相关法律。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”），无法生成摘要。请补充完整的新闻正文内容。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "农行郓城唐塔支行：零钱虽细碎 服务见真心",
+    "summary": "农行郓城唐塔支行员工耐心为客户清点大量零钱，以细致服务解决客户难题。该行用实际行动诠释了“零钱虽细碎，服务见真心”的理念，赢得客户认可。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606565.shtml"
+  },
+  {
+    "id": 18,
+    "title": "大众网记者刘陶然通讯员刘文慧菏泽报道金融服务无小事，细碎零钱见温情。柜面服务不仅要高效办结常规业务，更要用心对待每一位客户、承接每一笔琐碎业务。日常经营中，不少个体商户、小微经 ...",
+    "summary": "大众网记者刘陶然、通讯员刘文慧菏泽报道，银行柜面服务注重高效办理常规业务的同时，也用心对待每一位客户和琐碎零钱业务。日常经营中不少个体商户和小微经营者常需处理大量零钞，柜面人员耐心承接此类业务，体现金融服务温情。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606565.shtml"
+  },
+  {
+    "id": 19,
+    "title": "FORTIOR涨超5% 积极布局机器人赛道 拟收购Sciosense补齐物理感知能力",
+    "summary": "FORTIOR股价涨超5%，公司正积极布局机器人赛道，并拟收购Sciosense以补齐物理感知能力。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606544.shtml"
+  },
+  {
+    "id": 20,
+    "title": "FORTIOR(01304)涨超5%，截至发稿，涨4.92%，报123.6港元，成交额7027.12万港元。消息面上，峰岹科技近日在投资者关系活动记录表披露，公司目前已经机器人领域主要产品布局包括：与三花控股 ...",
+    "summary": "峰岹科技（FORTIOR，01304）股价涨超5%，截至发稿涨4.92%，报123.6港元，成交额7027.12万港元。公司在投资者关系活动中披露，其机器人领域主要产品布局包括与三花控股的合作。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606544.shtml"
+  },
+  {
+    "id": 21,
+    "title": "司法兜底来了！无障碍治理迈入公益诉讼共治新阶段",
+    "summary": "最高人民检察院与中国残联联合发布意见，将无障碍环境建设纳入公益诉讼重点监督领域，明确对违规行为可提起公益诉讼。此举标志着无障碍治理从行政监管迈向司法兜底与公益诉讼共治的新阶段。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606522.shtml"
+  },
+  {
+    "id": 22,
+    "title": "华夏时报记者王晓慧北京报道2026年11月6日，是我国检察公益诉讼法治发展史上具有里程碑意义的日子。这一天，第十四届全国人民代表大会常务委员会第二十五次会议审议通过《中华人民共和国检 ...",
+    "summary": "2026年11月6日，第十四届全国人大常委会第二十五次会议审议通过了《中华人民共和国检察公益诉讼相关法律》，标志着我国检察公益诉讼法治发展进入新阶段。该法律的出台被视为检察公益诉讼法治发展史上的里程碑事件。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606522.shtml"
+  },
+  {
+    "id": 23,
+    "title": "精准管理技术出口 护航高水平开放",
+    "summary": "中国发布《两用物项出口管制条例》，对既有核、导弹、生物、化学等管制清单进行整合，并新增对关键矿产、先进材料等领域的出口管制措施。条例建立统一管制清单和动态调整机制，明确出口经营者登记制度与最终用户最终用途管理要求，同时设置通用许可等便利化安排。商务部表示，此举旨在精准管理技术出口、维护国家安全，同时护航高水平对外开放。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606501.shtml"
+  },
+  {
+    "id": 24,
+    "title": "■中国经济时报记者 李海楠在全球科技竞争日趋激烈、技术跨境流动风险上升的背景下，依法规范关键技术出口、防范技术失控和不当扩散，既是筑牢国家安全屏障的必然要求，也是保障正常国际技 ...",
+    "summary": "中国经济时报记者李海楠报道，在全球科技竞争加剧和技术跨境流动风险上升的背景下，依法规范关键技术出口、防范技术失控和不当扩散，既是筑牢国家安全屏障的必然要求，也是保障正常国际技术合作的重要基础。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606501.shtml"
+  },
+  {
+    "id": 25,
+    "title": "利嘉阁(工商铺)：10月香港工商铺物业成交351宗显著回调 创近一年新低",
+    "summary": "利嘉阁(工商铺)数据显示，10月香港工商铺物业成交351宗，显著回调并创近一年新低。该行指出，市场观望气氛浓厚，预计短期内成交仍将受压。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606496.shtml"
+  },
+  {
+    "id": 26,
+    "title": "利嘉阁(工商铺)地产董事黄应年表示，香港工商铺整体买卖登记在经历前月短暂回升后，于10月份再度调整。据土地注册处初步临时数字，2026年10月份仅录得351宗工商铺物业买卖登记，较9月份的46 ...",
+    "summary": "利嘉阁(工商铺)地产董事黄应年表示，香港工商铺整体买卖登记在9月短暂回升后，10月再度调整，仅录得351宗工商铺物业买卖登记。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606496.shtml"
+  },
+  {
+    "id": 27,
+    "title": "预告：商务部定于11月12日召开11月第2次例行新闻发布会",
+    "summary": "商务部定于11月12日召开11月第2次例行新闻发布会。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606363.shtml"
+  },
+  {
+    "id": 28,
+    "title": "每经AI快讯，11月9日消息，商务部定于2026年11月12日(星期四)下午3时举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。每日经济新闻 ...",
+    "summary": "商务部定于2026年11月12日（星期四）下午3时举行新闻发布会，由新闻发言人介绍近期商务领域重点工作有关情况并答记者问。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606363.shtml"
+  },
+  {
+    "id": 29,
+    "title": "外交部回应美国输华芯片相关问题",
+    "summary": "外交部发言人就美国输华芯片问题作出回应，表示中方已多次表明立场。发言人强调，美方滥用出口管制措施，严重违反国际贸易规则，损害中国企业合法权益。中方敦促美方立即纠正错误做法，停止无理打压中国企业。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606172.shtml"
+  },
+  {
+    "id": 30,
+    "title": "据央视新闻，11月9日，外交部发言人郭嘉昆主持例行记者会。有记者就美国输华芯片相关问题提问。郭嘉昆表示，中方在美国输华芯片问题上的立场是一贯的，具体情况建议向中方主管部门询问。 ...",
+    "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会，就美国输华芯片相关问题答问。郭嘉昆表示，中方在这一问题上的立场是一贯的，具体情况建议向中方主管部门询问。",
+    "image_url": "",
+    "date": "2026-11-08",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261109/c681606172.shtml"
+  }
+]
