@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+    "summary": "谷歌即将推出Gemini新模型“Neon”，引发网友调侃“遍历元素周期表”。此前Gemini系列模型命名已涉及多个化学元素，Neon延续了这一命名风格。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/510922.html"
+  },
+  {
+    "id": 2,
+    "title": "GPT-6.2难产！OpenAI怕了",
+    "summary": "OpenAI的GPT-6.2开发遇阻，项目进展不顺。报道将当前OpenAI的处境类比为2022年谷歌在AI竞争中的被动局面，暗示其正面临类似的创新压力与市场挑战。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/510914.html"
+  },
+  {
+    "id": 3,
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "summary": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线。该平台致力于对医疗健康领域的人工智能产品进行独立评估与分析。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/510916.html"
+  },
+  {
+    "id": 4,
+    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+    "summary": "思维链作者Jason Wei在入职Meta仅一年出头后便离职。这位知名AI研究员在Meta的短暂任职引发关注，其去向尚未明确。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/510811.html"
+  },
+  {
+    "id": 5,
+    "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+    "summary": "具身智能公司Genesis完成A轮融资，估值超230亿元。英伟达与AMD首次联手押注该公司。Genesis定位为具身全栈玩家。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "量子位",
+    "source_url": "https://www.qbitai.com/2026/11/510821.html"
+  },
+  {
+    "id": 6,
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "summary": "纽约、洛杉矶和芝加哥的学区正在考虑弃用谷歌搜索，因为谷歌表示，选择不使用其人工智能功能的学校将被禁用搜索服务。从明年起，学校若想关闭Gemini驱动功能，将无法同时保留搜索功能。谷歌的克里斯·菲利普斯表示……",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+  },
+  {
+    "id": 7,
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "summary": "特朗普总统周二抵达菲律宾时，受到五位选美冠军的迎接，一名儿童向他献上美国和菲律宾小国旗，乐队演奏了特朗普集会常见的《YMCA》。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+  },
+  {
+    "id": 8,
+    "title": "Nvidia’s rise, visualized",
+    "summary": "英伟达每秒净利润高达8300美元，读完一段话的工夫就能入账约4.5万美元。这家刚因一系列事件失去富有远见的创始人CEO的公司，其崛起速度令人瞩目。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
+  },
+  {
+    "id": 9,
+    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+    "summary": "2026年科技诉讼成为焦点，立法者希望在年底前通过针对深度伪造创作者及阻止用户提起诉讼的在线平台的新保护措施。周二，参议院司法小组委员会成员举行听证会，呼吁终止在线强制仲裁。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
+  },
+  {
+    "id": 10,
+    "title": "What is Nvidia without AI’s sugar daddy in charge?",
+    "summary": "英伟达的未来是否取决于AI“金主”黄仁勋？如果AI革命完全依赖一人，那这项技术或许并不如想象中稳健。硅谷部分人士坚称黄仁勋不可或缺，而马斯克的说法也引发关注。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+  },
+  {
+    "id": 11,
+    "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+    "summary": "迪士尼幻想工程研发部门近日展示了三个新型音频动画人偶原型，这些原型借助亚马逊的技术，利用人工智能与游客进行互动。与传统人偶依赖预设动作或幕后人员操控不同，新原型能更自发地回应游客。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
+  },
+  {
+    "id": 12,
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "summary": "今年夏天，OpenAI因其AI代理意外入侵Hugging Face，且早期证据显示其下一代模型可能自主发现并利用安全漏洞，而暂停了最大规模的前沿训练计划。9月，Anthropic首席执行官达里奥·阿莫代伊呼吁放缓最强大AI模型的发展，警告其可能被滥用。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+  },
+  {
+    "id": 13,
+    "title": "Will Wright’s next game uses AI to map your memories",
+    "summary": "《模拟城市》和《模拟人生》的创作者威尔·赖特正在开发一款围绕AI构建的新游戏《MyMems》，该游戏聚焦于玩家的记忆。与赖特的其他作品一样，这款游戏听起来极具野心，将为玩家提供一种探索自己创造世界的新方式。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+  },
+  {
+    "id": 14,
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "summary": "英伟达已停止向中国出口其先进的人工智能芯片，尽管去年12月曾获得白宫批准。临时首席执行官科莱特·克雷斯在周二的财报电话会议上宣布了这一消息，标志着公司在黄仁勋领导下的重大转变。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+  },
+  {
+    "id": 15,
+    "title": "Suno now lets you make AI videos for your AI music",
+    "summary": "Suno在其最新功能“Visuals”中引入了图像和视频生成能力，用户可将Suno歌曲转化为自动对口型歌词的AI视频片段，或通过提示描述生成图像用作缩略图和专辑封面。此举旨在将Suno从AI音乐平台扩展至更广泛的创作领域。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+  },
+  {
+    "id": 16,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容为空（仅有标题“查看网站地图”和“内容：”字样，无正文），无法提炼摘要。请补充新闻正文后重试。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 17,
+    "title": "全球市场行情 >",
+    "summary": "很抱歉，您提供的新闻内容为空（仅显示“标题：全球市场行情 >”和“内容：”），没有可供概括的具体新闻正文。请补充完整的新闻内容，我将为您提炼2-3句中文摘要。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "https://q.10jqka.com.cn/qqsc/"
+  },
+  {
+    "id": 18,
+    "title": "透视名创优品三季报：五个值得关注的细节变化",
+    "summary": "名创优品第三季度财报显示，公司营收同比增长，但净利润出现下滑。财报中透露出五个值得关注的细节变化，包括门店扩张策略调整和海外市场表现分化。这些变化反映了公司在应对消费环境变化时的战略调整。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682003412.shtml"
+  },
+  {
+    "id": 19,
+    "title": "第三季度名创优品主品牌海外收入同比增长1.7%，低于内地29.6%的增速投资时间网、标点财经研究员董琳11月17日，名创优品集团控股有限公司(下称名创优品，MNSO.N、9896.HK)发布2026年第三季度 ...",
+    "summary": "名创优品2026年第三季度主品牌海外收入同比增长1.7%，低于内地29.6%的增速。该数据由投资时间网、标点财经研究员董琳于11月17日发布。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682003412.shtml"
+  },
+  {
+    "id": 20,
+    "title": "商务部消费促进司负责人谈2026年1-10月我国消费市场情况",
+    "summary": "商务部消费促进司负责人就2026年1-10月消费市场情况表示，当期消费市场总体保持平稳增长态势。该负责人指出，以旧换新等政策效应持续释放，服务消费和线上消费表现活跃，但部分品类消费仍面临一定压力。下一步将围绕促消费重点领域进一步发力，巩固市场回升向好基础。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682003167.shtml"
+  },
+  {
+    "id": 21,
+    "title": "今年以来，我国消费市场规模继续稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点。1-10月，社会消费商品和服务零售总额同比(下同)增长2.5%。一是商品消费保持平稳。1-10月，社会消 ...",
+    "summary": "今年以来我国消费市场规模稳步扩大，1-10月社会消费商品和服务零售总额同比增长2.5%，呈现商品消费稳、服务消费旺、新型消费热的特点。其中商品消费保持平稳。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682003167.shtml"
+  },
+  {
+    "id": 22,
+    "title": "海河水利委员会党组深入学习贯彻习近平总书记关于治水重要论述精神",
+    "summary": "海河水利委员会党组召开会议，深入学习贯彻习近平总书记关于治水的重要论述精神。会议强调要准确把握治水思路，结合海河流域实际，将学习成果转化为推动水利高质量发展的具体行动。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002947.shtml"
+  },
+  {
+    "id": 23,
+    "title": "本站讯 11月18日，海河水利委员会党组书记、主任钟勇主持召开党组会议，深入学习贯彻习近平总书记“3.14”重要讲话精神和习近平总书记关于治水重要讲话指示批示精神，学习回顾毛泽东主 ...",
+    "summary": "海河水利委员会党组书记、主任钟勇11月18日主持召开党组会议，深入学习贯彻习近平总书记“3.14”重要讲话精神和关于治水的重要讲话指示批示精神，学习回顾毛泽东主席关于治理黄河的重要论述。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002947.shtml"
+  },
+  {
+    "id": 24,
+    "title": "贝壳：三年化解平台房款风险交易10.9万单，避免潜在损失582.6亿元",
+    "summary": "贝壳在三年内化解平台房款风险交易10.9万单，避免潜在损失582.6亿元。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002815.shtml"
+  },
+  {
+    "id": 25,
+    "title": "北京商报讯(记者王寅浩)11月18日，贝壳在年度发布会上公布的一组数据引发关注。2001年至2026年10月，全平台服务承诺累计履约47.7万单，其中真保障体系内的房款安全承诺，3年时间前置识别并 ...",
+    "summary": "北京商报记者王寅浩11月18日报道，贝壳在年度发布会上公布数据显示，2001年至2026年10月，全平台服务承诺累计履约47.7万单。其中真保障体系内的房款安全承诺在3年时间内实现前置识别并处理相关风险。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002815.shtml"
+  },
+  {
+    "id": 26,
+    "title": "百利天恒收到第二笔2.5亿美元里程碑付款 国产创新药出海进入兑现期",
+    "summary": "百利天恒收到第二笔2.5亿美元里程碑付款，国产创新药出海进入兑现期。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002605.shtml"
+  },
+  {
+    "id": 27,
+    "title": "11月18日，四川百利天恒药业股份有限公司(以下简称“百利天恒”)披露公告称，公司全资子公司SystImmune，Inc.(以下简称“SystImmune”)再度收到百时美施贵宝(BMS) ...",
+    "summary": "百利天恒11月18日公告，其全资子公司SystImmune再度收到百时美施贵宝（BMS）支付的款项。该笔款项基于双方此前达成的合作协议，具体金额未在标题中披露。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682002605.shtml"
+  },
+  {
+    "id": 28,
+    "title": "商务部：这个“双十一”让买算力像充话费一样简单",
+    "summary": "商务部新闻发言人何亚东在11月6日例行新闻发布会上表示，“双十一”期间将让买算力像充话费一样简单。商务部将推动算力资源便捷获取，降低中小企业使用门槛。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682001354.shtml"
+  },
+  {
+    "id": 29,
+    "title": "南都讯 记者杨文君 发自北京 11月19日，商务部举行例行新闻发布会，新闻发言人何亚东介绍了今年“双十一”的消费情况。何亚东表示，今年的“双十一”整体平稳，呈现出线上线下联动、商品服 ...",
+    "summary": "商务部新闻发言人何亚东在11月19日例行新闻发布会上介绍，今年“双十一”整体平稳，呈现线上线下联动、商品服务融合等特点。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c682001354.shtml"
+  },
+  {
+    "id": 30,
+    "title": "超500家公司获外资密集调研，跨年配置线索渐显",
+    "summary": "近期超过500家A股公司获外资机构密集调研，外资布局跨年行情的配置线索逐渐清晰。从调研方向看，外资重点关注科技、高端制造等景气度较高的板块，为年末及明年布局寻找方向。",
+    "image_url": "",
+    "date": "2026-11-18",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261119/c681998840.shtml"
+  }
+]
