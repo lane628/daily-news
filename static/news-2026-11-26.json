@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "不用让出屏幕：TRAE 支持后台执行电脑任务",
+    "summary": "TRAE支持Agent在后台执行电脑任务，解决了以往Agent操作电脑时需将目标应用切到前台、与用户争用键鼠的问题。常见做法是显示遮罩并检测用户输入，冲突时Agent暂停，但仍存在互相干扰、误触中断任务等问题。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86776.html"
+  },
+  {
+    "id": 2,
+    "title": "腾讯翻译Agent上线，实用强悍如斯，关键还免费",
+    "summary": "腾讯上线了免费的浏览器翻译Agent“腾讯Hy翻译”，支持网页翻译、划词翻译、AI问答、多文件翻译及本地模型离线翻译等功能。该产品基于腾讯新发布并开源的第三代混元翻译模型Hy MT3，相比Hy MT2，其误译样本比例降低43%，翻译更准确完整。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86661.html"
+  },
+  {
+    "id": 3,
+    "title": "淘宝闪购实战分享：从人工设计到 AI 智能设计全流程",
+    "summary": "淘宝闪购设计工作长期依赖设计师按规范手工完成设计稿，质量高度依赖个人经验与状态，重复绘制、反复校对和规范走样难以避免，从设计稿到上线还需经历前端手动还原等多个环节。AI正在改变设计的执行方式，推动设计流程从人工设计向AI智能设计全流程转变。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86512.html"
+  },
+  {
+    "id": 4,
+    "title": "货拉拉大数据智能运维AI Agent探索实践",
+    "summary": "货拉拉面对多云多地域10余个数据中心的大数据集群运维挑战，分享了从自动化运维平台TSL到智能运维AI Agent的完整建设路径，涵盖流程编排、根因分析、告警自愈、多Agent架构与运维知识库等核心能力，推动运维从人工经验驱动向智能化演进。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86419.html"
+  },
+  {
+    "id": 5,
+    "title": "TRAE 上线抖音小游戏工具！0 基础也能做，优质作品可获抖音扶持",
+    "summary": "TRAE正式上线抖音开发工具和抖音小游戏经营分析工具，支持边开发边调试及上线后数据打磨。同时推出免费训练营和两个创作活动，0基础创作者也能做出小游戏。符合条件的作品可获DOU+投流支持，入选游戏上架后有机会获得资源位推荐。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86396.html"
+  },
+  {
+    "id": 6,
+    "title": "如何搭建一个端到端业务需求专家 Agent",
+    "summary": "本文提出了一套已在真实业务中跑通的端到端业务需求专家Agent研发闭环系统，通过上下文输入层、业务专家编排层、工具执行层和反馈学习层四层架构，将需求从澄清到结项沉淀组织为自动化流程。系统核心创新在于设置需求澄清、技术方案、内部质量三道质量门禁，采用TDD驱动实现并强制反馈留痕，使Agent能基于组织好的上下文自主推进需求，人仅在关键节点确认，并通过持续吸收CR评论、验收记录和人工修正形成自我成长闭环。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86373.html"
+  },
+  {
+    "id": 7,
+    "title": "深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路",
+    "summary": "DeepSeek Harness团队于今年十月底开源了原型项目DSH Super-agent，并发布技术文章阐述其面向“自主Agent”的设计哲学与架构思考。官方坦承该项目仍处于原型阶段。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "AI星球",
+    "source_url": "https://www.aixq.cc/86335.html"
+  },
+  {
+    "id": 8,
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "summary": "美国42州总检察长联合采取行动，试图阻止Character.AI在破产程序中出售用户聊天数据。该公司被指计划拍卖超过2100万个美国账户的私人聊天记录。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+  },
+  {
+    "id": 9,
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "summary": "谷歌去年申请了一项名为“我的频道”的专利，该系统旨在根据用户信息生成个性化AI视频和广告推送。该专利已被驳回，但谷歌可能提出上诉或重新提交修改版本。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+  },
+  {
+    "id": 10,
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "summary": "美国联邦通信委员会（FCC）周三宣布，已授权SpaceX部署多达100万颗配备AI芯片的卫星，作为马斯克旗下公司“Starmind”计划的一部分。这是该机构首次批准此类项目，谷歌和蓝色起源等公司也在推进将AI数据中心送入太空的设想。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  {
+    "id": 11,
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "summary": "Nothing公司展示了即将于12月8日发布的AI耳机Ear Note的更多细节。该耳机可录制通话，其充电盒能录制、转录并总结对话内容。与Ear 3类似，Ear Note配备麦克风的充电盒设有“Talk”按钮。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+  },
+  {
+    "id": 12,
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "summary": "据《财富》报道，亚马逊已就允许Meta的Muse AI代理在其在线市场购物一事进行谈判，讨论可能结束亚马逊对Muse的封锁。谈判核心在于该AI代理推荐的产品种类及其对亚马逊广告收入的潜在影响。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+  },
+  {
+    "id": 13,
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "summary": "强大的vibe编程代理和Reverse Engineer Anything等工具的出现，在音乐设备行业引发混乱，各公司纷纷设法应对。罗兰等部分公司暂时保持沉默，另一些公司则选择拥抱改装社区。过去几周情况已逐渐明朗，但目前仍无定论。",
+    "image_url": "",
+    "date": "2026-11-25",
+    "category": "ai",
+    "source": "The Verge - AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+  },
+  {
+    "id": 14,
+    "title": "查看网站地图\n            >",
+    "summary": "抱歉，您提供的新闻内容仅为“查看网站地图 >”，没有包含任何实质性的新闻正文、数据或人名，因此无法生成摘要。请补充完整的新闻内容。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://www.10jqka.com.cn/sitemap_index.shtml"
+  },
+  {
+    "id": 15,
+    "title": "开立医疗：预计明年需求好于今年，下半年超声、内镜终端招标已复苏",
+    "summary": "开立医疗预计明年市场需求将好于今年，下半年超声和内镜终端招标已呈现复苏态势。公司对后续市场表现持乐观预期。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309337.shtml"
+  },
+  {
+    "id": 16,
+    "title": "新京报贝壳财经讯(记者丁爽)11月27日，开立医疗发布的投资者关系活动记录表显示，此前，公司在接受投资者调研时介绍，预计2027年医疗设备行业市场需求将好于今年。开立医疗表示，2026年上半 ...",
+    "summary": "开立医疗在11月27日发布的投资者关系活动记录表中表示，预计2027年医疗设备行业市场需求将好于今年。公司同时介绍了2026年上半年的相关情况。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309337.shtml"
+  },
+  {
+    "id": 17,
+    "title": "利好又来了！国务院国资委最新部署",
+    "summary": "国务院国资委最新部署要求中央企业加快布局战略性新兴产业，力争到2025年战略性新兴产业营收占比显著提升。国资委主任张玉卓表示，将加大政策支持力度，推动央企在新能源、人工智能等领域形成新增长极。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309334.shtml"
+  },
+  {
+    "id": 18,
+    "title": "11月27日，国务院国资委召开中央企业专业化整合推进会。国务院国资委党委委员、副主任李镇提出，要用好专业化整合这个重要工具，有效发挥聚资源、调结构、优配置、防内耗的重要作用，为进一 ...",
+    "summary": "国务院国资委党委委员、副主任李镇在11月27日召开的中央企业专业化整合推进会上提出，要用好专业化整合这一重要工具，有效发挥聚资源、调结构、优配置、防内耗的重要作用。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309334.shtml"
+  },
+  {
+    "id": 19,
+    "title": "协创数据：拟向全资子公司增资10亿元",
+    "summary": "协创数据计划向其全资子公司增资10亿元。此次增资旨在支持子公司的业务发展。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309144.shtml"
+  },
+  {
+    "id": 20,
+    "title": "11月27日，协创数据(300857.SZ)公告称，公司拟使用自有或自筹资金10亿元向全资子公司协创智算增资，全部计入资本公积，增资后协创智算注册资本保持不变，仍为6亿元。本次增资已获董事会审议 ...",
+    "summary": "协创数据(300857.SZ)11月27日公告，拟使用自有或自筹资金10亿元向全资子公司协创智算增资，全部计入资本公积。增资后协创智算注册资本保持不变，仍为6亿元，本次增资已获董事会审议通过。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309144.shtml"
+  },
+  {
+    "id": 21,
+    "title": "国常会首提“国家队”，加力发挥稳市作用！总规模快速增至2.9万亿元",
+    "summary": "国常会首次提出“国家队”概念，强调加力发挥稳市作用。相关资金总规模已快速增至2.9万亿元。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309021.shtml"
+  },
+  {
+    "id": 22,
+    "title": "国务院总理李强11月27日主持召开国务院常务会议，研究持续深化资本市场投融资综合改革工作。会议中重点提到“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，提供充足流动 ...",
+    "summary": "国务院总理李强11月27日主持召开国务院常务会议，研究持续深化资本市场投融资综合改革工作。会议重点提到“国家队”稳市作用，要求进一步优化中央汇金公司的类“平准基金”功能，提供充足流动性。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682309021.shtml"
+  },
+  {
+    "id": 23,
+    "title": "港股午后“火箭发射”！恒生科技狂飙6%创年内纪录，“国家队”加力稳市了",
+    "summary": "港股午后强势拉升，恒生科技指数大涨6%创年内最大单日涨幅。市场分析认为这与“国家队”资金加大稳市力度有关。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682308793.shtml"
+  },
+  {
+    "id": 24,
+    "title": "今日(11月27日)，港股市场午后大爆发，恒生科技指数涨超6%，创下年内最大单日涨幅。截至收盘，恒生指数报22688.68点，上涨467.89点，涨幅2.11%。恒生科技指数收盘报3637.88点，上涨220.50点 ...",
+    "summary": "11月27日，港股市场午后大幅上涨，恒生科技指数涨超6%，创年内最大单日涨幅。恒生指数收报22688.68点，上涨467.89点，涨幅2.11%；恒生科技指数收报3637.88点，上涨220.50点。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682308793.shtml"
+  },
+  {
+    "id": 25,
+    "title": "国务院国资委部署央企专业化整合 坚决化解同质化竞争",
+    "summary": "国务院国资委部署央企专业化整合，要求坚决化解同质化竞争。会议提出通过整合提升资源配置效率，推动央企聚焦主责主业。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682308287.shtml"
+  },
+  {
+    "id": 26,
+    "title": "央广网北京11月27日消息（记者 万玉航）11月27日，国务院国资委召开中央企业专业化整合推进会。国务院国资委党委委员、副主任李镇出席会议并讲话。会议指出，当前新一轮深化国资国企改革已 ...",
+    "summary": "国务院国资委11月27日召开中央企业专业化整合推进会，副主任李镇出席讲话，指出新一轮深化国资国企改革已启动。会议围绕央企专业化整合作出部署，推动国有资本布局优化和结构调整。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682308287.shtml"
+  },
+  {
+    "id": 27,
+    "title": "汇丰控股11月26日斥资约1933.68万港元回购15万股",
+    "summary": "汇丰控股于11月26日斥资约1933.68万港元回购15万股公司股份。此次回购涉及金额约1933.68万港元，回购股数为15万股。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682307186.shtml"
+  },
+  {
+    "id": 28,
+    "title": "汇丰控股(00005)发布公告，于2026年11月26日该公司斥资约1933.68万港元回购15万股，回购价格为每股128.4至129.8港元。 ...",
+    "summary": "汇丰控股于2026年11月26日斥资约1933.68万港元回购15万股，回购价格区间为每股128.4至129.8港元。",
+    "image_url": "",
+    "date": "2026-11-26",
+    "category": "finance",
+    "source": "同花顺",
+    "source_url": "http://news.10jqka.com.cn/20261127/c682307186.shtml"
+  }
+]
